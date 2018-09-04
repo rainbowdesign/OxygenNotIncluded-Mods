@@ -1,18 +1,22 @@
-# HotterThanLavaMod
-Hotter Than Lava Mod The mod consists of different files:  
+Description:
 
-LavaHeaterMod.dll 
+The hotter than lava mod has three parts packed in dlls:
 
-make certain buildings immune to overheating and makes sure you can boil elements to liquid.  
+The hotter than lava basemod changes heater and pumps so they dont overheat or melt. With the mod you can melt (almost) anything.
 
-AnimalsMod.dll 
+The improved animals mod adds some more element transformations you can get from different hatches.
 
-Animals can now produce much more elements inclusive water and Pyrite.  
+The Elements mod makes the game little harder by changing stuff especially the building costs of the steam turbine making it rather hard to build.
 
-ElementsMod.dll 
+The frozen.yaml file replaces wolframite with tuned mercury which you can use as coolant. Without it the elements mod is more easy.
 
-A new Elements Chain that makes it much harder to build endgame Buildings.  
+Install:
 
-External mods are included in the folder they are from: 
+Install the Modloader first:
+https://github.com/javisar/ONI-Modloader
 
-https://github.com/javisar/ONI-Modloader-Mods
+Then Extract the zip file into OxygenNotIncluded 
+(the base folder you can find it with steam browse local files)
+
+Hints:
+Are in the hints.txt in the zip file.
