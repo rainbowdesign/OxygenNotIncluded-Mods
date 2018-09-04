@@ -20,3 +20,6 @@ Then Extract the zip file into OxygenNotIncluded
 
 Hints:
 Are in the hints.txt in the zip file.
+
+Special thanks to Cairath ( https://github.com/Cairath/ONI-Mods/tree/master/modfiles )
+And Javisar for example mods ( https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods )
