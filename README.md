@@ -5,11 +5,11 @@ The hotter than lava basemod changes **heater and pumps** so **they dont overhea
 
 - **ImprovedAnimalsMod.dll**
 
-The improved animals mod adds some more element transformations you can get from different **Hatches**: 
- - Hatches eat Diamond and regolith. 
- - Metal Hatches eat now MaficRock and Bleachstone. 
- - Rock Hatches now give off slime. 
- - Sage hatches eat Algae and give off polluted Water. There are some more changes.
+    - The improved animals mod adds some more element transformations you can get from different **Hatches**: 
+    - Hatches eat Diamond and regolith. 
+    - Metal Hatches eat now MaficRock and Bleachstone. 
+    - Rock Hatches now give off slime. 
+    - Sage hatches eat Algae and give off polluted Water. There are some more changes.
 
 
 - **AdaptedElementsMod.dll**
