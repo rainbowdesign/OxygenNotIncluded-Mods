@@ -29,3 +29,16 @@ Then copy the files into OxygenNotIncluded/Mods
 
 Special thanks to Cairath ( https://github.com/Cairath/ONI-Mods/tree/master/modfiles )
 And Javisar for example mods ( https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods )
+
+
+**Recommended Quality of Life Mods Javisar**
+-https://github.com/javisar/ONI-Modloader-Mods/blob/master/Mods/AllBuildingsDestroyableMod.dll
+-https://github.com/javisar/ONI-Modloader-Mods/blob/master/Mods/CustomWorldMod.dll
+-https://github.com/javisar/ONI-Modloader-Mods/blob/master/Mods/NoFixedTempMod.dll  Waterfilter output not fixed.
+
+
+**Recommended Quality of Life Mods Cairath**
+-https://github.com/Cairath/ONI-Mods/blob/master/modfiles/ConveyorFilter.dll
+-https://github.com/Cairath/ONI-Mods/blob/master/modfiles/ConveyorShutoff.dll
+-https://github.com/Cairath/ONI-Mods/blob/master/modfiles/PrettierConductiveHeavyWattWire.dll
+-https://github.com/Cairath/ONI-Mods/blob/master/modfiles/RefinedMetalsUsableAsRawMetals.dll
