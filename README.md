@@ -1,8 +1,8 @@
-- HotterThanLavaMod.dll
+- **HotterThanLavaMod.dll**
  - The hotter than lava basemod changes **heater and pumps** so **they dont overheat** and changes wolframite and tungsten to not melt. It also adds **Mercury as a coolant** that will stay liquid deep into minus degrees. 
 
 
-- ImprovedAnimalsMod.dll
+- **ImprovedAnimalsMod.dll**
  - The improved animals mod adds some more element transformations you can get from different **Hatches**: 
  - Hatches eat Diamond and regolith. 
  - Metal Hatches eat now MaficRock and Bleachstone. 
@@ -10,7 +10,7 @@
  - Sage hatches eat Algae and give off polluted Water. There are some more changes.
 
 
-- AdaptedElementsMod.dll
+- **AdaptedElementsMod.dll**
  - The mod makes it **hard to build a Steam turbine** you need to craft special materials from heated and frozen materials. You need to make frozen petrolium and carbon dioxide aswell as heat pyrite.
 
 
