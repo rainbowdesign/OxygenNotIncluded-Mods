@@ -4,17 +4,16 @@ The hotter than lava basemod changes **heater and pumps** so **they dont overhea
 
 
 - ImprovedAnimalsMod.dll
-The improved animals mod adds some more element transformations you can get from different **Hatches**: 
-Hatches eat Diamond and regolith. 
-Metal Hatches eat now MaficRock and Bleachstone. 
-Rock Hatches now give off slime. 
-Sage hatches eat Algae and give off polluted Water. There are some more changes.
+-The improved animals mod adds some more element transformations you can get from different **Hatches**: 
+-Hatches eat Diamond and regolith. 
+-Metal Hatches eat now MaficRock and Bleachstone. 
+-Rock Hatches now give off slime. 
+-Sage hatches eat Algae and give off polluted Water. There are some more changes.
 
 
 - AdaptedElementsMod.dll
 The mod makes it **hard to build a Steam turbine** you need to craft special materials from heated and frozen materials. You need to make frozen petrolium and carbon dioxide aswell as heat pyrite.
 
-The frozen.yaml file replaces wolframite with tuned mercury which you can use as coolant. Without it the elements mod is more easy.
 
 Install:
 
