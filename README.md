@@ -1,12 +1,15 @@
-Description:
+- HotterThanLavaMod.dll
 
-The hotter than lava mod has three parts packed in dlls:
+--The hotter than lava basemod changes **heater and pumps** so **they dont overheat** and changes wolframite and tungsten to not melt. It also adds **Mercury as a coolant** that will stay liquid deep into minus degrees. 
 
-The hotter than lava basemod changes heater and pumps so they dont overheat or melt. With the mod you can melt (almost) anything.
 
-The improved animals mod adds some more element transformations you can get from different hatches.
+- ImprovedAnimalsMod.dll
+-- The improved animals mod adds some more element transformations you can get from different **Hatches**: 
+--Hatches eat Diamond and regolith. Metal Hatches eat now MaficRock and Bleachstone. Rock Hatches now give off slime. Sage hatches eat Algae and give off polluted Water. There are some more changes.
 
-The Elements mod makes the game little harder by changing stuff especially the building costs of the steam turbine making it rather hard to build.
+
+- AdaptedElementsMod.dll
+-- The mod makes it hard to build a Steam turbine you need to craft special materials from heated and frozen materials. You need to make frozen petrolium and carbon dioxide aswell as heat pyrite.
 
 The frozen.yaml file replaces wolframite with tuned mercury which you can use as coolant. Without it the elements mod is more easy.
 
