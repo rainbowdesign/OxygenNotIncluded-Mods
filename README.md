@@ -22,11 +22,8 @@ Install:
 Install the Modloader first:
 https://github.com/javisar/ONI-Modloader
 
-Then Extract the zip file into OxygenNotIncluded 
+Then copy the files into OxygenNotIncluded/Mods
 (the base folder you can find it with steam browse local files)
-
-Hints:
-Are in the hints.txt in the zip file.
 
 Special thanks to Cairath ( https://github.com/Cairath/ONI-Mods/tree/master/modfiles )
 And Javisar for example mods ( https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods )
