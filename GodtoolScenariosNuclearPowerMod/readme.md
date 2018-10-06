@@ -30,3 +30,6 @@
     - **Nuclear Power Mod** is the script for the same named mod. Is enabled by default but does litte without the mod.
     - **Sick world** generates sickness from time to time in the World.
     - **Water grow Mod** Water will get more and more. Makes normal games easier, Makes Aquantic worlds Dangerous.
+
+- **Sidenotes**
+    - The tools are not finished and still improved. There are some particular feature missing but they work.    
