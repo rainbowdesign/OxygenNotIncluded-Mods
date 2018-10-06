@@ -8,6 +8,7 @@
     
 
 - **NuclearPowerMod.dll**
+    - Requires GodTool and the config files.
     - **NuclearPowerMod** Adds an **infinite Heat source** the **Radium Fuel Cell**.
     - The Heat the Fuel Cell builds depends on the environment Radioactivity and need some turns to build.
     - Dont let the Fuel Cell melt it will turn in an very dangerous material.
