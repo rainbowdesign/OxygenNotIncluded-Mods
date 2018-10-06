@@ -1,3 +1,6 @@
+- **Folder GodTool, Scenarios and Nuclear Mod**
+    An awesome mod that changes the whole game take a look at the folder!
+
 - **HotterThanLavaMod.dll**
 
     - The hotter than lava changes **heater and pumps** so **they dont overheat** and changes wolframite and tungsten to not melt. It also adds **Mercury as a coolant** that will stay liquid deep into minus degrees. 
