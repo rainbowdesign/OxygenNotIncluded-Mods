@@ -20,3 +20,13 @@
     - You can create Temp Shift Plates from Solid Mercury, they will automatical cool the environment.
     - Mercury is the only substance that can kill radioactivity by exposure. Petrolium and Sour gas grow Radioactivity.
 
+- **GodTool Scenarios**
+    - The scenarios are in **godtoolconfig**.
+    - **Enable** and Disable them with the **info.txt**.
+    - **Aquantic World** is enabled by default. It changes many elements to Water in the first few cycles it makes the game a bit harder.
+    - **Divine Wrath Mod** challenges the player with regular dangers.
+    - **Ice World** Freezes the Water on the world over time.
+    - **Ice World Extra** Freezes also Ice, Magma and Oil.
+    - **Nuclear Power Mod** is the script for the same named mod. Is enabled by default but does litte without the mod.
+    - **Sick world** generates sickness from time to time in the World.
+    - **Water grow Mod** Water will get more and more. Makes normal games easier, Makes Aquantic worlds Dangerous.
