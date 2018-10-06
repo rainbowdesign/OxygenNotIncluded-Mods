@@ -33,3 +33,4 @@
 
 - **Sidenotes**
     - The tools are not finished and still improved. There are some particular feature missing but they work.    
+    - For bugs please open an issue if no issue is open.
