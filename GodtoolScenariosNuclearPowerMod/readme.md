@@ -1,3 +1,5 @@
+- **GodTool Modcollection contains all files in this folder. Download and extract it if you dont know what you want.**
+
 - **GodTool.dll**
 
     - **Godtool is a Scenariomaker**.
