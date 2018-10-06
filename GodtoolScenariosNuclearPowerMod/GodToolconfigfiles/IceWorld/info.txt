@@ -1,0 +1,6 @@
+togglelabel=Ice World
+toggletooltip=Water will cool every cycle
+togglestate=Disabled
+Reload=false
+cooldirtywater.txt=enabled
+coolwater.txt=enabled

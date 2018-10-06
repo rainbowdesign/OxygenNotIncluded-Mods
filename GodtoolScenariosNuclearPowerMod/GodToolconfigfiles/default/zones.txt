@@ -1,0 +1,10 @@
+Zonehelp
+=FrozenWastes
+CrystalCaverns
+BoggyMarsh
+Sandstone
+ToxicJungle
+MagmaCore
+OilField
+Space
+

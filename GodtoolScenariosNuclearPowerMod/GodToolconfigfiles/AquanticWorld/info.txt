@@ -1,0 +1,9 @@
+togglelabel=An Aquantic World
+toggletooltip=Big areas of the World will transform to Water at begin
+togglestate=Enabled
+Reload=false
+aquanticIgneousRock.txt=enabled
+aquanticKatairite.txt=enabled
+aquanticSandStone.txt=enabled
+aquanticSlime.txt=enabled
+aquanticGranite.txt=enabled
