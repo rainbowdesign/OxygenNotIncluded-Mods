@@ -1,5 +1,5 @@
 - **GodTool Modcollection contains all files in this folder. Download and extract it if you dont know what you want.**
-- **Please note the Mods are for the NEW rocketry 2 upgrade!**
+- **Please note the Mods are for the NEW rocketry 2 upgrade and are in beta testing till its release!**
 
 - **GodTool.dll**
 
