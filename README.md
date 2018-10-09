@@ -15,12 +15,8 @@
     - Sage hatches eat Algae and give off polluted Water. There are some more changes.
 
 
-- **AdaptedElementsMod.dll**
-
-    - The mod makes it **hard to build a Steam turbine** you need to craft special materials from heated and frozen materials. You need to make frozen petrolium and carbon dioxide aswell as heat pyrite. Best you use it with **HotterThanLavaMod.dll**
-
- - **easypowermod.dll**
-     - The easy power mod increase the power output of the coal generator by 100. Best to use it with the no overload mod from Javisar.
+- **AdaptedElementsMod.dll is outdated**
+- **easypowermod.dll is outdated**
 
 Install:
 
