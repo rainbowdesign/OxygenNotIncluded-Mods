@@ -20,8 +20,8 @@
     - Improves the Autosweeper mod to 14 tiles and sets power consum to 0.
     - Auto Sweeper can go through tiles.
 
-- **AdaptedElementsMod.dll is outdated**
-- **easypowermod.dll is outdated**
+- **AdaptedElementsMod.dll is abandoned because it did never lead somewhere**
+- **easypowermod.dll Is replaced by [Javisar ZeroPointModuleMod](https://github.com/javisar/ONI-Modloader-Mods/blob/master/Mods/ZeroPointModuleMod.dll)**
 
 Install:
 
