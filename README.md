@@ -15,6 +15,11 @@
     - Sage hatches eat Algae and give off polluted Water. There are some more changes.
 
 
+- **AutoSweeperMod.dll**
+    
+    - Improves the Autosweeper mod to 14 tiles and sets power consum to 0.
+    - Auto Sweeper can go through tiles.
+
 - **AdaptedElementsMod.dll is outdated**
 - **easypowermod.dll is outdated**
 
