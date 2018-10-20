@@ -1,5 +1,5 @@
 - **Folder GodTool, Scenarios and Nuclear Mod**
-    - An awesome mod that changes the whole game take a look at the folder!
+    - An awesome mod that changes the whole game take a look at the folder! Please note it is still in testing and may have bugs
 
 - **HotterThanLavaMod.dll**
 
