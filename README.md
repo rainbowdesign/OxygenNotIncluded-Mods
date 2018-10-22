@@ -1,5 +1,5 @@
-- **Folder GodTool, Scenarios and Nuclear Mod**
-    - An awesome mod that changes the whole game take a look at the folder! Please note it is still in testing and may have bugs
+- **Exciting World**
+    - An awesome mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings.
 
 - **HotterThanLavaMod.dll**
 
