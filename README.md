@@ -1,19 +1,38 @@
 - **Exciting World**
-    - An awesome mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that the other mods are already included in the zip i will merge them completely in time. If you use this file dont install the other mods.
+    - An awesome meta mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that the other mods are already included in the zip i will merge them completely in time. If you use this file dont install the other mods.
+    - The following Files are in the mod:
+   
+    - **BuildingExtension.dll** 
+    
+    - New buildings as example: Auto Mopper, Background Ladder, Laser Miner tunnel driller, Mini Steam Turbine, new recipes, Single tiledoor, Super Solar Panel, Super Sweeper, Super Wire.
+  
+  
+  
+    - **BuildingPatches.dll**
+    - Small game changes that usually make life easier as example non floodable Checkpoints.
+    
+   
+    - **GodTool.dll** 
+    - A scripting engine that can change the environment and can be customized with small config files.
+  
+  
+    - **HighPressureMod.dll**
+    - Adding High pressure pumps.
 
-- **HotterThanLavaMod.dll**
-
-    - The hotter than lava changes **heater and pumps** so **they dont overheat** and changes wolframite and tungsten to not melt. It also adds **Mercury as a coolant** that will stay liquid deep into minus degrees. 
-
-
-- **ImprovedAnimalsMod.dll**
-
-    - The improved animals mod adds some more element transformations you can get from different **Hatches**: 
-    - Hatches eat Diamond and regolith. 
-    - Metal Hatches eat now MaficRock and Bleachstone. 
-    - Rock Hatches now give off slime. 
-    - Sage hatches eat Algae and give off polluted Water. There are some more changes.
-
+   
+    - **HotterThanLavaMod.dll** 
+    - Making pumps immune to heat and able to pump lava.
+  
+    - **ImprovedAnimalsMod.dll**
+    - Animals get eat more things.
+  
+    - **NuclearPowerMod.dll**
+    - Adds lategame Nuclear Power to use with the steam engine.
+    - Also includes the Mercury mod for high power cooling.
+    
+    - **SlimeGrower.dll**
+    - You can grow slime and chlorine from water.
+    
 
 - **AutoSweeperMod.dll**
     
