@@ -1,6 +1,6 @@
 - **Exciting World**
     - An awesome meta mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that the other mods are already included in the zip i will merge them completely in time. If you use this file dont install the other mods.
-    - The following Files are in the mod:
+    - The following Files are in the mod (Version 1.04):
    
     - **BuildingExtension.dll** 
     
