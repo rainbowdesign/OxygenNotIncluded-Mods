@@ -1,5 +1,0 @@
-togglelabel=Water grow Mod
-toggletooltip=The Water on the map grows a fair bit
-togglestate=Disabled
-Reload=false
-aquanticgrowWater.txt=enabled

@@ -1,7 +1,0 @@
-togglelabel=Iceworld Extra
-toggletooltip=Ice,Lava and Oil will cool every Cycle
-Reload=false
-togglestate=Disabled
-coolice.txt=enabled
-coollava.txt=enabled
-cooloil.txt=enabled

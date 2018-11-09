@@ -41,6 +41,7 @@
 
 - **AdaptedElementsMod.dll** is abandoned because it did never lead somewhere
 - **easypowermod.dll** Is replaced by [Javisar ZeroPointModuleMod](https://github.com/javisar/ONI-Modloader-Mods/blob/master/Mods/ZeroPointModuleMod.dll)
+- all other mods are merged into the Exciting World mod.
 
 Install:
 

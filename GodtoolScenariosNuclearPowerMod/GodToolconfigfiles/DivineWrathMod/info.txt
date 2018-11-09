@@ -1,9 +1,0 @@
-togglelabel=Divine Wrath Mod
-toggletooltip=God sends his Wrath every few cycles
-togglestate=Disabled
-Reload=false
-fire.txt=enabled
-sandstonekill.txt=enabled
-sandstonekill2.txt=enabled
-sickness.txt=enabled
-void.txt=enabled

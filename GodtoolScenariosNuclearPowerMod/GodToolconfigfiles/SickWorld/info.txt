@@ -1,5 +1,0 @@
-togglelabel=Your Modname
-toggletooltip=What does the mod do tooltip
-togglestate=Disabled
-Reload=false
-algaeslimelung.txt=enabled

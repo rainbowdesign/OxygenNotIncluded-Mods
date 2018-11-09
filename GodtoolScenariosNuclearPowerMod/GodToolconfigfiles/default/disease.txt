@@ -1,8 +1,0 @@
-diseasehelp
-=0 : 0 : FoodPoisoning
-1 : 1 : 
-1 : 1 : 
-1 : 1 : 
-1 : 1 : 
-5 : 5 : SlimeLung
-
