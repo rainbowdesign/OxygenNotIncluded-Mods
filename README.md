@@ -36,7 +36,7 @@
 
 - **AutoSweeperMod.dll**
     
-    - Improves the Autosweeper mod to 14 tiles and sets power consum to 0.
+    - Improves the Autosweeper to have super range. A different but more balanced version is included in the Exciting World Mod.
     - Auto Sweeper can go through tiles.
 
 - **AdaptedElementsMod.dll** is abandoned because it did never lead somewhere
