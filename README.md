@@ -1,6 +1,6 @@
 - **Exciting World**
 
-    - An awesome meta mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that the other mods are already included in the zip i will merge them completely in time. If you use this file dont install the other mods.
+    - An awesome meta mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that my older mods are already included in the zip.
         
     - Please discuss it at: https://forums.kleientertainment.com/forums/topic/98353-exciting-world-mod-104/
     
