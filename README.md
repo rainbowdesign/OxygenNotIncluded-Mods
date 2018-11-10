@@ -6,9 +6,11 @@
     
     
     - **Install:**
-    Install the Modloader first:  https://github.com/javisar/ONI-Modloader
-    Then copy the zip into OxygenNotIncluded/Mods
-    (the base folder you can find it with steam browse local files) and extract it.
+        - Install the Modloader first:  https://github.com/javisar/ONI-Modloader
+
+        - If you have an old version of the mod installed you need to delete that, if you have made custom godtool scripts you need to copy them to the new    folder    of the same name and best share them with us.
+
+        - Then copy the zip into OxygenNotIncluded/Mods  (the base folder you can find it with steam browse local files) and extract it. 
 
     
     - The following Files are in the mod (Version 1.04):
