@@ -5,7 +5,7 @@
     - Please discuss it at: https://forums.kleientertainment.com/forums/topic/98353-exciting-world-mod-104/
     
     
-    - Install:
+    - ** Install:**
     Install the Modloader first:  https://github.com/javisar/ONI-Modloader
     Then copy the zip into OxygenNotIncluded/Mods
     (the base folder you can find it with steam browse local files) and extract it.
