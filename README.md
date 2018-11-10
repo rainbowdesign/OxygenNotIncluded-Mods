@@ -1,7 +1,15 @@
 - **Exciting World**
+
     - An awesome meta mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that the other mods are already included in the zip i will merge them completely in time. If you use this file dont install the other mods.
-    
+        
     - Please discuss it at: https://forums.kleientertainment.com/forums/topic/98353-exciting-world-mod-104/
+    
+    
+    - Install:
+    Install the Modloader first:  https://github.com/javisar/ONI-Modloader
+    Then copy the zip into OxygenNotIncluded/Mods
+    (the base folder you can find it with steam browse local files) and extract it.
+
     
     - The following Files are in the mod (Version 1.04):
    
@@ -41,20 +49,6 @@
     
     - Improves the Autosweeper to have super range. A different but more balanced version is included in the Exciting World Mod.
     - Auto Sweeper can go through tiles.
-
-- **AdaptedElementsMod.dll** is abandoned because it did never lead somewhere
-- **easypowermod.dll** Is replaced by [Javisar ZeroPointModuleMod](https://github.com/javisar/ONI-Modloader-Mods/blob/master/Mods/ZeroPointModuleMod.dll)
-- all other mods are merged into the Exciting World mod.
-
-Install:
-
-Install the Modloader first:
-https://github.com/javisar/ONI-Modloader
-
-Then copy the files into OxygenNotIncluded/Mods
-(the base folder you can find it with steam browse local files)
-
-And Javisar for example mods ( https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods )
 
 
 - **Recommended Quality of Life Mods from other Sources**
