@@ -11,7 +11,7 @@
         - If you have an old version of the mod installed you need to delete that, if you have made custom godtool scripts you need to copy them to the new    folder    of the same name and best share them with us.
 
         - Then copy the zip into OxygenNotIncluded/Mods  (the base folder you can find it with steam browse local files) and extract it. 
-
+        - if you have other mods installed and find in the logfiles a line: Duplicate diet entry: Regolith you can remove ImprovedAnimalsMod.dll to mitigate the crash.
     
     - The following Files are in the mod (Version 1.04):
    
