@@ -18,7 +18,7 @@
    
     - **BuildingExtension.dll** 
     
-    - New buildings as example: Auto Mopper, Background Ladder, Laser Miner tunnel driller, Mini Steam Turbine, new recipes, Single tiledoor, Super Solar Panel, Super Sweeper, Super Wire.
+    - New buildings as example: Auto Mopper, Background Ladder, Laser Miner tunnel driller, Mini Steam Turbine, new recipes, Single tiledoor, Super Solar Panel, Super Sweeper, Super Wire. Use the super sweeper carefully it might be a performance hog.
   
   
   
@@ -52,6 +52,7 @@
     
     - Improves the Autosweeper to have super range. A different but more balanced version is included in the Exciting World Mod.
     - Auto Sweeper can go through tiles.
+    - Please note the Mod can be a performance hog.
 
 
 - **Recommended Quality of Life Mods from other Sources**
