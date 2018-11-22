@@ -7,14 +7,11 @@
     
     - **Install:**
         - Install the Modloader first:  https://github.com/javisar/ONI-Modloader
-
-
-        - If you have an old version of the mod installed you need to copy the old godtoolconfig folder and overwrite the new folder, this is important if you want to have scripts enabled on old savegames. Alternatively you can delete the old godtoolconfig  and start an old savegame and edit the savestate.txt file. Delete the rest 
-
-        - Then copy the zip into OxygenNotIncluded/Mods  (the base folder you can find it with steam browse local files) and extract it. 
-        - if you have other mods installed and find in the logfiles a line: Duplicate diet entry: Regolith you can remove ImprovedAnimalsMod.dll to mitigate the crash.
+        - Delete All old files in the exciting world folder delete also all files named godtool*
+        - Extract the Zip File to the modfolder.
+        - Start a new game if you want to have the scripts running.
     
-    - The following Files are in the mod (Version 1.04):
+    - The following Files are in the mod (Version 1.041):
    
     - **BuildingExtension.dll** 
     
