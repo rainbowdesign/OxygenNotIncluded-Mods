@@ -2,7 +2,6 @@
 
     - An awesome meta mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that my older mods are already included in the zip.
         
-    - Please discuss it at: https://forums.kleientertainment.com/forums/topic/98353-exciting-world-mod-104/
     
     
     - **Install:**
@@ -11,7 +10,9 @@
         - Extract the Zip File to the modfolder.
         - Start a new game if you want to have the scripts running.
         - if you want to change the scripts running in a already existing savegame you can edit the file in savegamestats.
-    
+        - For the version 1.05 please check https://forums.kleientertainment.com/forums/topic/100605-exciting-world-mod-105/
+        - Beta testversion is semi stable but still can sontain bugs you usually can use them.
+        - Alphas might not be stable.
     - The following Files are in the mod (Version 1.041):
    
     - **BuildingExtension.dll** 
