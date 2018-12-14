@@ -10,6 +10,7 @@
         - Delete All old files in the exciting world folder delete also all files named godtool*
         - Extract the Zip File to the modfolder.
         - Start a new game if you want to have the scripts running.
+        - if you want to change the scripts running in a already existing savegame you can edit the file in savegamestats.
     
     - The following Files are in the mod (Version 1.041):
    
