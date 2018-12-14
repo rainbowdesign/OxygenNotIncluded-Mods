@@ -11,7 +11,9 @@
         - Extract the Zip File to the modfolder.
         - Start a new game if you want to have the scripts running.
         - if you want to change the scripts running in a already existing savegame you can edit the file in savegamestats.
-    
+        - For the version 1.05 please check https://forums.kleientertainment.com/forums/topic/100605-exciting-world-mod-105/
+        - Beta testversion is semi stable but still can sontain bugs you usually can use them.
+        - Alphas might not be stable.
     - The following Files are in the mod (Version 1.041):
    
     - **BuildingExtension.dll** 
