@@ -1,0 +1,14 @@
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\obj\Debug\highpressuremod.csproj.CoreCompileInputs.cache
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\highpressuremod.dll
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\highpressuremod.pdb
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\0Harmony.dll
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\Assembly-CSharp.dll
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\UnityEngine.dll
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\UnityEngine.UI.dll
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\obj\Debug\highpressuremod.csproj.CopyComplete
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\obj\Debug\highpressuremod.dll
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\obj\Debug\highpressuremod.pdb
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\name\source\repos\ExitingWorldMetaMod\highpressuremod\highpressuremod\obj\Debug\highpressuremod.csprojAssemblyReference.cache
