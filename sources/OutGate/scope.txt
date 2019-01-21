@@ -20,4 +20,3 @@ Guess we would need a victory screen somehow.
 The special gates with special worlds generated would create their own challenge.
 I might use my godtool to create that worlds with scripts.
 or maybe look around if there are already worlds somewhere.
-For the color there is a mod from which some code could be taken.
