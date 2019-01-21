@@ -87,10 +87,27 @@ namespace gate
 			light2D.overlayColour = LIGHT2D.HEADQUARTERS_OVERLAYCOLOR;
 			light2D.shape = LightShape.Circle;
 			light2D.drawOverlay = true;
+
+
+			go.AddOrGet<DropAllWorkable>();
+			Prioritizable.AddRef(go);
+			go.AddOrGet<BuildingComplete>().isManuallyOperated = false;
+			ComplexFabricator fabricator = go.AddOrGet<ComplexFabricator>();
+			BuildingTemplates.CreateComplexFabricatorStorage(go, fabricator);
+
+
+			Storage storage = go.AddOrGet<Storage>();
+			storage.showInUI = true;
+			storage.allowItemRemoval = false;
+			storage.showDescriptor = false;
+			storage.storageFilters = STORAGEFILTERS.NOT_EDIBLE_SOLIDS;
+			storage.storageFullMargin = STORAGE.STORAGE_LOCKER_FILLED_MARGIN;
+			storage.fetchCategory = Storage.FetchCategory.GeneralStorage;
 		}
 
 		public override void DoPostConfigureComplete(GameObject go)
 		{
+			new Recipe("TeleportDupe", 30f, (SimHashes)0, null, "Teleport Dupes", 1).SetFabricator(gateinit.IDS.ID.ToUpper(), 5f).AddIngredient(new Recipe.Ingredient(GameTags.Minion.ToString(), 1f));
 		}
 	}
 
