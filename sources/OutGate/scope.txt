@@ -5,7 +5,7 @@ should not be too hard to copy the gate.
 2. make it possible to fill the gate with materials and dupes
 Also not too hard
 
-3. use an element if the element is supplied the content of the gate is saved
+3. use an element as activator for the gate ( to make it harder to activate) if the element is supplied the content of the gate is saved
 Thats the first problem
 I had trouble saving things. for my mod i ultimately made my own save files
 Might end up like this too saving it binary.
