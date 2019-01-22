@@ -103,6 +103,7 @@ namespace gate
 			storage.storageFilters = STORAGEFILTERS.NOT_EDIBLE_SOLIDS;
 			storage.storageFullMargin = STORAGE.STORAGE_LOCKER_FILLED_MARGIN;
 			storage.fetchCategory = Storage.FetchCategory.GeneralStorage;
+			// todo storage.Serialize
 		}
 
 		public MinionStartingStats[] statstorage;
