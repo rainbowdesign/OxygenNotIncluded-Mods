@@ -23,4 +23,6 @@ namespace mapintegration
 	public void sethardness(int hardness) {
 
 	}
+
+	public void startnewmap() { }
 }

@@ -105,10 +105,12 @@ namespace gate
 			storage.fetchCategory = Storage.FetchCategory.GeneralStorage;
 		}
 
+		public MinionStartingStats[] statstorage;
 		public override void DoPostConfigureComplete(GameObject go)
 		{
-			new Recipe("TeleportDupe", 30f, (SimHashes)0, null, "Teleport Dupes", 1).SetFabricator(gateinit.IDS.ID.ToUpper(), 5f).AddIngredient(new Recipe.Ingredient(GameTags.Minion.ToString(), 1f));
-		}
+			//get a dupe save and destroy it:
+			new Recipe("TeleportDupe", 30f, (SimHashes)0, null, "Teleport Dupes", 1).SetFabricator(gateinit.IDS.ID.ToUpper(), 5f).AddIngredient(new Recipe.Ingredient(GameTags.Minion.ToString(), 1f));					}
+		
 	}
 
 }
