@@ -1,0 +1,15 @@
+Accesstools can be used to get private fields.
+It can be used like you use typeof(sometype).GetField().
+
+For example:
+
+FieldInfo fiunplayedSongs =AccessTools.Field(typeof(MusicManager.DynamicSongPlaylist), "unplayedSongs");
+List<string> unplayedsongs = (List<string>) fiunplayedSongs.GetValue(__instance);
+		
+    
+foreach (string song in blacklist) {
+		unplayedsongs.Remove(song);
+}
+fiunplayedSongs.SetValue(__instance, unplayedsongs);
+
+Getvalue(__instance) gets the value of that field from that instance.
