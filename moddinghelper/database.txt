@@ -1,0 +1,12377 @@
+Techhelp
+= 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name Satellite
+ID SATELLITE
+
+
+Name Rocky Asteroid
+ID ROCKYASTEROID
+
+Name Metallic Asteroid
+ID METALLICASTEROID
+
+Name Carbon Asteroid
+ID CARBONACEOUSASTEROID
+
+
+Name Rock Comet
+ID ROCKCOMET
+
+Name Dust Comet
+ID DUSTCOMET
+
+Name Iron Comet
+ID IRONCOMET
+
+
+Name Ice Planet
+ID ICYDWARF
+
+Name Organic Mass
+ID ORGANICDWARF
+
+Name Dusty Dwarf Planet
+ID DUSTYDWARF
+
+
+Name Terrestrial Planet
+ID TERRAPLANET
+
+Name Volcanic Planet
+ID VOLCANOPLANET
+
+Name Shattered Planet
+ID SHATTEREDPLANET
+
+
+Name Gas Giant
+ID GASGIANT
+
+Name Ice Giant
+ID ICEGIANT
+
+
+Name Robot Arm
+ID ROBOTARM
+
+Name Pristine Fossil
+ID HATCHFOSSIL
+
+Name 
+ID MODERNART
+
+Name Egg-Shaped Rock
+ID EGGROCK
+
+Name Egg-Shaped Rock
+ID RAINBOWEGGROCK
+
+Name Old X-Ray
+ID OKAYXRAY
+
+Name Shield Generator
+ID SHIELDGENERATOR
+
+Name Encrusted Teapot
+ID TEAPOT
+
+Name Double Helix Model
+ID DNAMODEL
+
+Name Sandstone
+ID SANDSTONE
+
+Name Magma Lamp
+ID MAGMALAMP
+
+Name Small Obelisk
+ID OBELISK
+
+Name 
+ID RUBIKSCUBE
+
+Name Office Mug
+ID OFFICEMUG
+
+Name Wrist Watch
+ID AMELIASWATCH
+
+Name Moonmoonmoon
+ID MOONMOONMOON
+
+Name Bioluminescent Rock
+ID BIOLUMROCK
+
+Name Plasma Lamp
+ID PLASMALAMP
+
+Name Moldavite
+ID MOLDAVITE
+
+Name Strange Brick
+ID BRICKPHONE
+
+Name Self-Contained System
+ID SOLARSYSTEM
+
+Name Sink
+ID SINK
+
+Name Tornado Rock
+ID ROCKTORNADO
+
+Name Blender
+ID BLENDER
+
+Name Mangled Saxophone
+ID SAXOPHONE
+
+Name Stethoscope
+ID STETHOSCOPE
+
+Name Archaic Tech
+ID VHS
+
+
+
+Name Instant build mode
+ID INSTANT_BUILD
+
+Name Brush size
+ID BRUSH_SIZE
+
+Name Noise
+ID BRUSH_NOISE
+
+Name Absolute temperature
+ID TEMPERATURE
+
+Name Additive temperature
+ID TEMPERATURE_ADDITIVE
+
+Name Absolute mass
+ID MASS
+
+Name Germ count
+ID DISEASE_COUNT
+
+Name Brush
+ID BRUSH
+
+Name Sprinkle
+ID SPRINKLE
+
+Name Fill
+ID FLOOD
+
+Name Sample
+ID SAMPLE
+
+Name Heat Gun
+ID HEATGUN
+
+Name Spawner
+ID SPAWNER
+
+Name Clear Debris
+ID CLEAR_FLOOR
+
+Name Destroy
+ID DESTROY
+
+Name Spawn
+ID SPAWN_ENTITY
+
+Name Reveal
+ID FOW
+
+
+
+
+
+
+
+
+
+Name Sandbox Mode
+ID SANDBOXMODE
+
+
+Name Disabled
+ID DISABLED
+
+Name Enabled
+ID ENABLED
+
+Name Immune Systems
+ID IMMUNESYSTEM
+
+
+Name Miserable
+ID COMPROMISED
+
+Name Weak
+ID WEAK
+
+Name Regular
+ID DEFAULT
+
+Name Strong
+ID STRONG
+
+Name None
+ID INVINCIBLE
+
+Name Morale Requirements
+ID MORALE
+
+
+Name Very High
+ID VERYHARD
+
+Name High
+ID HARD
+
+Name Regular
+ID DEFAULT
+
+Name Low
+ID EASY
+
+Name None
+ID DISABLED
+
+Name Hunger Rate
+ID CALORIE_BURN
+
+
+Name Ravaging Hunger
+ID VERYHARD
+
+Name Hungry
+ID HARD
+
+Name Regular
+ID DEFAULT
+
+Name Fasting
+ID EASY
+
+Name Oxygenarian
+ID DISABLED
+
+Name World(DEBUG)
+ID WORLD_CHOICE
+
+Name Duplicant Mood
+ID STRESS
+
+
+Name Unflappable
+ID INDOMITABLE
+
+Name Optimistic
+ID OPTIMISTIC
+
+Name Regular
+ID DEFAULT
+
+Name Pessimistic
+ID PESSIMISTIC
+
+Name Fatalistic
+ID DOOMED
+
+Name Stress Reactions
+ID STRESS_BREAKS
+
+
+Name Normal
+ID DEFAULT
+
+Name Disabled
+ID DISABLED
+
+Name Worldgen Seed
+ID WORLDGEN_SEED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name Unassigned
+ID UNEMPLOYED
+
+Name Has colony leader
+ID HAS_COLONY_LEADER
+
+Name Basic Digging
+ID HAS_ATTRIBUTE_DIGGING_BASIC
+
+Name Basic Cooking
+ID HAS_ATTRIBUTE_COOKING_BASIC
+
+Name Basic Learning
+ID HAS_ATTRIBUTE_LEARNING_BASIC
+
+Name Medium Learning
+ID HAS_ATTRIBUTE_LEARNING_MEDIUM
+
+Name {0} Experience
+ID HAS_EXPERIENCE
+
+Name General Experience
+ID HAS_COMPLETED_ANY_OTHER_ROLE
+
+Name Can perform {0}
+ID CHOREGROUP_ENABLED
+
+
+Name Private Bedroom
+ID PRIVATE_ROOM
+
+
+Name Standard Food
+ID MINOR
+
+Name Good Food
+ID MEDIUM
+
+Name Great Food
+ID HIGH
+
+Name Superb Food
+ID VERY_HIGH
+
+Name Ambrosial Food
+ID EXCEPTIONAL
+
+
+Name Minor Decor
+ID MINOR
+
+Name Medium Decor
+ID MEDIUM
+
+Name High Decor
+ID HIGH
+
+Name Superb Decor
+ID VERY_HIGH
+
+Name Decadent Decor
+ID UNREASONABLE
+
+
+Name Morale Requirements
+ID TIER0
+
+Name Morale Requirements
+ID TIER1
+
+Name Morale Requirements
+ID TIER2
+
+Name Morale Requirements
+ID TIER3
+
+Name Morale Requirements
+ID TIER4
+
+Name Morale Requirements
+ID TIER5
+
+Name Morale Requirements
+ID TIER6
+
+Name Morale Requirements
+ID TIER7
+
+Name Morale Requirements
+ID TIER8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name Food Loaded
+ID HASFOOD
+
+Name Has <link="ATMOSUIT">Atmo Suit</link>
+ID HASSUIT
+
+Name Missing <link="ATMOSUIT">Atmo Suit</link>
+ID NOSUIT
+
+Name Insufficient Food
+ID NOFOOD
+
+Name Emptied Cargo Bay
+ID CARGOEMPTY
+
+
+Name Fuel Tank full
+ID FULLTANK
+
+Name Fuel Tank not full
+ID EMPTYTANK
+
+Name Oxidizer tank full
+ID FULLOXIDIZERTANK
+
+Name Oxidizer tank not full
+ID EMPTYOXIDIZERTANK
+
+
+
+
+
+Description Geysers and Fumaroles emit elements at variable intervals.They provide a sustainable, though usually low volume, source of material.
+
+The variable factors of a geyser are:
+
+    • Emission element 
+    • Emission temperature 
+    • Emission mass 
+    • Cycle length 
+    • Dormancy duration 
+    • Disease emitted
+
+Description Equipment description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name OXYGEN OVERLAY
+ID OXYGEN
+
+
+Name POWER OVERLAY
+ID ELECTRICAL
+
+
+Name TEMPERATURE OVERLAY
+ID TEMPERATURE
+
+
+Name THERMAL TOLERANCE OVERLAY
+ID HEATFLOW
+
+
+Name ROOM OVERLAY
+ID ROOMS
+
+Description Enclose this space with walls and doors to make a room
+
+
+Name JOULES
+ID JOULES
+
+Name LIGHT OVERLAY
+ID LIGHTING
+Description {0} Lux
+
+
+Name LIGHT OVERLAY
+ID TOOLTIPS
+
+Name FARMING OVERLAY
+ID CROP
+
+
+Name PLUMBING OVERLAY
+ID LIQUIDPLUMBING
+
+
+Name VENTILATION OVERLAY
+ID GASPLUMBING
+
+
+Name EXOSUIT OVERLAY
+ID SUIT
+
+Name AUTOMATION OVERLAY
+ID LOGIC
+
+
+Name CONVEYOR OVERLAY
+ID CONVEYOR
+
+
+Name DECOR OVERLAY
+ID DECOR
+
+
+Name ACOUSTICS OVERLAY
+ID NOISE_POLLUTION
+
+
+
+Name PRIORITY OVERLAY
+ID PRIORITIES
+
+Name GERM OVERLAY
+ID DISEASE
+
+
+Name FARMING OVERLAY
+ID CROPS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name Duplicant
+ID MINION_IDENTITY_SORT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name Breaktime Policy
+ID ACTIVATION_RANGE_SIDE_SCREEN
+
+
+
+
+
+
+Name Clean Toilet
+ID CLEANTOILET
+
+Name Cancel Clean
+ID CANCELCLEANTOILET
+
+
+Name Empty
+ID DUMP
+
+Name Filter Settings
+ID TAGFILTER
+
+Name Cancel Build
+ID CANCELCONSTRUCTION
+
+Name Dig
+ID DIG
+
+Name Cancel Mop
+ID CANCELMOP
+
+Name Cancel Dig
+ID CANCELDIG
+
+Name Uproot
+ID UPROOT
+
+Name Cancel Uproot
+ID CANCELUPROOT
+
+Name Enable Autoharvest
+ID HARVEST_WHEN_READY
+
+Name Disable Autoharvest
+ID CANCEL_HARVEST_WHEN_READY
+
+Name Harvest
+ID HARVEST
+
+Name Cancel Harvest
+ID CANCELHARVEST
+
+Name Attack
+ID ATTACK
+
+Name Cancel Attack
+ID CANCELATTACK
+
+Name Wrangle
+ID CAPTURE
+
+Name Cancel Wrangle
+ID CANCELCAPTURE
+
+Name Empty Building
+ID RELEASEELEMENT
+
+Name Deconstruct
+ID DEMOLISH
+
+Name Disable Delivery
+ID MANUAL_DELIVERY
+
+Name Select Research
+ID SELECTRESEARCH
+
+Name Relocate
+ID RELOCATE
+
+Name Disable Building
+ID ENABLEBUILDING
+
+Name Inspect
+ID READLORE
+
+
+
+
+
+
+Name Rummage
+ID OPENPOI
+
+Name Empty Storage
+ID EMPTYSTORAGE
+
+Name Copy Settings
+ID COPY_BUILDING_SETTINGS
+
+Name Sweep
+ID CLEAR
+
+Name Compost
+ID COMPOST
+
+Name Unequip {0}
+ID UNEQUIP
+
+Name Quarantine
+ID QUARANTINE
+
+Name Show Navigation
+ID DRAWPATHS
+
+Name Move To
+ID MOVETOLOCATION
+
+Name Follow Cam
+ID FOLLOWCAM
+
+Name  Set Direction: Both
+ID WORKABLE_DIRECTION_BOTH
+
+Name Set Direction: Left
+ID WORKABLE_DIRECTION_LEFT
+
+Name Set Direction: Right
+ID WORKABLE_DIRECTION_RIGHT
+
+
+Name Enable Auto-Bottle
+ID ALLOWED
+
+Name Disable Auto-Bottle
+ID DENIED
+
+Name Enable Auto-Canister
+ID ALLOWED_GAS
+
+Name Disable Auto-Canister
+ID DENIED_GAS
+
+
+Name Clearance: Vacancy
+ID ONLY_WHEN_ROOM_AVAILABLE
+
+Name Clearance: Always
+ID ALWAYS
+
+
+Name <link="BUILDCATEGORYBASE">Base</link>
+ID BASE
+
+Name <link="BUILDCATEGORYCONVEYANCE">Shipping</link>
+ID CONVEYANCE
+
+Name <link="BUILDCATEGORYOXYGEN">Oxygen</link>
+ID OXYGEN
+
+Name <link="BUILDCATEGORYPOWER">Power</link>
+ID POWER
+
+Name <link="BUILDCATEGORYFOOD">Food</link>
+ID FOOD
+
+Name <link="BUILDCATEGORYUTILITIES">Utilities</link>
+ID UTILITIES
+
+Name <link="BUILDCATEGORYPLUMBING">Plumbing</link>
+ID PLUMBING
+
+Name <link="BUILDCATEGORYHVAC">Ventilation</link>
+ID HVAC
+
+Name <link="BUILDCATEGORYREFINING">Refinement</link>
+ID REFINING
+
+Name <link="BUILDCATEGORYROCKETRY">Rocketry</link>
+ID ROCKETRY
+
+Name <link="BUILDCATEGORYMEDICAL">Medicine</link>
+ID MEDICAL
+
+Name <link="BUILDCATEGORYFURNITURE">Furniture</link>
+ID FURNITURE
+
+Name <link="BUILDCATEGORYEQUIPMENT">Stations</link>
+ID EQUIPMENT
+
+Name <link="BUILDCATEGORYMISC">Decor</link>
+ID MISC
+
+Name <link="BUILDCATEGORYAUTOMATION">Automation</link>
+ID AUTOMATION
+
+
+Name <link="BUILDCATEGORYBASE">Base</link>
+ID BASE
+
+Name <link="BUILDCATEGORYINFRASTRUCTURE">Utilities</link>
+ID INFRASTRUCTURE
+
+Name <link="BUILDCATEGORYFOODANDAGRICULTURE">Food</link>
+ID FOODANDAGRICULTURE
+
+Name <link="BUILDCATEGORYLOGISTICS">Logistics</link>
+ID LOGISTICS
+
+Name <link="BUILDCATEGORYHEALTHANDHAPPINESS">Accommodation</link>
+ID HEALTHANDHAPPINESS
+
+Name <link="BUILDCATEGORYINDUSTRIAL">Industrials</link>
+ID INDUSTRIAL
+
+Name Ladders
+ID LADDERS
+
+Name Tiles
+ID TILES
+
+Name Doors
+ID DOORS
+
+Name Transit
+Tubes
+ID TRAVELTUBES
+
+Name Storage
+ID STORAGE
+
+Name Research
+ID RESEARCH
+
+Name Generators
+ID GENERATORS
+
+Name Wires
+ID WIRES
+
+Name Power
+Regulation
+ID POWERCONTROL
+
+Name Plumbing
+ID PLUMBINGSTRUCTURES
+
+Name Pipes
+ID PIPES
+
+Name Ventilation
+ID VENTILATIONSTRUCTURES
+
+Name Ore
+Transport
+ID CONVEYANCE
+
+Name Logic
+Wiring
+ID LOGICWIRING
+
+Name Logic
+Gates
+ID LOGICGATES
+
+Name Logic
+Switches
+ID LOGICSWITCHES
+
+Name Cooking
+ID COOKING
+
+Name Farming
+ID FARMING
+
+Name Ranching
+ID RANCHING
+
+Name Hygiene
+ID HYGIENE
+
+Name Medical
+ID MEDICAL
+
+Name Recreation
+ID RECREATION
+
+Name Furniture
+ID FURNITURE
+
+Name Decor
+ID DECOR
+
+Name Oxygen
+ID OXYGEN
+
+Name Temperature
+Control
+ID UTILITIES
+
+Name Refinement
+ID REFINING
+
+Name Stations
+ID EQUIPMENT
+
+Name Pipe Sensors
+ID CONDUITSENSORS
+
+Name Rocketry
+ID ROCKETRY
+
+
+
+Name SANDBOX
+ID SANDBOX_TOGGLE
+
+Name Brush
+ID BRUSH
+
+Name Sprinkle
+ID SPRINKLE
+
+Name Fill
+ID FLOOD
+
+Name Marquee
+ID MARQUEE
+
+Name Sample
+ID SAMPLE
+
+Name Heat Gun
+ID HEATGUN
+
+Name Spawner
+ID SPAWNER
+
+Name Clear Floor
+ID CLEAR_FLOOR
+
+Name Destroy
+ID DESTROY
+
+Name Spawn
+ID SPAWN_ENTITY
+
+Name Reveal
+ID FOW
+
+
+Name Attack
+ID ATTACK
+
+Name Wrangle
+ID CAPTURE
+
+Name Build {0}
+ID BUILD
+
+Name Move
+ID MOVETOLOCATION
+
+Name Paste Settings
+ID COPYSETTINGS
+
+Name Dig
+ID DIG
+
+Name Disinfect
+ID DISINFECT
+
+Name Cancel
+ID CANCEL
+
+Name Deconstruct
+ID DECONSTRUCT
+
+Name Clean
+ID CLEANUPCATEGORY
+
+Name Priority
+ID PRIORITIESCATEGORY
+
+Name Sweep
+ID MARKFORSTORAGE
+
+Name Mop
+ID MOP
+
+Name Harvest
+ID HARVEST
+
+Name Priority
+ID PRIORITIZE
+
+Name Empty Pipe
+ID EMPTY_PIPE
+
+
+
+
+Name Skills
+ID STATS
+
+Name Status
+ID SIMPLEINFO
+
+Name Properties
+ID DETAILS
+
+Name Bio
+ID PERSONALITY
+
+
+Name <b><size=13>Personal Interests:</size></b>
+ID APTITUDES
+
+Name <b><size=13>Job Training:</size></b>
+ID PERKS
+
+Name <size=13><b>Current Job:</b> {0}</size>
+ID CURRENT_ROLE
+
+Name None
+ID NO_MASTERED_ROLES
+
+
+Name Energy
+ID ENERGYCONSUMER
+
+Name Energy
+ID ENERGYWIRE
+
+Name Energy
+ID ENERGYGENERATOR
+
+Name Germs
+ID DISEASE
+
+
+
+
+
+
+
+
+
+
+
+Name Stress
+ID NEEDS
+
+
+
+
+
+
+Name Insulated
+ID INSULATED
+
+
+
+
+
+Name <link="OXYGEN">Oxygen</link> Generation:
+ID OXYGEN_CREATED
+
+Name Calorie Generation:
+ID CALORIES_CREATED
+
+Name <link="STRESS">Stress</link> Change:
+ID STRESS_DELTA
+
+Name Travel Time:
+ID TRAVEL_TIME
+
+Name Idle Time:
+ID IDLE_TIME
+
+Name Time Breakdown:
+ID TIME_SPENT
+
+Name <link="POWER">Power</link> Usage:
+ID ENERGY_USAGE
+
+Name <link="POWER">Power</link> Wasted:
+ID ENERGY_WASTED
+
+Name Skill Increases:
+ID LEVEL_UP
+
+Name Restroom Accidents:
+ID TOILET_INCIDENT
+
+Name <link="DISEASE">Diseases</link> Contracted:
+ID DISEASE_ADDED
+
+Name <link="CONTAMINATEDOXYGEN">Flatulence</link> Generation:
+ID CONTAMINATED_OXYGEN_FLATULENCE
+
+Name <link="CONTAMINATEDOXYGEN">Toilet Emissions: </link>
+ID CONTAMINATED_OXYGEN_TOILET
+
+Name <link="CONTAMINATEDOXYGEN">Sublimation</link>:
+ID CONTAMINATED_OXYGEN_SUBLIMATION
+
+Name Disease Status:
+ID DISEASE_STATUS
+
+
+
+Name Mealtime
+ID EAT
+
+Name Sleep
+ID SLEEP
+
+Name Work
+ID WORK
+
+Name Recreation
+ID RECREATION
+
+Name Hygiene
+ID HYGIENE
+
+
+Name Bathtime
+ID HYGENE
+
+Name Work
+ID WORKTIME
+
+Name Downtime
+ID RECREATION
+
+Name Bedtime
+ID SLEEP
+
+
+Name Primary Element: {0}
+ID PRIMARYELEMENT
+
+Name Stack Units: {0}
+ID UNITS
+
+Name Mass: {0}
+ID MASS
+
+Name Temperature: {0}
+ID TEMPERATURE
+
+Name Disease: {0}
+ID DISEASE
+
+Name Specific Heat Capacity: {0}
+ID SHC
+
+Name Thermal Conductivity: {0}
+ID THERMALCONDUCTIVITY
+
+
+Name Insulation Thickness: {0}
+ID CONDUCTIVITYBARRIER
+
+Name Vaporization Point: {0}
+ID VAPOURIZATIONPOINT
+
+Name Melting Point: {0}
+ID MELTINGPOINT
+
+Name Overheat Modifier: {0}
+ID OVERHEATPOINT
+
+Name Freeze Point: {0}
+ID FREEZEPOINT
+
+Name Condensation Point: {0}
+ID DEWPOINT
+
+
+
+
+
+
+
+
+
+Name MISSING.
+ID NEUTRAL
+
+Name MISSING.
+ID LATRINE
+
+Name MISSING.
+ID PLUMBEDBATHROOM
+
+Name MISSING.
+ID BARRACKS
+
+Name MISSING.
+ID BEDROOM
+
+Name MISSING.
+ID MESSHALL
+
+Name MISSING.
+ID GREATHALL
+
+Name MISSING.
+ID HOSPITAL
+
+Name MISSING.
+ID MASSAGE_CLINIC
+
+Name MISSING.
+ID POWER_PLANT
+
+Name MISSING.
+ID MACHINE_SHOP
+
+Name MISSING.
+ID FARM
+
+Name MISSING.
+ID CREATUREPEN
+
+Name MISSING.
+ID REC_ROOM
+
+Name MISSING.
+ID PRIVATE_BEDROOM
+
+Name MISSING.
+ID PRIVATE_BATHROOM
+
+
+
+Name MISSING.
+ID CEILING_HEIGHT
+
+Name MISSING.
+ID MINIMUM_SIZE
+
+Name MISSING.
+ID MAXIMUM_SIZE
+
+Name MISSING.
+ID BED_SINGLE
+
+Name MISSING.
+ID LUXURY_BED_SINGLE
+
+Name MISSING.
+ID NO_COTS
+
+Name MISSING.
+ID BED_MULTIPLE
+
+Name MISSING.
+ID BUILDING_DECOR_POSITIVE
+
+Name MISSING.
+ID DECORATIVE_ITEM
+
+Name MISSING.
+ID DECORATIVE_ITEM_N
+
+Name MISSING.
+ID CLINIC
+
+Name MISSING.
+ID POWER_STATION
+
+Name MISSING.
+ID FARM_STATION
+
+Name MISSING.
+ID CREATURE_RELOCATOR
+
+Name MISSING.
+ID CREATURE_FEEDER
+
+Name MISSING.
+ID RANCH_STATION
+
+Name MISSING.
+ID REC_BUILDING
+
+Name MISSING.
+ID MACHINE_SHOP
+
+Name MISSING.
+ID FOOD_BOX
+
+Name MISSING.
+ID LIGHT
+
+Name MISSING.
+ID MASSAGE_TABLE
+
+Name MISSING.
+ID MESS_STATION_SINGLE
+
+Name MISSING.
+ID MESS_STATION_MULTIPLE
+
+Name MISSING.
+ID RESEARCH_STATION
+
+Name MISSING.
+ID TOILET
+
+Name MISSING.
+ID FLUSH_TOILET
+
+Name MISSING.
+ID NO_OUTHOUSES
+
+Name MISSING.
+ID WASH_STATION
+
+Name MISSING.
+ID ADVANCED_WASH_STATION
+
+Name MISSING.
+ID NO_INDUSTRIAL_MACHINERY
+
+
+Name MISSING.
+ID ASSIGNED_TO
+
+Name MISSING.
+ID AVERAGE_TEMPERATURE
+
+Name MISSING.
+ID AVERAGE_ATMO_MASS
+
+Name MISSING.
+ID SIZE
+
+Name MISSING.
+ID BUILDING_COUNT
+
+Name MISSING.
+ID CREATURE_COUNT
+
+
+
+
+Name Damage: Duplicant Tantrum
+ID ANGERDAMAGE
+
+
+
+Name Assigned to: {Assignee}
+ID ASSIGNEDTO
+
+Name Assigned to: Public
+ID ASSIGNEDPUBLIC
+
+Name Assigned to: {0}
+ID ASSIGNEDTOROOM
+
+Name Awaiting Delivery
+ID AWAITINGSEEDDELIVERY
+
+Name Awaiting Bait
+ID AWAITINGBAITDELIVERY
+
+Name Medical building outside Med Bay
+ID CLINICOUTSIDEHOSPITAL
+
+
+Name Auto-Bottle: On
+ID ALLOWED
+
+Name Auto-Bottle: Off
+ID DENIED
+
+
+Name Auto-Canister: On
+ID ALLOWED
+
+Name Auto-Canister: Off
+ID DENIED
+
+Name Broken
+ID BROKEN
+
+Name Pending Door State Change: {ControlState}
+ID CHANGEDOORCONTROLSTATE
+
+
+Name Current Status: Needs Configuration
+ID NEED_CONFIGURATION
+
+Name Current Status: On Standby
+ID READY
+
+Name Current Status: Awaiting Delivery
+ID SUIT_REQUESTED
+
+Name Current Status: Charging Suit
+ID CHARGING
+
+Name Current Status: No Oxygen
+ID NO_OXYGEN
+
+Name Current Status: No Fuel
+ID NO_FUEL
+
+Name Current Status: Offline
+ID NOT_OPERATIONAL
+
+Name Current Status: Full Fuelled
+ID FULLY_CHARGED
+
+Name Clearance: Vacancy Only
+ID SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE
+
+Name Clearance: Always Permitted
+ID SUITMARKERTRAVERSALANYTIME
+
+Name Not Configured
+ID SUIT_LOCKER_NEEDS_CONFIGURATION
+
+Name Current State: {ControlState}
+ID CURRENTDOORCONTROLSTATE
+
+Name Pipe Blocked
+ID CONDUITBLOCKED
+
+Name Output Pipe Full
+ID OUTPUTPIPEFULL
+
+Name Unreachable Build
+ID CONSTRUCTIONUNREACHABLE
+
+Name Unreachable Mop
+ID MOPUNREACHABLE
+
+Name Unreachable Dig
+ID DIGUNREACHABLE
+
+Name Unreachable Dig
+ID CONSTRUCTABLEDIGUNREACHABLE
+
+Name Empty
+ID EMPTYPUMPINGSTATION
+
+Name Entombed
+ID ENTOMBED
+
+Name Invalid Port Overlap
+ID INVALIDPORTOVERLAP
+
+Name Vacillation Complete
+ID GENESHUFFLECOMPLETED
+
+Name Damage: Overheating
+ID OVERHEATED
+
+Name Heat Production: {0}/s
+ID OPERATINGENERGY
+
+Name Building Flooded
+ID FLOODED
+
+Name Gas Vent Obstructed
+ID GASVENTOBSTRUCTED
+
+Name Gas Vent Overpressure
+ID GASVENTOVERPRESSURE
+
+Name Use Direction: {Direction}
+ID DIRECTION_CONTROL
+
+
+Name Colony Lost
+ID WATTSONGAMEOVER
+
+Name Invalid Building Location
+ID INVALIDBUILDINGLOCATION
+
+Name Liquid Vent Obstructed
+ID LIQUIDVENTOBSTRUCTED
+
+Name Liquid Vent Overpressure
+ID LIQUIDVENTOVERPRESSURE
+
+Name Manually Controlled
+ID MANUALLYCONTROLLED
+
+Name Insufficient Resources
+{ItemsRemaining}
+ID MATERIALSUNAVAILABLE
+
+Name Resources Low
+{ItemsRemaining}
+ID MATERIALSUNAVAILABLEFORREFILL
+
+Name Melting Down
+ID MELTINGDOWN
+
+Name Missing Tile
+ID MISSINGFOUNDATION
+
+Name Cannot Mine
+ID NEUTRONIUMUNMINABLE
+
+Name No Gas Intake
+{GasRequired}
+ID NEEDGASIN
+
+Name No Gas Output
+ID NEEDGASOUT
+
+Name No Liquid Intake
+{LiquidRequired}
+ID NEEDLIQUIDIN
+
+Name No Liquid Output
+ID NEEDLIQUIDOUT
+
+Name Empty Pipe
+ID LIQUIDPIPEEMPTY
+
+Name Not Pumping
+ID LIQUIDPIPEOBSTRUCTED
+
+Name Empty Pipe
+ID GASPIPEEMPTY
+
+Name Not Pumping
+ID GASPIPEOBSTRUCTED
+
+Name No Conveyor Loader
+ID NEEDSOLIDIN
+
+Name No Conveyor Receptacle
+ID NEEDSOLIDOUT
+
+Name Conveyor Rail Backup
+ID SOLIDPIPEOBSTRUCTED
+
+Name No Seeds
+ID NEEDPLANT
+
+Name No Seed Selected
+ID NEEDSEED
+
+Name No Power
+ID NEEDPOWER
+
+Name Insufficient Power
+ID NOTENOUGHPOWER
+
+Name Resource Required
+ID NEEDRESOURCE
+
+Name New Duplicants Available
+ID NEWDUPLICANTSAVAILABLE
+
+Name Inapplicable Research
+ID NOAPPLICABLERESEARCHSELECTED
+
+Name No studyable starmap destination selected
+ID NOAPPLICABLEANALYSISSELECTED
+
+Name No Seed Available
+ID NOAVAILABLESEED
+
+Name Filters Not Designated
+ID NOSTORAGEFILTERSET
+
+Name No Checkpoint
+ID NOSUITMARKER
+
+Name Invalid Checkpoint
+ID SUITMARKERWRONGSIDE
+
+Name No Filter Selected
+ID NOFILTERELEMENTSELECTED
+
+Name No Bait Selected
+ID NOLUREELEMENTSELECTED
+
+Name No Fishable Water
+ID NOFISHABLEWATERBELOW
+
+Name No Power Consumers
+ID NOPOWERCONSUMERS
+
+Name No Wire Connected
+ID NOWIRECONNECTED
+
+Name Deconstruction Errand
+ID PENDINGDECONSTRUCTION
+
+Name Fishing Errand
+ID PENDINGFISH
+
+Name Harvest Errand
+ID PENDINGHARVEST
+
+Name Uproot Errand
+ID PENDINGUPROOT
+
+Name Repair Errand
+ID PENDINGREPAIR
+
+Name Settings Errand
+ID PENDINGSWITCHTOGGLE
+
+Name Work Errand
+ID PENDINGWORK
+
+Name Function Suspended
+ID POWERBUTTONOFF
+
+Name Liquid Available: {Liquids}
+ID PUMPINGSTATION
+
+Name Max Gas Pressure
+ID PRESSUREOK
+
+Name Low Air Pressure
+ID UNDERPRESSURE
+
+Name Storing: {Stored} / {Capacity} {Units}
+ID STORAGELOCKER
+
+Name Unassigned
+ID UNASSIGNED
+
+Name Under Construction
+ID UNDERCONSTRUCTION
+
+Name Construction Errand
+ID UNDERCONSTRUCTIONNOWORKER
+
+Name Awaiting Delivery
+{ItemsRemaining}
+ID WAITINGFORMATERIALS
+
+Name Awaiting Repair Delivery
+{ItemsRemaining}
+
+ID WAITINGFORREPAIRMATERIALS
+
+Name Missing Gantry
+ID MISSINGGANTRY
+
+Name Waiting To Disembark
+ID DISEMBARKINGDUPLICANT
+
+Name Parent Rocket: {0}
+ID ROCKETNAME
+
+Name Has Gantry
+ID HASGANTRY
+
+Name Normal
+ID NORMAL
+
+Name Charging Up
+ID MANUALGENERATORCHARGINGUP
+
+Name Powering
+ID MANUALGENERATORRELEASINGENERGY
+
+Name Generator Idle
+ID GENERATOROFFLINE
+
+Name Contents: {Contents}
+ID PIPE
+
+Name Contents: {Contents}
+ID CONVEYOR
+
+Name No Fabrications Queued
+ID FABRICATOREMPTY
+
+Name {FlushesRemaining} "Visits" Remaining
+ID TOILET
+
+Name Requires Emptying
+ID TOILETNEEDSEMPTYING
+
+Name Requires Emptying
+ID HABITATNEEDSEMPTYING
+
+Name Out of Order
+ID UNUSABLE
+
+Name No Research Focus Selected
+ID NORESEARCHSELECTED
+
+Name No Research Focus or Starmap Destination Selected
+ID NORESEARCHORDESTINATIONSELECTED
+
+Name Current <link="TECH">Research</link>: {Tech}
+ID RESEARCHING
+
+Name Tinkering: {0}
+ID TINKERING
+
+Name Max Flow Rate: {MaxFlow}
+ID VALVE
+
+Name Requested Flow Rate: {QueuedMaxFlow}
+ID VALVEREQUEST
+
+Name Emitting Light
+ID EMITTINGLIGHT
+
+Name Storing: {Stored}
+ID RATIONBOXCONTENTS
+
+Name Emitting {ElementType}: {FlowRate}
+ID EMITTINGELEMENT
+
+Name Emitting CO<sub>2</sub>: {FlowRate}
+ID EMITTINGCO2
+
+Name Emitting <link="OXYGEN">Oxygen</link>: {FlowRate}
+ID EMITTINGOXYGENAVG
+
+Name Emitting {Element}: {FlowRate}
+ID EMITTINGGASAVG
+
+Name Average Flow Rate: {FlowRate}
+ID PUMPINGLIQUIDORGAS
+
+Name Circuit Status: {CurrentLoad} / {MaxLoad}
+ID WIRECIRCUITSTATUS
+
+Name Max Wattage: {WireMaxWattage}
+ID WIREMAXWATTAGESTATUS
+
+Name Pump Not In Liquid
+ID NOLIQUIDELEMENTTOPUMP
+
+Name Pump Not In Gas
+ID NOGASELEMENTTOPUMP
+
+Name High Melt Risk
+ID PIPEMAYMELT
+
+Name Emitting {ElementTypes}: {FlowRate}
+ID ELEMENTEMITTEROUTPUT
+
+Name Consuming {ElementTypes}: {FlowRate}
+ID ELEMENTCONSUMER
+
+Name Spacecraft ready to land
+ID SPACECRAFTREADYTOLAND
+
+Name Consuming {ElementTypes}: {FlowRate}
+ID CONSUMINGFROMSTORAGE
+
+Name Emitting {ElementTypes}: {FlowRate}
+ID ELEMENTCONVERTEROUTPUT
+
+Name Using {ElementTypes}: {FlowRate}
+ID ELEMENTCONVERTERINPUT
+
+Name Requires Flipping
+ID AWAITINGCOMPOSTFLIP
+
+Name Awaiting Compostables
+ID AWAITINGWASTE
+
+Name Batteries Sufficiently Full
+ID BATTERIESSUFFICIENTLYFULL
+
+Name Insufficient Resources
+{ResourcesRequired}
+ID NEEDRESOURCEMASS
+
+Name <link="POWER">Power</link> Available: {JoulesAvailable}
+ID JOULESAVAILABLE
+
+Name Wattage: {Wattage}
+ID WATTAGE
+
+Name Current Wattage: {Wattage}
+ID SOLARPANELWATTAGE
+
+Name Next Duplicant: {TimeRemaining}
+ID WATTSON
+
+Name Lavatory Ready
+ID FLUSHTOILET
+
+Name Lavatory In Use
+ID FLUSHTOILETINUSE
+
+Name Wire Connected
+ID WIRECONNECTED
+
+Name Wire Nominal
+ID WIRENOMINAL
+
+Name Wire Disconnected
+ID WIREDISCONNECTED
+
+Name Cooling
+ID COOLING
+
+Name Gas Too Hot
+ID COOLINGSTALLEDHOTENV
+
+Name Gas Too Cold
+ID COOLINGSTALLEDCOLDGAS
+
+Name Liquid Too Hot
+ID COOLINGSTALLEDHOTLIQUID
+
+Name Liquid Too Cold
+ID COOLINGSTALLEDCOLDLIQUID
+
+Name Minimum Temperature Reached
+ID CANNOTCOOLFURTHER
+
+Name Max Temperature Reached
+ID HEATINGSTALLEDHOTENV
+
+Name Low Air Pressure
+ID HEATINGSTALLEDLOWMASS_GAS
+
+Name Not Submerged In Liquid
+ID HEATINGSTALLEDLOWMASS_LIQUID
+
+Name Building Disabled
+ID BUILDINGDISABLED
+
+Name Nominal
+ID WORKING
+
+Name Empty
+ID GRAVEEMPTY
+
+Name RIP {DeadDupe}
+ID GRAVE
+
+Name Incomplete Artwork
+ID AWAITINGARTING
+
+Name Crude
+ID LOOKINGUGLY
+
+Name Quaint
+ID LOOKINGOKAY
+
+Name Masterpiece
+ID LOOKINGGREAT
+
+Name Depleted
+ID EXPIRED
+
+
+Name Unarmed
+ID UNARMED
+
+Name Armed
+ID ARMED
+
+Name Countdown: {0}
+ID COUNTDOWN
+
+Name Duplicant Preservation Override
+ID DUPE_DANGER
+
+Name Exploding
+ID EXPLODING
+
+
+Name Consuming Fuel: {0}
+ID BURNING_FUEL
+
+Name Fueled: {0}
+ID HAS_FUEL
+
+
+Name Needs Bait
+ID NEEDSBAIT
+
+Name Set
+ID READY
+
+Name Sprung
+ID SPRUNG
+
+
+Name Access Restrictions
+ID ACTIVE
+
+Name Access Control Offline
+ID OFFLINE
+
+Name Specialist-Operated Building
+ID REQUIRESROLEPERK
+
+Name Miner-Only Dig
+ID DIGREQUIRESROLEPERK
+
+Name Colony Lacks {Roles}s
+ID COLONYLACKSREQUIREDROLEPERK
+
+Name Active
+ID SWITCHSTATUSACTIVE
+
+Name Inactive
+ID SWITCHSTATUSINACTIVE
+
+Name Unreachable food
+ID FOOD_CONTAINERS_OUTSIDE_RANGE
+
+Name Unreachable restroom
+ID TOILETS_OUTSIDE_RANGE
+
+Name Input Blocked
+ID TURBINE_BLOCKED_INPUT
+
+Name Output Blocked
+ID TURBINE_BLOCKED_OUTPUT
+
+Name Underpressure
+ID TURBINE_INSUFFICIENT_MASS
+
+Name Cold {ELEMENT}
+ID TURBINE_INSUFFICIENT_TEMPERATURE
+
+Name Spinning Up
+ID TURBINE_SPINNING_UP
+
+Name Active
+ID TURBINE_ACTIVE
+
+Name Backpressure: {0}
+ID WELL_PRESSURIZING
+
+Name Overpressure
+ID WELL_OVERPRESSURE
+
+Name Outside of room
+ID NOTINANYROOM
+
+Name Outside of {0}
+ID NOTINREQUIREDROOM
+
+Name Outside of {0}
+ID NOTINRECOMMENDEDROOM
+
+Name Releasing Pressure
+ID RELEASING_PRESSURE
+
+Name Feedback Loop
+ID LOGIC_FEEDBACK_LOOP
+
+Name Awaiting Coolant
+ID ENOUGH_COOLANT
+
+
+
+Name Too Cold
+ID TOO_COLD
+
+
+
+Name Awaiting Fuel: {0}
+ID AWAITINGFUEL
+
+Name No Automation Wire Connected
+ID NOLOGICWIRECONNECTED
+
+Name No Tube Connected
+ID NOTUBECONNECTED
+
+Name No Landing Available
+ID NOTUBEEXITS
+
+Name Charge Available: {0}/{1}
+ID STOREDCHARGE
+
+Name No Egg Selected
+ID NEEDEGG
+
+Name No Egg Available
+ID NOAVAILABLEEGG
+
+Name Awaiting Delivery
+ID AWAITINGEGGDELIVERY
+
+Name Incubating: {Percent}
+ID INCUBATORPROGRESS
+
+Name Scan Quality: {Quality}
+ID DETECTORQUALITY
+
+Name Scan Network Quality: {TotalQuality}
+ID NETWORKQUALITY
+
+Name Scanning
+ID DETECTORSCANNING
+
+Name Incoming Object Detected
+ID INCOMINGMETEORS
+
+Name No Line of Sight
+ID SPACE_VISIBILITY_NONE
+
+Name Reduced Visibility
+ID SPACE_VISIBILITY_REDUCED
+
+Name Launch Path Blocked
+ID PATH_NOT_CLEAR
+
+
+
+
+
+
+
+Name <link="GEYSERGENERICCHLORINEGAS">Chlorine Geyser</link>
+ID CHLORINEGEYSER
+Description A highly pressurized geyser that periodically erupts with <link="CHLORINEGAS">Chlorine</link>.
+
+Name <link="PACU">Pacu</link>
+ID PACU
+Description Pacus are aquatic creatures that cannot live outside of <link="WATER">Water</link> or <link="DIRTYWATER">Contaminated Water</link>.
+
+Every organism in the known universe finds the Pacu extremely delicious.
+
+Name <link="PACU">Pacu Fry</link>
+ID BABY
+Description A wriggly little Pacu Fry.
+
+In time, it will mature into an adult <link="PACU">Pacu</link>.
+
+Name <link="PACUTROPICAL">Tropical Pacu</link>
+ID VARIANT_TROPICAL
+Description Every organism in the known universe finds the Pacu extremely delicious.
+
+Name <link="PACUTROPICAL">Tropical Fry</link>
+ID BABY
+Description A wriggly little Tropical Fry.
+
+In time it will mature into an adult Pacu morph, the <link="PACUTROPICAL">Tropical Pacu</link>.
+
+Name <link="PACUCLEANER">Gulp Fish</link>
+ID VARIANT_CLEANER
+Description Every organism in the known universe finds the Pacu extremely delicious.
+
+Name <link="PACUCLEANER">Gulp Fry</link>
+ID BABY
+Description A wriggly little Gulp Fry.
+
+In time, it will mature into an adult <link="PACUCLEANER">Gulp Fish</link>.
+
+Name <link="GLOM">Morb</link>
+ID GLOM
+Description Morbs are attracted to unhygienic conditions and frequently excrete bursts of <link="CONTAMINATEDOXYGEN">Polluted Oxygen</link>.
+
+Name <link="HATCH">Hatch</link>
+ID HATCH
+Description Hatches excrete solid <link="CARBON">Coal</link> as waste and may be uncovered by digging up Buried Objects.
+
+Name <link="HATCH">Hatchling</link>
+ID BABY
+Description An innocent little Hatchling.
+
+In time, it will mature into an adult <link="HATCH">Hatch</link>.
+
+Name <link="HATCHHARD">Stone Hatch</link>
+ID VARIANT_HARD
+Description Stone Hatches excrete solid <link="CARBON">Coal</link> as waste and enjoy burrowing into the ground.
+
+Name <link="HATCHHARD">Stone Hatchling</link>
+ID BABY
+Description A doofy little Stone Hatchling.
+
+It matures into an adult Hatch morph, the <link="HATCHHARD">Stone Hatch</link>, which loves nibbling on various rocks and metals.
+
+Name <link="HATCHVEGGIE">Sage Hatch</link>
+ID VARIANT_VEGGIE
+Description Sage Hatches excrete solid <link="CARBON">Coal</link> as waste and enjoy burrowing into the ground.
+
+Name <link="HATCHVEGGIE">Sage Hatchling</link>
+ID BABY
+Description A doofy little Sage Hatchling.
+
+It matures into an adult Hatch morph, the <link="HATCHVEGGIE">Sage Hatch</link>, which loves nibbling on organic materials.
+
+Name <link="HATCHMETAL">Smooth Hatch</link>
+ID VARIANT_METAL
+Description Smooth Hatches excrete solid <link="COPPER">Copper</link> as waste and enjoy burrowing into the ground.
+
+Name <link="HATCHMETAL">Smooth Hatchling</link>
+ID BABY
+Description A doofy little Smooth Hatchling.
+
+It matures into an adult Hatch morph, the <link="HATCHMETAL">Smooth Hatch</link>, which loves nibbling on different types of metals.
+
+Name <link="DRECKO">Drecko</link>
+ID DRECKO
+Description Dreckos are nonhostile critters that graze only on live <link="BASICSINGLEHARVESTPLANT">Mealwood Plants</link>.
+
+Their backsides are covered in thick woolly fibers that only grow in <link="HYDROGEN">Hydrogen</link> climates.
+
+Name <link="DRECKO">Drecklet</link>
+ID BABY
+Description A little, bug-eyed Drecklet.
+
+In time it will mature into a fully grown <link="DRECKO">Drecko</link>.
+
+Name <link="DRECKOPLASTIC">Glossy Drecko</link>
+ID VARIANT_PLASTIC
+Description Glossy Dreckos are nonhostile critters that graze only on live <link="BASICSINGLEHARVESTPLANT">Mealwood Plants</link>.
+
+Their backsides are covered in bioplastic scales that only grow in <link="HYDROGEN">Hydrogen</link> climates.
+
+Name <link="DRECKOPLASTIC">Glossy Drecklet</link>
+ID BABY
+Description A bug-eyed little Glossy Drecklet.
+
+In time it will mature into an adult Drecko morph, the <link="DRECKOPLASTIC">Glossy Drecko</link>.
+
+Name <link="OILFLOATER">Slickster</link>
+ID OILFLOATER
+Description Slicksters are slimy critters that consume <link="CARBONDIOXIDE">Carbon Dioxide</link> and exude <link="CRUDEOIL">Crude Oil</link>.
+
+Name <link="OILFLOATER">Slickster Larva</link>
+ID BABY
+Description A goopy little Slickster Larva.
+
+One day it will grow into an adult <link="OILFLOATER">Slickster</link>.
+
+Name <link="OILFLOATERHIGHTEMP">Molten Slickster</link>
+ID VARIANT_HIGHTEMP
+Description Molten Slicksters are slimy critters that consume <link="CARBONDIOXIDE">Carbon Dioxide</link> and exude <link="PETROLEUM">Petroleum</link>.
+
+Name <link="OILFLOATERHIGHTEMP">Molten Larva</link>
+ID BABY
+Description A goopy little Molten Larva.
+
+One day it will grow into an adult Slickster morph, the <link="OILFLOATERHIGHTEMP">Molten Slickster</link>.
+
+Name <link="OILFLOATERDECOR">Longhair Slickster</link>
+ID VARIANT_DECOR
+Description Longhair Slicksters are friendly critters that consume <link="OXYGEN">Oxygen</link> and thrive in close contact with Duplicant companions.
+
+Longhairs have extremely beautiful and luxurious coats.
+
+Name <link="OILFLOATERDECOR">Longhair Larva</link>
+ID BABY
+Description A snuggly little Longhair Larva.
+
+One day it will grow into an adult Slickster morph, the <link="OILFLOATERDECOR">Longhair Slickster</link>.
+
+Name <link="PUFT">Puft</link>
+ID PUFT
+Description Pufts are non-aggressive critters that excrete lumps of <link="SLIMEMOLD">Slime</link> with each breath.
+
+Name <link="PUFT">Puftlet</link>
+ID BABY
+Description A gassy little Puftlet.
+
+In time it will grow into an adult <link="PUFT">Puft</link>.
+
+Name <link="PUFTALPHA">Puft Prince</link>
+ID VARIANT_ALPHA
+Description The Puft Prince is a lazy critter that excretes little lumps of <link="SLIMEMOLD">Slime</link> with each breath.
+
+Name <link="PUFTALPHA">Puftlet Prince</link>
+ID BABY
+Description A gassy little Puftlet Prince.
+
+One day it will grow into an adult Puft morph, the <link="PUFTALPHA">Puft Prince</link>.
+
+It seems a bit snobby...
+
+Name <link="PUFTOXYLITE">Dense Puft</link>
+ID VARIANT_OXYLITE
+Description Dense Pufts are non-aggressive critters that excrete condensed <link="OXYROCK">Oxylite</link> with each breath.
+
+Name <link="PUFTOXYLITE">Dense Puftlet</link>
+ID BABY
+Description A stocky little Dense Puftlet.
+
+One day it will grow into an adult Puft morph, the <link="PUFTOXYLITE">Dense Puft</link>.
+
+Name <link="PUFTBLEACHSTONE">Squeaky Puft</link>
+ID VARIANT_BLEACHSTONE
+Description Squeaky Pufts are non-aggressive critters that excrete lumps of <link="BLEACHSTONE">Bleachstone</link> with each breath.
+
+Name <link="PUFTBLEACHSTONE">Squeaky Puftlet</link>
+ID BABY
+Description A frazzled little Squeaky Puftlet.
+
+One day it will grow into an adult Puft morph, the <link="PUFTBLEACHSTONE">Squeaky Puft</link>.
+
+Name <link="MOO">Gassy Moo</link>
+ID MOO
+Description Moos are extraterrestrial critters that feed on <link="GASGRASS">Gas Grass</link> and excrete <link="METHANE">Natural Gas</link>.
+
+Name <link="MOLE">Shove Vole</link>
+ID MOLE
+Description Shove Voles are burrowing critters that eat the <link="REGOLITH">Regolith</link> collected on terrestrial surfaces.
+
+They cannot burrow through <link="REFINEDMETAL">Refined Metals</link>.
+
+Name <link="MOLE">Vole Pup</link>
+ID BABY
+Description A snuggly little pup.
+
+One day it will grow into an adult <link="MOLE">Shove Vole</link>.
+
+Name <link="GREEDYGREEN">Avari Vine</link>
+ID GREEDYGREEN
+Description A rapidly growing, subterranean <link="PLANTS">Plant</link>.
+
+Name <link="SHOCKWORM">Shockworm</link>
+ID SHOCKWORM
+Description Shockworms are exceptionally aggressive and discharge electrical shocks to stun their prey.
+
+Name <link="LIGHTBUG">Shine Bug</link>
+ID LIGHTBUG
+Description Shine Bugs emit a soft <link="LIGHT">Light</link> in hopes of attracting more of their kind for company.
+
+Name <link="LIGHTBUG">Shine Nymph</link>
+ID BABY
+Description A chubby baby <link="LIGHTBUG">Shine Bug</link>.
+
+Name <link="LIGHTBUGORANGE">Sun Bug</link>
+ID VARIANT_ORANGE
+Description Shine Bugs emit a soft <link="LIGHT">Light</link> in hopes of attracting more of their kind for company.
+
+The light of the Sun morph has been turned orange through selective breeding.
+
+Name <link="LIGHTBUGORANGE">Sun Nymph</link>
+ID BABY
+Description A chubby baby <link="LIGHTBUGORANGE">Shine Bug</link>.
+
+This one is a Sun morph.
+
+Name <link="LIGHTBUGPURPLE">Royal Bug</link>
+ID VARIANT_PURPLE
+Description Shine Bugs emit a soft <link="LIGHT">Light</link> in hopes of attracting more of their kind for company.
+
+The light of the Royal morph has been turned purple through selective breeding.
+
+Name <link="LIGHTBUGPURPLE">Royal Nymph</link>
+ID BABY
+Description A chubby baby <link="LIGHTBUGPURPLE">Shine Bug</link>.
+
+This one is a Royal morph.
+
+Name <link="LIGHTBUGPINK">Coral Bug</link>
+ID VARIANT_PINK
+Description Shine Bugs emit a soft <link="LIGHT">Light</link> in hopes of attracting more of their kind for company.
+
+The light of the Coral morph has been turned pink through selective breeding.
+
+Name <link="LIGHTBUGPINK">Coral Nymph</link>
+ID BABY
+Description A chubby baby <link="LIGHTBUGPINK">Shine Bug</link>.
+
+This one is a Coral morph.
+
+Name <link="LIGHTBUGBLUE">Azure Bug</link>
+ID VARIANT_BLUE
+Description Shine Bugs emit a soft <link="LIGHT">Light</link> in hopes of attracting more of their kind for company.
+
+The light of the Azure morph has been turned blue through selective breeding.
+
+Name <link="LIGHTBUGBLUE">Azure Nymph</link>
+ID BABY
+Description A chubby baby <link="LIGHTBUGBLUE">Shine Bug</link>.
+
+This one is an Azure morph.
+
+Name <link="LIGHTBUGBLACK">Abyss Bug</link>
+ID VARIANT_BLACK
+Description This Shine Bug emits no <link="LIGHT">Light</link>, but it makes up for it by having an excellent personality.
+
+Name <link="LIGHTBUGBLACK">Abyss Nymph</link>
+ID BABY
+Description A chubby baby <link="LIGHTBUGBLACK">Shine Bug</link>.
+
+This one is an Abyss morph.
+
+Name <link="LIGHTBUGCRYSTAL">Radiant Bug</link>
+ID VARIANT_CRYSTAL
+Description Shine Bugs emit a soft <link="LIGHT">Light</link> in hopes of attracting more of their kind for company.
+
+The light of the Radiant morph has been amplified through selective breeding.
+
+Name <link="LIGHTBUGCRYSTAL">Radiant Nymph</link>
+ID BABY
+Description A chubby baby <link="LIGHTBUGCRYSTAL">Shine Bug</link>.
+
+This one is a Radiant morph.
+
+Name <link="GEYSER">Steam Geyser</link>
+ID GEYSER
+Description A highly pressurized geyser that periodically erupts, spraying <link="STEAM">Steam</link> and boiling hot <link="WATER">Water</link>.
+
+Name <link="GEYSERGENERICSTEAM">Cool Steam Vent</link>
+ID STEAM
+Description A highly pressurized vent that periodically erupts with <link="STEAM">Steam</link>.
+
+Name <link="GEYSERGENERICHOTSTEAM">Steam Vent</link>
+ID HOT_STEAM
+Description A highly pressurized vent that periodically erupts with scalding <link="STEAM">Steam</link>.
+
+Name <link="GEYSERGENERICHOTWATER">Water Geyser</link>
+ID HOT_WATER
+Description A highly pressurized geyser that periodically erupts with hot <link="STEAM">Steam</link>.
+
+Name <link="GEYSERGENERICSLUSHWATER">Cool Slush Geyser</link>
+ID SLUSH_WATER
+Description A highly pressurized geyser that periodically erupts with freezing <link="CRUSHEDICE">Crushed Ice</link>.
+
+Name <link="GEYSERGENERICFILTHYWATER">Polluted Water Vent</link>
+ID FILTHY_WATER
+Description A highly pressurized vent that periodically erupts with boiling <link="DIRTYWATER">Contaminated Water</link>.
+
+Name <link="GEYSERGENERICSMALLVOLCANO">Minor Volcano</link>
+ID SMALL_VOLCANO
+Description A miniature volcano that periodically erupts with molten <link="MAGMA">Magma</link>.
+
+Name <link="GEYSERGENERICBIGVOLCANO">Volcano</link>
+ID BIG_VOLCANO
+Description A massive volcano that periodically erupts with molten <link="MAGMA">Magma</link>.
+
+Name <link="GEYSERGENERICLIQUIDCO2">Carbon Dioxide Geyser</link>
+ID LIQUID_CO2
+Description A highly pressurized geyser that periodically erupts with boiling liquid <link="LIQUIDCARBONDIOXIDE">Carbon Dioxide</link>.
+
+Name <link="GEYSERGENERICHOTCO2">Carbon Dioxide Vent</link>
+ID HOT_CO2
+Description A highly pressurized vent that periodically erupts with hot gaseous <link="CARBONDIOXIDE">Carbon Dioxide</link>.
+
+Name <link="GEYSERGENERICHOTHYDROGEN">Hydrogen Vent</link>
+ID HOT_HYDROGEN
+Description A highly pressurized vent that periodically erupts with hot gaseous <link="HYDROGEN">Hydrogen</link>.
+
+Name <link="GEYSERGENERICHOTPO2">Hot Polluted Oxygen Vent</link>
+ID HOT_PO2
+Description A highly pressurized vent that periodically erupts with hot <link="CONTAMINATEDOXYGEN">Polluted Oxygen</link>.
+
+Name <link="GEYSERGENERICSLIMYPO2">Infectious Polluted Oxygen Vent</link>
+ID SLIMY_PO2
+Description A highly pressurized vent that periodically erupts with warm <link="CONTAMINATEDOXYGEN">Polluted Oxygen</link>.
+
+Name <link="GEYSERGENERICCHLORINEGAS">Chlorine Gas Vent</link>
+ID CHLORINE_GAS
+Description A highly pressurized vent that periodically erupts with warm <link="CHLORINEGAS">Chlorine</link>.
+
+Name <link="GEYSERGENERICMETHANE">Natural Gas Geyser</link>
+ID METHANE
+Description A highly pressurized geyser that periodically erupts with hot <link="METHANE">Natural Gas</link>.
+
+Name <link="GEYSERGENERICMOLTENCOPPER">Copper Volcano</link>
+ID MOLTEN_COPPER
+Description A large volcano that periodically erupts with molten <link="MOLTENCOPPER">Copper</link>.
+
+Name <link="GEYSERGENERICMOLTENIRON">Iron Volcano</link>
+ID MOLTEN_IRON
+Description A large volcano that periodically erupts with molten <link="MOLTENIRON">Iron</link>.
+
+Name <link="GEYSERGENERICMOLTENGOLD">Gold Volcano</link>
+ID MOLTEN_GOLD
+Description A large volcano that periodically erupts with molten <link="MOLTENGOLD">Gold</link>.
+
+Name <link="GEYSERGENERICOILDRIP">Leaky Oil Fissure</link>
+ID OIL_DRIP
+Description A fissure that periodically erupts with boiling <link="CRUDEOIL">Crude Oil</link>.
+
+Name <link="GEYSERGENERICMETHANEGEYSER">Natural Gas Geyser</link>
+ID METHANEGEYSER
+Description A highly pressurized geyser that periodically erupts with <link="METHANE">Natural Gas</link>.
+
+Name <link="OILWELL">Oil Reservoir</link>
+ID OIL_WELL
+Description Oil Reservoirs are rock formations with <link="CRUDEOIL">Crude Oil</link> deposits beneath their surface.
+
+Oil can be extracted from a reservoir with sufficient pressure.
+
+Name <link="MUSHROOMPLANT">Dusk Cap</link>
+ID MUSHROOMPLANT
+Description Dusk Caps produce <link="MUSHROOM">Mushrooms</link>, fungal growths that can be harvested for <link="FOOD">Food</link>.
+
+Name <link="GEYSERS">Steam Spout</link>
+ID STEAMSPOUT
+Description A rocky vent that spouts <link="STEAM">Steam</link>.
+
+Name <link="GEYSERS">Propane Spout</link>
+ID PROPANESPOUT
+Description A rocky vent that spouts <link="PROPANE">Propane</link>.
+
+Name <link="OILSPOUT">Oil Spout</link>
+ID OILSPOUT
+Description A rocky vent that spouts crude oil.
+
+Name <link="HEATBULB">Fervine</link>
+ID HEATBULB
+Description A temperature reactive, subterranean <link="PLANTS">Plant</link>.
+
+Name <link="HEATBULBSEED">Fervine Bulb</link>
+ID HEATBULBSEED
+Description A temperature reactive, subterranean <link="PLANTS">Plant</link>.
+
+Name <link="PACUEGG">Pacu Egg</link>
+ID PACUEGG
+Description A tiny Pacu is nestled inside.
+
+It is not yet ready for the world.
+
+Name <link="MYSTERYEGG">Mysterious Egg</link>
+ID MYSTERYEGG
+Description What's growing inside? Something nice? Something mean?
+
+Name <link="SWAMPLILY">Balm Lily</link>
+ID SWAMPLILY
+Description Balm Lilies produce Balm Lily Flower, a lovely bloom with medicinal properties.
+
+Name <link="JUNGLEGASPLANT">Palmera Tree</link>
+ID JUNGLEGASPLANT
+Description A large, chlorine-dwelling <link="PLANTS">Plant</link> that can be grown in farm buildings.
+
+Palmeras grow inedible buds that emit toxic hydrogen gas.
+
+Name <link="PRICKLEFLOWER">Bristle Blossom</link>
+ID PRICKLEFLOWER
+Description Bristle Blossoms produce <link="PRICKLEFRUIT">Bristle Berry</link>, a prickly edible bud.
+
+Name <link="COLDWHEAT">Sleet Wheat</link>
+ID COLDWHEAT
+Description Sleet Wheat produces <link="COLDWHEATSEED">Sleet Wheat Grain</link>, a chilly grain that can be processed into <link="FOOD">Food</link>.
+
+Name <link="GASGRASS">Gas Grass</link>
+ID GASGRASS
+Description Gas grass.
+
+Name <link="PRICKLEGRASS">Bluff Briar</link>
+ID PRICKLEGRASS
+Description Bluff Briars exude pheromones causing critters to view them as especially beautiful.
+
+Name <link="POTTEDLEAFY">Mirth Leaf</link>
+ID LEAFYPLANT
+Description Mirth Leaves sport a calm green hue known for alleviating <link="STRESS">Stress</link> and improving <link="MORALE">Morale</link>.
+
+Name <link="POTTEDCACTUS">Jumping Joya</link>
+ID CACTUSPLANT
+Description Joyas are <link="DECOR">Decorative</link> <link="PLANTS">Plants</link> that are colloquially said to make gardeners "jump for joy".
+
+Name <link="POTTEDBULB">Buddy Bud</link>
+ID BULBPLANT
+Description Buddy Buds are leafy plants that have a positive effect on <link="MORALE">Morale</link>, much like a friend.
+
+Name <link="BASICSINGLEHARVESTPLANT">Mealwood</link>
+ID BASICSINGLEHARVESTPLANT
+Description Mealwoods produce <link="BASICPLANTFOOD">Meal Lice</link>, an oddly wriggly grain that can be harvested for <link="FOOD">Food</link>.
+
+Name <link="BASICFABRICPLANT">Thimble Reed</link>
+ID BASICFABRICMATERIALPLANT
+Description Thimble Reeds produce indescribably soft Reed Fiber for <link="EQUIPMENT">Clothing</link> production.
+
+Name <link="BASICFORAGEPLANTPLANTED">Buried Muckroot</link>
+ID BASICFORAGEPLANTPLANTED
+Description Muckroots are incapable of propagating but can be harvested for a single <link="FOOD">Food</link> serving.
+
+Name <link="COLDBREATHER">Wheezewort</link>
+ID COLDBREATHER
+Description Wheezeworts can be grown in flower pots and absorb <link="HEAT">Heat</link> by respiring through their porous outer membranes.
+
+Name <link="SPICEVINE">Pincha Pepperplant</link>
+ID SPICE_VINE
+Description Pincha Pepperplants produce flavorful <link="SPICENUT">Pincha Peppernut</link> for spicing <link="FOOD">Food</link>.
+
+
+Name <link="LEAFYPLANT">Mirth Leaf Seed</link>
+ID LEAFYPLANT
+Description The <link="PLANTS">Seed</link> of a <link="LEAFYPLANT">Mirth Leaf</link>.
+
+Digging up Buried Objects may uncover a Mirth Leaf Seed.
+
+Name <link="CACTUSPLANT">Joya Seed</link>
+ID CACTUSPLANT
+Description The <link="PLANTS">Seed</link> of a <link="CACTUSPLANT">Jumping Joya</link>.
+
+Digging up Buried Objects may uncover a Joy Seed.
+
+Name <link="BULBPLANT">Buddy Bud Seed</link>
+ID BULBPLANT
+Description The <link="PLANTS">Seed</link> of a <link="BULBPLANT">Buddy Bud</link>.
+
+Digging up Buried Objects may uncover a Buddy Bud Seed.
+
+
+Name <link="PRICKLEFLOWER">Blossom Seed</link>
+ID PRICKLEFLOWER
+Description The <link="PLANTS">Seed</link> of a <link="PRICKLEFLOWER">Bristle Blossom</link>.
+
+Digging up Buried Objects may uncover a Blossom Seed.
+
+Name <link="MUSHROOMPLANT">Fungal Spore</link>
+ID MUSHROOMPLANT
+Description The <link="PLANTS">Seed</link> of a <link="MUSHROOMPLANT">Dusk Cap</link>.
+
+Digging up Buried Objects may uncover a Fungal Spore.
+
+Name <link="COLDWHEAT">Sleet Wheat Grain</link>
+ID COLDWHEAT
+Description The <link="PLANTS">Seed</link> of a <link="COLDWHEAT">Sleet Wheat</link> plant.
+
+Grain can be sown to cultivate more Sleet Wheat, or processed into <link="FOOD">Food</link>.
+
+Name <link="GASGRASS">Gas Grass Seed</link>
+ID GASGRASS
+Description The <link="PLANTS">Seed</link> of a <link="GASGRASS">Gas Grass</link> plant.
+
+Used as feed for<link="MOO">Gassy Moos</link>.
+
+Name <link="PRICKLEGRASS">Briar Seed</link>
+ID PRICKLEGRASS
+Description The <link="PLANTS">Seed</link> of a <link="PRICKLEGRASS">Bluff Briar</link>.
+
+Digging up Buried Objects may uncover a Briar Seed.
+
+Name <link="SWAMPLILY">Balm Lily Seed</link>
+ID SWAMPLILY
+Description The <link="PLANTS">Seed</link> of a <link="SWAMPLILY">Balm Lily</link>.
+
+Digging up Buried Objects may uncover a Balm Lily Seed.
+
+Name <link="BASICSINGLEHARVESTPLANT">Mealwood Seed</link>
+ID BASICSINGLEHARVESTPLANT
+Description The <link="PLANTS">Seed</link> of a <link="BASICSINGLEHARVESTPLANT">Mealwood</link>.
+
+Digging up Buried Objects may uncover a Mealwood Seed.
+
+Name <link="COLDBREATHER">Wort Seed</link>
+ID COLDBREATHER
+Description The <link="PLANTS">Seed</link> of a <link="COLDBREATHER">Wheezewort</link>.
+
+Digging up Buried Objects may uncover a Wort Seed.
+
+Name <link="BASICFABRICPLANT">Thimble Reed Seed</link>
+ID BASICFABRICMATERIALPLANT
+Description The <link="PLANTS">Seed</link> of a <link="BASICFABRICPLANT">Thimble Reed</link>.
+
+Digging up Buried Objects may uncover a Thimble Reed Seed.
+
+Name <link="SPICEVINE">Pincha Pepper Seed</link>
+ID SPICE_VINE
+Description The <link="PLANTS">Seed</link> of a <link="SPICEVINE">Pincha Pepperplant</link>.
+
+Digging up Buried Objects may uncover a Pincha Pepper Seed.
+
+Name <link="OILEATER">Ink Bloom Seed</link>
+ID OILEATER
+Description The <link="PLANTS">Seed</link> of a <link="INK BLOOM">plant</link>.
+
+Digging up Buried Objects may uncover an Ink Bloom Seed.
+
+
+Name Sleeping
+ID SLEEPING
+
+Name Calling Adult
+ID CALL_ADULT
+
+Name Toasty surroundings
+ID HOT
+
+Name Chilly surroundings
+ID COLD
+
+Name     • Illumination
+ID CROP_TOO_DARK
+
+Name     • Illumination
+ID CROP_TOO_BRIGHT
+
+Name     • Body Temperature
+ID HOT_CROP
+
+Name     • Body Temperature
+ID COLD_CROP
+
+Name Ideal Temperature
+ID PERFECTTEMPERATURE
+
+Name Eating
+ID EATING
+
+Name Digesting
+ID DIGESTING
+
+Name Chilly Breath
+ID COOLING
+
+Name Foraging
+ID LOOKINGFORFOOD
+
+Name Idle
+ID IDLE
+
+Name Excited
+ID EXCITED_TO_GET_RANCHED
+
+Name Being Groomed
+ID GETTING_RANCHED
+
+Name Freshly Groomed
+ID EXCITED_TO_BE_RANCHED
+
+Name Being Wrangled
+ID GETTING_WRANGLED
+
+Name Trussed
+ID BAGGED
+
+Name Incubation Complete
+ID IN_INCUBATOR
+
+Name Freezing
+ID HYPOTHERMIA
+
+Name Scalding
+ID SCALDING
+
+Name Overheating
+ID HYPERTHERMIA
+
+Name Fatigued
+ID TIRED
+
+Name Suffocating
+ID BREATH
+
+Name Dead
+ID DEAD
+
+Name Dead
+ID PLANTDEATH
+
+Name Struggling
+ID STRUGGLING
+
+Name Burrowing
+ID BURROWING
+
+Name Burrowed
+ID BURROWED
+
+Name Emerging
+ID EMERGING
+
+Name Expelling Waste
+ID EXPELLING_SOLID
+
+Name Passing Gas
+ID EXPELLING_GAS
+
+Name Expelling Waste
+ID EXPELLING_LIQUID
+
+Name Moving to debug location
+ID DEBUGGOTO
+
+Name Stalking Target
+ID ATTACK_APPROACH
+
+Name Combat!
+ID ATTACK
+
+Name Laying an egg
+ID LAYINGANEGG
+
+Name Maturing
+ID GROWINGUP
+
+Name Suffocating
+ID SUFFOCATING
+
+Name Hatching
+ID HATCHING
+
+Name Incubating
+ID INCUBATING
+
+Name Piqued
+ID CONSIDERINGLURE
+
+Name Falling
+ID FALLING
+
+Name Flopping
+ID FLOPPING
+
+Name     • Beached
+ID DRYINGOUT
+
+Name Growing [{PercentGrow}%]
+ID GROWING
+
+Name Sleeping [{REASON}]
+ID CROP_SLEEPING
+
+Name     • Fertilization
+ID NEEDSFERTILIZER
+
+Name     • Irrigation
+ID NEEDSIRRIGATION
+
+Name     • Fertilization
+ID WRONGFERTILIZER
+
+Name     • Fertilization
+ID WRONGIRRIGATION
+
+Name     • Fertilization
+ID WRONGFERTILIZERMAJOR
+
+Name     • Irrigation
+ID WRONGIRRIGATIONMAJOR
+
+Name     • Fertilization
+ID CANTACCEPTFERTILIZER
+
+Name     • Irrigation
+ID CANTACCEPTIRRIGATION
+
+Name Harvest Ready
+ID READYFORHARVEST
+
+Name Standard Yield
+ID LOW_YIELD
+
+Name Good Yield
+ID NORMAL_YIELD
+
+Name Excellent Yield
+ID HIGH_YIELD
+
+Name Entombed
+ID ENTOMBED
+
+Name Drowning
+ID DROWNING
+
+Name Growth Halted{Reasons}
+ID WILTING
+
+Name Growth Halted{Reasons}
+ID WILTINGDOMESTIC
+
+Name Growth Halted{Reasons}
+ID WILTING_NON_GROWING_PLANT
+
+Name Barren
+ID BARREN
+
+Name     • Pressure
+ID ATMOSPHERICPRESSURETOOLOW
+
+Name     • Atmosphere
+ID WRONGATMOSPHERE
+
+Name     • Pressure
+ID ATMOSPHERICPRESSURETOOHIGH
+
+Name Ideal Air Pressure
+ID PERFECTATMOSPHERICPRESSURE
+
+Name Injuries: {healthState}
+ID HEALTHSTATUS
+
+Name Fleeing
+ID FLEEING
+
+Name Unrefrigerated
+ID UNREFRIGERATED
+
+Name Pollution Exposure
+ID CONTAMINATEDATMOSPHERE
+
+Name Sterile Atmosphere
+ID STERILIZINGATMOSPHERE
+
+Name Fresh {RotPercentage}
+ID FRESH
+
+Name Stale {RotPercentage}
+ID STALE
+
+Name Rotten
+ID SPOILED
+
+Name Stunted Scales
+ID STUNTED_SCALE_GROWTH
+
+Name Refrigerated
+ID REFRIGERATED
+
+Name     • Farm plot inoperable
+ID RECEPTACLEINOPERATIONAL
+
+Name Trapped
+ID TRAPPED
+
+Name Exhaling
+ID EXHALING
+
+Name Inhaling
+ID INHALING
+
+Name External Temperature
+ID EXTERNALTEMPERATURE
+
+Name Farm plot operational
+ID RECEPTACLEOPERATIONAL
+
+Name Domestication Level: {LevelName}
+ID DOMESTICATION
+
+Name Hungry
+ID HUNGRY
+
+Name Starving
+Time until death: {TimeUntilDeath}
+
+ID STARVING
+
+Name Elderly
+ID OLD
+
+
+Name Health
+ID HEALTH
+
+Name Age
+ID AGE
+
+Name Growth Progress
+ID MATURITY
+
+Name Fertilization
+ID FERTILIZATION
+
+Name Domestication
+ID DOMESTICATION
+
+Name Happiness
+ID HAPPINESS
+
+Name Wildness
+ID WILDNESS
+
+Name Reproduction
+ID FERTILITY
+
+Name Incubation
+ID INCUBATION
+
+Name Viability
+ID VIABILITY
+
+Name Irrigation
+ID IRRIGATION
+
+Name Illumination
+ID ILLUMINATION
+
+Name Thermal Conductivity Barrier
+ID THERMALCONDUCTIVITYBARRIER
+
+Name Freshness Percent
+ID ROT
+
+Name Scale Growth
+ID SCALEGROWTH
+
+Name Air Pressure
+ID AIRPRESSURE
+
+
+Name Happiness Increasing
+ID DOMESTICATION_INCREASING
+
+Name Happiness Decreasing
+ID DOMESTICATION_DECREASING
+
+Name Base Reproduction
+ID BASE_FERTILITY
+
+Name Base Incubation Rate
+ID BASE_INCUBATION_RATE
+
+Name Scale Regrowth Rate
+ID SCALE_GROWTH_RATE
+
+Name Lullabied
+ID INCUBATOR_SONG
+
+Name Incubating
+ID INCUBATING
+
+Name Growth Suppressed
+ID INCUBATING_SUPPRESSED
+
+Name Groomed
+ID RANCHED
+
+Name Happy
+ID HAPPY
+
+Name Glum
+ID UNHAPPY
+
+Name Ate From Feeder
+ID ATE_FROM_FEEDER
+
+Name Wild
+ID WILD
+
+Name Aging
+ID AGE
+
+Name Tiny Baby!
+ID BABY
+
+Name Tame
+ID TAME
+
+Name Starving
+ID OUT_OF_CALORIES
+
+Name Cramped
+ID FUTURE_OVERCROWDED
+
+Name Overcrowded
+ID OVERCROWDED
+
+Name Confined
+ID CONFINED
+
+
+Name Diet
+ID DIET
+Description Eats: {0}
+
+Name Nearby Critters
+ID NEARBY_CREATURE
+Description Penned with: {0}
+
+Name No Nearby Critters
+ID NEARBY_CREATURE_NEG
+Description Not penned with: {0}
+
+Name Temperature
+ID TEMPERATURE
+Description Body temperature: Between {0} and {1}
+
+
+
+
+Name Novice Research
+ID ALPHA
+Description <link="RESEARCH">Novice Research</link> is required to unlock basic technologies.
+It can be conducted at a <link="RESEARCHCENTER">Research Station</link>.
+
+Name Advanced Research
+ID BETA
+Description <link="RESEARCH">Advanced Research</link> is required to unlock improved technologies.
+It can be conducted at a <link="ADVANCEDRESEARCHCENTER">Super Computer</link>.
+
+Name Interstellar Research
+ID GAMMA
+Description <link="RESEARCH">Interstellar Research</link> is required to unlock space technologies.
+It can be conducted at a <link="COSMICRESEARCHCENTER">Virtual Planetarium</link>.
+
+
+Name Automation Overlay
+ID AUTOMATION_OVERLAY
+Description Enables access to the Automation Overlay.
+
+Name Exosuit Overlay
+ID SUITS_OVERLAY
+Description Enables access to the Exosuit Overlay.
+
+Name Jet Suit Pattern
+ID JET_SUIT
+Description Enables fabrication of Jet Suits at the Exosuit Forge.
+
+Name Advanced Research Capability
+ID BETA_RESEARCH_POINT
+Description Allows Advanced Research Points to be accumulated, unlocking higher technology tiers.
+
+Name Interstellar Research Capability
+ID GAMMA_RESEARCH_POINT
+Description Allows Interstellar Research Points to be accumulated, unlocking higher technology tiers.
+
+Name Conveyor Overlay
+ID CONVEYOR_OVERLAY
+Description Enables access to the Conveyor Overlay.
+
+
+Name <link="JOBS">Jobs</link>
+ID JOBS
+Description Assign Duplicants jobs
+
+Name <link="IMPROVEDOXYGEN">Air Systems</link>
+ID IMPROVEDOXYGEN
+Description Make the air in the colony clean and breathable.
+
+Name <link="FARMINGTECH">Basic Farming</link>
+ID FARMINGTECH
+Description Learn the introductory principles of <link="PLANTS">Plant</link> domestication.
+
+Name <link="AGRICULTURE">Agriculture</link>
+ID AGRICULTURE
+Description Master the agricultural art of crop raising.
+
+Name <link="RANCHING">Ranching</link>
+ID RANCHING
+Description Manage and care for critters.
+
+Name <link="ANIMALCONTROL">Animal Control</link>
+ID ANIMALCONTROL
+Description Useful techniques to manage critter populations in the colony.
+
+Name <link="FINEDINING">Meal Preparation</link>
+ID FINEDINING
+Description Prepare more nutritious <link="FOOD">Food</link> and store it longer before spoiling.
+
+Name <link="GASPIPING">Ventilation</link>
+ID GASPIPING
+Description Rudimentary technologies for installing <link="ELEMENTSGAS">Gas</link> infrastructure.
+
+Name <link="IMPROVEDGASPIPING">Improved Ventilation</link>
+ID IMPROVEDGASPIPING
+Description <link="ELEMENTSGAS">Gas</link> infrastructure capable of withstanding more intense conditions, such as <link="HEAT">Heat</link> and pressure.
+
+Name <link="TEMPERATUREMODULATION">Temperature Modulation</link>
+ID TEMPERATUREMODULATION
+Description Perfect <link="HEAT">Temperature</link> changing technologies to keep my colony at the perfect Kelvin.
+
+Name <link="HVAC">HVAC</link>
+ID HVAC
+Description Regulate <link="HEAT">Temperature</link> in the colony for <link="PLANTS">Plant</link> cultivation and Duplicant comfort.
+
+Name <link="LIQUIDTEMPERATURE">Liquid Tuning</link>
+ID LIQUIDTEMPERATURE
+Description Easily manipulate <link="ELEMENTSLIQUID">Liquid</link> <link="TEMPERATURES">heat</link> with these technologies.
+
+Name <link="INSULATION">Insulation</link>
+ID INSULATION
+Description Improve <link="HEAT">Heat</link> distribution in my base and guard buildings from extreme temperatures.
+
+Name <link="PRESSUREMANAGEMENT">Pressure Management</link>
+ID PRESSUREMANAGEMENT
+Description Unlock technologies to manage colony pressure and atmosphere.
+
+Name <link="DIRECTEDAIRSTREAMS">Decontamination</link>
+ID DIRECTEDAIRSTREAMS
+Description Instruments to help reduce <link="DISEASE">Germ</link> spread in my base.
+
+Name <link="LIQUIDPIPING">Plumbing</link>
+ID LIQUIDPIPING
+Description Rudimentary technologies for installing <link="ELEMENTSLIQUID">Liquid</link> infrastructure.
+
+Name <link="IMPROVEDLIQUIDPIPING">Improved Plumbing</link>
+ID IMPROVEDLIQUIDPIPING
+Description <link="ELEMENTSLIQUID">Liquid</link> infrastructure capable of withstanding more intense conditions, such as <link="HEAT">Heat</link> and pressure.
+
+Name <link="PRECISIONPLUMBING">Precision Plumbing</link>
+ID PRECISIONPLUMBING
+Description Precise control of the flow and temperature of <link="ELEMENTSLIQUID">Liquids</link> allows the creation of <link="QUALITYOFLIFE">Morale</link>-enhancing devices.
+
+Name <link="SANITATIONSCIENCES">Sanitation</link>
+ID SANITATIONSCIENCES
+Description Make daily ablutions less of a hassle.
+
+Name <link="MEDICALRESEARCH">Medical Research</link>
+ID MEDICALRESEARCH
+Description Basic medical knowledge to fight the common <link="DISEASE">Diseases</link> that plague Duplicants.
+
+Name <link="MEDBAY">Healthcare</link>
+ID MEDBAY
+Description Prevent injury and <link="DISEASE">Disease</link> from running rampant in the colony.
+
+Name <link="ADVANCEDFILTRATION">Filtration</link>
+ID ADVANCEDFILTRATION
+Description Basic technologies for filtering <link="ELEMENTSLIQUID">Liquid</link> and <link="ELEMENTSGAS">Gas</link>.
+
+Name <link="POWERREGULATION">Power Regulation</link>
+ID POWERREGULATION
+Description Prevent wasted <link="POWER">Power</link> with improved electrical tools.
+
+Name <link="COMBUSTION">Internal Combustion</link>
+ID COMBUSTION
+Description Crude fuel-powered generators for automatic <link="POWER">Power</link> production.
+
+Name <link="IMPROVEDCOMBUSTION">Fossil Fuels</link>
+ID IMPROVEDCOMBUSTION
+Description Burn dirty fuels for exceptional <link="POWER">Power</link> production.
+
+Name <link="INTERIORDECOR">Interior Decor</link>
+ID INTERIORDECOR
+Description <link="DECOR">Decor</link> boosting items to counteract the gloom of underground living.
+
+Name <link="ARTISTRY">Artistic Expression</link>
+ID ARTISTRY
+Description Majorly improve <link="DECOR">Decor</link> by allowing Duplicants artistic and emotional expression.
+
+Name <link="CLOTHING">Textile Production</link>
+ID CLOTHING
+Description Allow Duplicants to explore their softer side.
+
+Name <link="ACOUSTICS">Acoustics</link>
+ID ACOUSTICS
+Description Precise control of the audio spectrum allows Duplicants to get funky.
+
+Name <link="LUXURY">Home Luxuries</link>
+ID LUXURY
+Description Luxury amenities for advanced <link="STRESS">Stress</link> reduction.
+
+Name <link="FINEART">Fine Art</link>
+ID FINEART
+Description Broader options for artistic <link="DECOR">Decor</link> improvements.
+
+Name <link="REFRACTIVEDECOR">Advanced Chiselwork</link>
+ID REFRACTIVEDECOR
+Description Methods for working with high quality art materials.
+
+Name <link="ADVANCEDPOWERREGULATION">Advanced Power Regulation</link>
+ID ADVANCEDPOWERREGULATION
+Description Circuit components required for large scale <link="POWER">Power</link> management.
+
+Name <link="PLASTICS">Plastic Manufacturing</link>
+ID PLASTICS
+Description Stable, lightweight, durable. Plastics are useful in a wide array of applications.
+
+Name <link="SUITS">Environmental Protection</link>
+ID SUITS
+Description Craft the equipment necessary to survive in extreme conditions and environments.
+
+Name <link="DISTILLATION">Distillation</link>
+ID DISTILLATION
+Description Distill difficult mixtures down to their most useful parts.
+
+Name <link="CATALYTICS">Catalytics</link>
+ID CATALYTICS
+Description Advanced gas manipulation using catalysts.
+
+Name <link="ADVANCEDRESEARCH">Advanced Research</link>
+ID ADVANCEDRESEARCH
+Description The tools my colony needs to conduct more advanced and in-depth research.
+
+Name <link="LOGICCONTROL">Automatic Control</link>
+ID LOGICCONTROL
+Description Switches for controlling colony buildings.
+
+Name <link="LOGICCIRCUITS">Advanced Automation</link>
+ID LOGICCIRCUITS
+Description Logic gates and wiring to allow me to program my base.
+
+Name <link="VALVEMINIATURIZATION">Valve Miniaturization</link>
+ID VALVEMINIATURIZATION
+Description Smaller, more efficient pumps for those low-throughput situations.
+
+Name <link="PRETTYGOODCONDUCTORS">Low-Resistance Conductors</link>
+ID PRETTYGOODCONDUCTORS
+Description Pure-core wires that can handle more current without overloading.
+
+Name <link="RENEWABLEENERGY">Renewable Energy</link>
+ID RENEWABLEENERGY
+Description Clean <link="POWER">Power</link> production
+
+Name <link="BASICREFINEMENT">Brute-Force Refinement</link>
+ID BASICREFINEMENT
+Description When life gives you rocks, make rock-aid! (Or sand.)
+
+Name <link="METALREFINEMENT">Metallurgy</link>
+ID METALREFINEMENT
+Description High-temperature pure metal extraction.
+
+Name <link="REFINEDOBJECTS">Refined Objects</link>
+ID REFINEDOBJECTS
+Description Using simple materials to improve base function.
+
+Name <link="GENERICSENSORS">Generic Sensors</link>
+ID GENERICSENSORS
+Description Drive automation in brand new ways.
+
+Name <link="DUPETRAFFICCONTROL">Computing</link>
+ID DUPETRAFFICCONTROL
+Description More advanced components allow more advanced Duplicant-machine interactions
+
+Name <link="SMELTING">Smelting</link>
+ID SMELTING
+Description High temperatures allow more efficient metal fabrication.
+
+Name <link="TRAVELTUBES">Transit Tubes</link>
+ID TRAVELTUBES
+Description Get Duplicants around the base quickly, safely, and in style!
+
+Name <link="SMARTSTORAGE">Smart Storage</link>
+ID SMARTSTORAGE
+Description Automate the storage of solids.
+
+Name <link="SOLIDTRANSPORT">Solid Transport</link>
+ID SOLIDTRANSPORT
+Description Save so much wear and tear on tired Duplicant feet.
+
+Name <link="HIGHTEMPFORGING">High-Temperature Forging</link>
+ID HIGHTEMPFORGING
+Description Heat allows the creation of entirely new materials.
+
+Name <link="SKYDETECTORS">Celestial Detection</link>
+ID SKYDETECTORS
+Description Space: It's not quite as empty as you might think.
+
+Name <link="JETPACKS">Jetpacks</link>
+ID JETPACKS
+Description Continue your space program
+
+Name <link="BASICROCKETRY">Basic Rocketry</link>
+ID BASICROCKETRY
+Description Start your space program
+
+Name <link="ENGINESI">Solid Fuel Combustion</link>
+ID ENGINESI
+Description Continue your space program
+
+Name <link="ENGINESII">Hydrocarbon Combustion</link>
+ID ENGINESII
+Description Continue your space program
+
+Name <link="ENGINESIII">Cryofuel Combustion</link>
+ID ENGINESIII
+Description Continue your space program
+
+Name <link="CARGOI">Solid Cargos</link>
+ID CARGOI
+Description Continue your space program
+
+Name <link="CARGOII">Liquid and Gas Cargos</link>
+ID CARGOII
+Description Continue your space program
+
+Name <link="CARGOIII">Special Cargos</link>
+ID CARGOIII
+Description Continue your space program
+
+Name <link="INDUSTRIALSTORAGE">Industrial Storage</link>
+ID INDUSTRIALSTORAGE
+Description Industrial storage of liquids and gases
+
+
+
+Name M
+ID MALE
+
+
+Name F
+ID FEMALE
+
+
+Name X
+ID NB
+
+
+
+
+Name Breath
+ID BREATH
+
+Name Stamina
+ID STAMINA
+
+Name Calories
+ID CALORIES
+
+Name Body Temperature
+ID TEMPERATURE
+
+Name External Temperature
+ID EXTERNALTEMPERATURE
+
+Name Decor
+ID DECOR
+
+Name Stress
+ID STRESS
+
+Name Bladder
+ID BLADDER
+
+Name Health
+ID HITPOINTS
+
+Name Immune System
+ID IMMUNELEVEL
+
+Name Skin Thickness
+ID SKIN_THICKNESS
+
+Name Skin Durability
+ID SKIN_DURABILITY
+
+Name Disease Recovery
+ID DISEASERECOVERYTIME
+
+
+Name Death
+ID GENERIC
+
+Name Frozen
+ID FROZEN
+
+Name Suffocation
+ID SUFFOCATION
+
+Name Starvation
+ID STARVATION
+
+Name Overheated
+ID OVERHEATING
+
+Name Drowned
+ID DROWNED
+
+Name Explosion
+ID EXPLOSION
+
+Name Slain
+ID COMBAT
+
+Name Succumbed to Disease
+ID FATALDISEASE
+
+
+Name Space Mission
+ID ASTRONAUT
+
+Name Die
+ID DIE
+
+Name Entombed
+ID ENTOMBED
+
+Name Incapacitated
+ID BEINCAPACITATED
+
+Name Use Neural Vacillator
+ID GENESHUFFLE
+
+Name DebugGoTo
+ID DEBUGGOTO
+
+Name Disinfect
+ID DISINFECT
+
+Name Equip Exosuit
+ID EQUIPPINGSUIT
+
+Name Antsy
+ID STRESSIDLE
+
+Name Move to
+ID MOVETO
+
+Name Drop Inventory
+ID DROPUNUSEDINVENTORY
+
+Name Relieve Self
+ID PEE
+
+Name Downtime: Use Toilet
+ID BREAK_PEE
+
+Name Stress Vomit
+ID STRESSVOMIT
+
+Name Ugly Cry
+ID UGLY_CRY
+
+Name Binge Eat
+ID BINGE_EAT
+
+Name Express Themselves
+ID EMOTEHIGHPRIORITY
+
+Name Flee
+ID FLEE
+
+Name Recover Breath
+ID RECOVERBREATH
+
+Name Move to Quarantine
+ID MOVETOQUARANTINE
+
+Name Attack
+ID ATTACK
+
+Name Wrangle
+ID CAPTURE
+
+Name Relocate Critter
+ID FETCHCREATURE
+
+Name Sing To Egg
+ID SINGTOEGG
+
+Name Use Toilet
+ID USETOILET
+
+Name Wash Hands
+ID WASHHANDS
+
+Name Wait at Checkpoint
+ID CHECKPOINT
+
+Name Enter Transit Tube
+ID TRAVELTUBEENTRANCE
+
+Name Scrub Ore
+ID SCRUBORE
+
+Name Eat
+ID EAT
+
+Name Vomit
+ID VOMIT
+
+Name Cough
+ID COUGH
+
+Name Sleep
+ID SLEEP
+
+Name Narcoleptic Nap
+ID NARCOLEPSY
+
+Name Sleep on Floor
+ID FLOORSLEEP
+
+Name Take Medicine
+ID TAKEMEDICINE
+
+Name Treat Patient
+ID DOCTOR
+
+Name Deliver Food
+ID DELIVERFOOD
+
+Name Shower
+ID SHOWER
+
+Name Sigh
+ID SIGH
+
+Name Rest
+ID RESTDUETODISEASE
+
+Name Heal
+ID HEAL
+
+Name Lash Out
+ID STRESSACTINGOUT
+
+Name Relax
+ID RELAX
+
+Name De-Stress
+ID STRESSHEAL
+
+Name Equip
+ID EQUIP
+
+Name Start Job
+ID SWITCHROLE
+
+Name Recharge Equipment
+ID RECHARGE
+
+Name Unequip
+ID UNEQUIP
+
+Name Mourn
+ID MOURN
+
+Name Warm Up
+ID WARMUP
+
+Name Cool Off
+ID COOLDOWN
+
+Name Empty Storage
+ID EMPTYSTORAGE
+
+Name Decorate
+ID ART
+
+Name Mop
+ID MOP
+
+Name Relocate
+ID RELOCATE
+
+Name Change Setting
+ID TOGGLE
+
+Name Rescue Friend
+ID RESCUEINCAPACITATED
+
+Name Repair
+ID REPAIR
+
+Name Deconstruct
+ID DECONSTRUCT
+
+Name Research
+ID RESEARCH
+
+Name Dock Exosuit
+ID RETURNSUIT
+
+Name Generate Power
+ID GENERATEPOWER
+
+Name Harvest
+ID HARVEST
+
+Name Uproot
+ID UPROOT
+
+Name Clean Outhouse
+ID CLEANTOILET
+
+Name Use Fan
+ID LIQUIDCOOLEDFAN
+
+Name Cook
+ID COOK
+
+Name Train
+ID TRAIN
+
+Name Mush
+ID MUSH
+
+Name Compost
+ID COMPOSTWORKABLE
+
+Name Flip
+ID FLIPCOMPOST
+
+Name Depressurize Well
+ID DEPRESSURIZE
+
+Name Fabricate
+ID FABRICATE
+
+Name Build
+ID BUILD
+
+Name Construction Dig
+ID BUILDDIG
+
+Name Dig
+ID DIG
+
+Name Deliver
+ID FETCH
+
+Name Construction Deliver
+ID BUILDFETCH
+
+Name Sweep
+ID TRANSPORT
+
+Name Move to Safety
+ID MOVETOSAFETY
+
+Name Tinker
+ID POWER_TINKER
+
+Name Ranch
+ID RANCH
+
+Name Tend
+ID CROP_TEND
+
+Name Idle
+ID IDLE
+
+
+
+Name Art
+ID ART
+Description Sculpt or paint to improve colony decor.
+
+Name Combat
+ID COMBAT
+Description Fight wild critters.
+
+Name Life Support
+ID LIFESUPPORT
+Description Maintain algae terrariums, deodorizers, and water sieves to support colony life.
+
+Name Toggle
+ID TOGGLE
+Description Tune machinery and set or flip switches and sensors.
+
+Name Cook
+ID COOK
+Description Operate food preparation buildings.
+
+Name Research
+ID RESEARCH
+Description Use research stations to unlock new technologies.
+
+Name Repair
+ID REPAIR
+Description Repair damaged buildings.
+
+Name Farm
+ID FARMING
+Description Gather crops from mature plants.
+
+Name Ranch
+ID RANCHING
+Description Tend to domesticated critters.
+
+Name Build
+ID BUILD
+Description Construct new buildings.
+
+Name Supply
+ID HAULING
+Description Run resources to critical buildings and urgent storage.
+
+Name Storage
+ID STORAGE
+Description Fill storage buildings with resources when no other errands are available.
+
+Name Tidy
+ID BASEKEEPING
+Description Sweep, mop, and disinfect objects within the colony.
+
+Name Dig
+ID DIG
+Description Mine raw resources.
+
+Name Care
+ID MEDICALAID
+Description Treat sick and injured Duplicants.
+
+Name Leisure
+ID MASSAGE
+Description Take breaks for massages.
+
+Name Operate
+ID MACHINEOPERATING
+Description Operating heavy machinery for production, fabrication, and utility purposes.
+
+
+Name Delivering resources to {Target}
+ID GENERIC_DELIVER
+
+Name Sleeping
+ID SLEEPING
+
+Name Sleeping peacefully
+ID SLEEPINGPEACEFULLY
+
+Name Sleeping badly
+ID SLEEPINGBADLY
+
+Name Can't sleep
+ID SLEEPINGTERRIBLY
+
+Name Disturbed
+ID SLEEPINGINTERRUPTEDLIGHT
+
+Name Awake
+ID SLEEPINGINTERRUPTED
+
+Name Red Alert!
+ID REDALERT
+
+Name {Role}: {Progress} Mastery
+ID ROLE
+
+Name Oxygen low
+ID LOWOXYGEN
+
+Name Severely injured
+ID SEVEREWOUNDS
+
+Name Incapacitated: {CauseOfIncapacitation}
+Time until death: {TimeUntilDeath}
+
+ID INCAPACITATED
+
+Name Cannot reach bed
+ID BEDUNREACHABLE
+
+Name Chilly surroundings
+ID COLD
+
+Name Daily calorie limit reached
+ID DAILYRATIONLIMITREACHED
+
+Name Treating Patient
+ID DOCTOR
+
+Name Holding breath
+ID HOLDINGBREATH
+
+Name Recovering breath
+ID RECOVERINGBREATH
+
+Name Toasty surroundings
+ID HOT
+
+Name Hungry
+ID HUNGRY
+
+Name Drab decor
+ID POORDECOR
+
+Name Low Morale
+ID POORQUALITYOFLIFE
+
+Name Lousy Meal
+ID POOR_FOOD_QUALITY
+
+Name Decadent Meal
+ID GOOD_FOOD_QUALITY
+
+Name Nervous breakdown
+ID NERVOUSBREAKDOWN
+
+Name Stressed
+ID STRESSED
+
+Name No food available
+ID NORATIONSAVAILABLE
+
+Name Cannot reach quarantine
+ID QUARANTINEAREAUNREACHABLE
+
+Name Quarantined
+ID QUARANTINED
+
+Name Cannot reach food
+ID RATIONSUNREACHABLE
+
+Name Food Type Not Permitted
+ID RATIONSNOTPERMITTED
+
+Name Rotten
+ID ROTTEN
+
+Name Starving
+ID STARVING
+
+Name Frustrated
+ID STRESS_SIGNAL_AGGRESIVE
+
+Name Stress Cravings
+ID STRESS_SIGNAL_BINGE_EAT
+
+Name Misty Eyed
+ID STRESS_SIGNAL_UGLY_CRIER
+
+Name Stress Burp
+ID STRESS_SIGNAL_VOMITER
+
+Name Entombed
+ID ENTOMBEDCHORE
+
+Name Early Bird
+ID EARLYMORNING
+
+Name Night Owl
+ID NIGHTTIME
+
+Name Suffocating
+ID SUFFOCATING
+
+Name Tired
+ID TIRED
+
+Name Idle
+ID IDLE
+
+Name In combat
+ID FIGHTING
+
+Name Fleeing
+ID FLEEING
+
+Name Dead: {Death}
+ID DEAD
+
+Name Lashing out
+ID LASHINGOUT
+
+Name Exiting <link="EXOSUIT">Exosuit</link> area
+ID MOVETOSUITNOTREQUIRED
+
+Name No Job
+ID NOROLE
+
+Name Dropping objects
+ID DROPPINGUNUSEDINVENTORY
+
+Name Moving to safe area
+ID MOVINGTOSAFEAREA
+
+Name Unreachable toilet
+ID TOILETUNREACHABLE
+
+Name Toilet out of order
+ID NOUSABLETOILETS
+
+Name No Outhouses
+ID NOTOILETS
+
+Name Full bladder
+ID FULLBLADDER
+
+Name Making a mess
+ID STRESSFULLYEMPTYINGBLADDER
+
+Name Washing hands
+ID WASHINGHANDS
+
+Name Showering
+ID SHOWERING
+
+Name Relaxing
+ID RELAXING
+
+Name Throwing up
+ID VOMITING
+
+Name Stress vomiting
+ID STRESSVOMITING
+
+Name Feeling ill
+ID HASDISEASE
+
+Name Regulating temperature at: {TempDelta}
+ID BODYREGULATINGHEATING
+
+Name Regulating temperature at: {TempDelta}
+ID BODYREGULATINGCOOLING
+
+Name Inhaling {ConsumptionRate} O<sub>2</sub>
+ID BREATHINGO2
+
+Name Exhaling {EmittingRate} CO<sub>2</sub>
+ID EMITTINGCO2
+
+Name Delivering resources to {Target}
+ID PICKUPDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID STOREDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID CLEARDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID STOREFORBUILDDELIVERSTATUS
+
+Name Allocating {Item} to {Target}
+ID STOREFORBUILDPRIORITIZEDDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID BUILDDELIVERSTATUS
+
+Name Building {Target}
+ID BUILDPRIORITIZEDSTATUS
+
+Name Delivering resources to {Target}
+ID FABRICATEDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID USEITEMDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID STOREPRIORITYDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID STORECRITICALDELIVERSTATUS
+
+Name Going to flip compost
+ID COMPOSTFLIPSTATUS
+
+Name Delivering resources to {Target}
+ID DECONSTRUCTDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID TOGGLEDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID EMPTYSTORAGEDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID HARVESTDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID SLEEPDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID EATDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID WARMUPDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID REPAIRDELIVERSTATUS
+
+Name Repairing {Target}
+ID REPAIRWORKSTATUS
+
+Name Delivering resources to {Target}
+ID BREAKDELIVERSTATUS
+
+Name Breaking {Target}
+ID BREAKWORKSTATUS
+
+Name Delivering resources to {Target}
+ID EQUIPDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID COOKDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID MUSHDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID PACIFYDELIVERSTATUS
+
+Name Delivering resources to {Target}
+ID RESCUEDELIVERSTATUS
+
+Name Rescuing {Target}
+ID RESCUEWORKSTATUS
+
+Name Delivering resources to {Target}
+ID MOPDELIVERSTATUS
+
+Name Digging
+ID DIGGING
+
+Name Eating {Target}
+ID EATING
+
+Name Cleaning {Target}
+ID CLEANING
+
+Name Picking up {Target}
+ID PICKINGUP
+
+Name Mopping
+ID MOPPING
+
+Name Decorating
+ID ARTING
+
+Name Mushing {Item}
+ID MUSHING
+
+Name Cooking {Item}
+ID COOKING
+
+Name Researching {Tech}
+ID RESEARCHING
+
+Name Storing {Item}
+ID STORING
+
+Name Building {Target}
+ID BUILDING
+
+Name Equipping {Target}
+ID EQUIPPING
+
+Name Warming up
+ID WARMINGUP
+
+Name Generating power
+ID GENERATINGPOWER
+
+Name Harvesting {Target}
+ID HARVESTING
+
+Name Uprooting {Target}
+ID UPROOTING
+
+Name Emptying {Target}
+ID EMPTYING
+
+Name Change {Target} setting
+ID TOGGLING
+
+Name Deconstructing {Target}
+ID DECONSTRUCTING
+
+Name Disinfecting {Target}
+ID DISINFECTING
+
+Name Fabricating {Target}
+ID FABRICATING
+
+Name Refining {Target}
+ID PROCESSING
+
+Name Sweeping {Target}
+ID CLEARING
+
+Name Analyzing
+ID STUDYING
+
+Name Socializing
+ID SOCIALIZING
+
+Name Mingling
+ID MINGLING
+
+Name Dancing!
+ID DANCING
+
+Name Playing a Game
+ID GAMING
+
+Name Peace and Quiet
+ID NOISEPEACEFUL
+
+Name Loud Noises
+ID NOISEMINOR
+
+Name Cacophony!
+ID NOISEMAJOR
+
+Name Under the Weather
+ID LOWIMMUNITY
+
+Name Tinkering
+ID TINKERING
+
+
+
+
+
+
+
+
+
+
+
+Name All Diseases
+ID ALLDISEASES
+
+Name NO
+ID NODISEASES
+
+Name <link="FOODPOISONING">Food Poisoning</link>
+ID FOODPOISONING
+
+Name <link="SLIMELUNG">Slimelung</link>
+ID SLIMELUNG
+
+Name <link="COLDBRAIN">Hypothermia</link>
+ID COLDBRAIN
+
+Name <link="SUNBURN">Sunburn</link>
+ID SUNBURN
+
+Name <link="HEATRASH">Heat Stroke</link>
+ID HEATRASH
+
+Name <link="SPORES">The Spores</link>
+ID SPORES
+
+Name <link="PUTRIDODOUR">Trench Stench</link>
+ID PUTRIDODOUR
+
+
+Name Skill Level
+ID SKILLLEVEL
+
+Name Latrine
+ID ROOMLATRINE
+
+Name Washroom
+ID ROOMBATHROOM
+
+Name Barracks
+ID ROOMBARRACKS
+
+Name Bedroom
+ID ROOMBEDROOM
+
+Name Bed Rest
+ID BEDHEALTH
+
+Name Sleeping in a cot
+ID BEDSTAMINA
+
+Name Sleeping in a comfy bed
+ID LUXURYBEDSTAMINA
+
+Name Barracks
+ID BARRACKSSTAMINA
+
+Name Private Bedroom
+ID BEDROOMSTAMINA
+
+Name Mess Hall
+ID ROOMMESSHALL
+
+Name Great Hall
+ID ROOMGREATHALL
+
+Name Entitlement
+ID ENTITLEMENT
+
+Name Duplicant
+ID BASEDUPLICANT
+
+Name Homeostasis
+ID HOMEOSTASIS
+
+Name Warm Air
+ID WARMAIR
+
+Name Cold Air
+ID COLDAIR
+
+Name Claustrophobic
+ID CLAUSTROPHOBIC
+
+Name Vertigo
+ID VERTIGO
+
+Name Aching Feet
+ID UNCOMFORTABLEFEET
+
+Name Personal Bubble Burst
+ID PEOPLETOOCLOSEWHILESLEEPING
+
+Name Restless
+ID RESTLESS
+
+Name Fashion Crime
+ID UNFASHIONABLECLOTHING
+
+Name Burning Calories
+ID BURNINGCALORIES
+
+Name Eating
+ID EATINGCALORIES
+
+Name Environmental Exchange
+ID TEMPEXCHANGE
+
+Name Clothing
+ID CLOTHING
+
+Name Cry Face
+ID CRYFACE
+
+Name Grimy
+ID UNCLEAN
+
+Name Showered
+ID SHOWERED
+
+Name Sore Back
+ID SOREBACK
+
+Name Soul Food
+ID GOODEATS
+
+Name Refreshingly Clean
+ID FRESH_AND_CLEAN
+
+Name Scalded
+ID BURNED_BY_SCALDING_WATER
+
+Name Numb
+ID STRESSED_BY_COLD_WATER
+
+Name Smelled Stinky
+ID SMELLEDSTINKY
+
+Name Receiving Massage
+ID STRESSREDUCTION
+
+Name Receiving Clinic Massage
+ID STRESSREDUCTION_CLINIC
+
+Name Ugly Crying
+ID UGLY_CRYING
+
+Name Insatiable Hunger
+ID BINGE_EATING
+
+Name Metabolism
+ID METABOLISM_CALORIE_MODIFIER
+
+Name Working
+ID WORKING
+
+Name Sleeping Uncomfortably
+ID UNCOMFORTABLESLEEP
+
+Name Managerial Duties
+ID MANAGERIALDUTIES
+
+Name Managed Colony
+ID MANAGEDCOLONY
+
+Name Sleeping On Floor
+ID FLOORSLEEP
+
+Name Exhausted
+ID PASSEDOUTSLEEP
+
+Name Sleeping
+ID SLEEP
+
+Name Sleeping Peacefully
+ID RESTFULSLEEP
+
+Name Sleepy
+ID SLEEPY
+
+Name Hungry
+ID HUNGRY
+
+Name Starving
+ID STARVING
+
+Name Hot
+ID HOT
+
+Name Cold
+ID COLD
+
+Name Soggy Feet
+ID WETFEET
+
+Name Sopping Wet
+ID SOAKINGWET
+
+Name Popped Eardrums
+ID POPPEDEARDRUMS
+
+Name New Hope
+ID ANEWHOPE
+
+Name Ouch!
+ID PRICKLEFRUITDAMAGE
+
+Name No Oxygen
+ID NOOXYGEN
+
+Name Low Oxygen
+ID LOWOXYGEN
+
+Name Mourning
+ID MOURNING
+
+Name Narcoleptic Nap
+ID NARCOLEPTICSLEEP
+
+Name Unrested
+ID BADSLEEP
+
+Name Dead Tired
+ID TERRIBLESLEEP
+
+Name Well Rested
+ID PEACEFULSLEEP
+
+Name Center of Attention
+ID CENTEROFATTENTION
+
+Name Inspired
+ID INSPIRED
+
+Name New Friend
+ID NEWCREWARRIVAL
+
+Name Underwater
+ID UNDERWATER
+
+Name Nightmares
+ID NIGHTMARES
+
+Name Recently assailed
+ID WASATTACKED
+
+Name Light Wounds
+ID LIGHTWOUNDS
+
+Name Moderate Wounds
+ID MODERATEWOUNDS
+
+Name Severe Wounds
+ID SEVEREWOUNDS
+
+Name Unrefrigerated
+ID ROTTEMPERATURE
+
+Name Contaminated Air
+ID ROTATMOSPHERE
+
+Name Base Decay Rate
+ID BASEROT
+
+Name Full Bladder
+ID FULLBLADDER
+
+Name Diarrhea
+ID DIARRHEA
+
+Name Making a mess
+ID STRESSFULYEMPTYINGBLADDER
+
+Name Red Alert!
+ID REDALERT
+
+Name Fussy
+ID FUSSY
+
+Name Warming Up
+ID WARMINGUP
+
+Name Cooling Down
+ID COOLINGDOWN
+
+Name Darkness
+ID DARKNESS
+
+Name Stepped in polluted water
+ID STEPPEDINCONTAMINATEDWATER
+
+Name Well fed
+ID WELLFED
+
+Name Bad leftovers
+ID STALEFOOD
+
+Name Smelled a putrid odor
+ID SMELLEDPUTRIDODOUR
+
+Name Vomiting
+ID VOMITING
+
+Name Breathing
+ID BREATHING
+
+Name Holding breath
+ID HOLDINGBREATH
+
+Name Recovering breath
+ID RECOVERINGBREATH
+
+Name Rotting
+ID ROTTING
+
+Name Dead
+ID DEAD
+
+Name Toxic environment
+ID TOXICENVIRONMENT
+
+Name Resting
+ID RESTING
+
+Name Intravenous Feeding
+ID INTRAVENOUS_NUTRITION
+
+Name Catheterized
+ID CATHETERIZED
+
+Name Peace and Quiet
+ID NOISEPEACEFUL
+
+Name Loud Noises
+ID NOISEMINOR
+
+Name Cacophony!
+ID NOISEMAJOR
+
+Name Med-Bed Rest
+ID MEDICALCOT
+
+Name Receiving care
+ID MEDICALCOTDOCTORED
+
+Name Runaway Patient
+ID DOCTOREDOFFCOTEFFECT
+
+Name Pharma Chamber Recovery
+ID REJUVENATOR
+
+Name Receiving care
+ID REJUVENATORDOCTORED
+
+Name Runaway Patient
+ID DOCTOREDOFFREJUVENATOREFFECT
+
+Name Feeling better
+ID POSTDISEASERECOVERY
+
+Name Immune System Overwhelmed
+ID IMMUNESYSTEMOVERWHELMED
+
+Name Placebo
+ID MEDICINE_GENERICPILL
+
+Name Vitamin Supplement
+ID MEDICINE_VITAMINSUPPLEMENT
+
+Name Bright and Cheerful
+ID SUNLIGHT_PLEASANT
+
+Name Intensely Bright
+ID SUNLIGHT_BURNING
+
+Name Downtime
+ID TOOKABREAK
+
+Name Socialized
+ID SOCIALIZED
+
+Name Pleasant Chitchat
+ID GOODCONVERSATION
+
+Name Appreciated
+ID WORKENCOURAGED
+
+Name Saw Friend
+ID GREETING
+
+Name Played Video Games
+ID PLAYEDARCADE
+
+Name Recently Danced
+ID DANCED
+
+Name Drank Espresso
+ID ESPRESSO
+
+Name Grisly Meal
+ID EDIBLEMINUS3
+
+Name Terrible Meal
+ID EDIBLEMINUS2
+
+Name Poor Meal
+ID EDIBLEMINUS1
+
+Name Standard Meal
+ID EDIBLE0
+
+Name Good Meal
+ID EDIBLE1
+
+Name Great Meal
+ID EDIBLE2
+
+Name Superb Meal
+ID EDIBLE3
+
+Name Ambrosial Meal
+ID EDIBLE4
+
+Name Last Cycle's Decor: Ugly
+ID DECORMINUS1
+
+Name Last Cycle's Decor: Poor
+ID DECOR0
+
+Name Last Cycle's Decor: Mediocre
+ID DECOR1
+
+Name Last Cycle's Decor: Average
+ID DECOR2
+
+Name Last Cycle's Decor: Nice
+ID DECOR3
+
+Name Last Cycle's Decor: Charming
+ID DECOR4
+
+Name Last Cycle's Decor: Gorgeous
+ID DECOR5
+
+Name One Shift Break
+ID BREAK1
+
+Name Two Shift Break
+ID BREAK2
+
+Name Three Shift Break
+ID BREAK3
+
+Name Four Shift Break
+ID BREAK4
+
+Name Five Shift Break
+ID BREAK5
+
+Name Engie's Tune-Up
+ID POWERTINKER
+
+Name Farmer's Touch
+ID FARMTINKER
+
+Name Engie's Jerry Rig
+ID MACHINETINKER
+
+Name Visited Space
+ID SPACETOURIST
+
+Name Morale Upgrade Helper
+ID SUDDENMORALEHELPER
+
+
+Name None
+ID NONE
+Description This Duplicant seems pretty average overall
+
+Name Cheery Disposition
+ID JOSHUA
+Description This Duplicant brightens others' days wherever he goes
+
+Name Fastidious
+ID ELLIE
+Description This Duplicant needs things done in a very particular way
+
+Name Germaphobe
+ID LIAM
+Description This Duplicant has an all-consuming fear of bacteria
+
+Name 
+ID BANHI
+Description 
+
+Name Stinkiness
+ID STINKY
+Description This Duplicant is genetically cursed by a pungent bodily odor
+
+
+
+Name Claustrophobic
+ID CLAUSTROPHOBIC
+Description This Duplicant feels suffocated in spaces less than four tiles high or three tiles wide
+
+Name Fashionista
+ID FASHIONABLE
+Description This Duplicant dies a bit inside when forced to wear unstylish clothing
+
+Name Vertigo Prone
+ID CLIMACOPHOBIC
+Description Climbing ladders more than four tiles tall makes this Duplicant's stomach do flips
+
+Name Solitary Sleeper
+ID SOLITARYSLEEPER
+Description This Duplicant prefers to sleep alone
+
+Name Skinny
+ID PREFERSWARMER
+Description This Duplicant doesn't have much insulation, so they are more temperature sensitive than others
+
+Name Pudgy
+ID PREFERSCOOLER
+Description This Duplicant has some extra insulation, so the room temperature affects them a little less
+
+Name Delicate Feetsies
+ID SENSITIVEFEET
+Description This Duplicant is a sensitive sole and would rather walk on tile than raw bedrock
+
+Name Workaholic
+ID WORKAHOLIC
+Description This Duplicant gets antsy when left idle
+
+Name Yokel
+ID CANTRESEARCH
+Description This Duplicant isn't the brightest star in the solar system
+
+Name Unconstructive
+ID CANTBUILD
+Description This Duplicant is incapable of building even the most basic of structures
+
+Name Gastrophobia
+ID CANTCOOK
+Description This Duplicant has a deep-seated distrust of the culinary arts
+
+Name Trypophobia
+ID CANTDIG
+Description This Duplicant's fear of holes makes it impossible for them to dig
+
+Name Squeamish
+ID HEMOPHOBIA
+Description This Duplicant is of delicate disposition and cannot tend to the sick
+
+Name Caregiver
+ID BEDSIDEMANNER
+Description This Duplicant has good bedside manner and a healing touch
+
+Name Mouth Breather
+ID MOUTHBREATHER
+Description This Duplicant sucks up way more than their fair share of <link="OXYGEN">Oxygen</link>
+
+Name Fussy
+ID FUSSY
+Description Nothing's ever quite good enough for this Duplicant
+
+Name Twinkletoes
+ID TWINKLETOES
+Description This Duplicant is light as a feather on their feet
+
+Name Buff
+ID STRONGARM
+Description This Duplicant has muscles on their muscles
+
+Name Noodle Arms
+ID NOODLEARMS
+Description This Duplicant's arms have all the tensile strength of overcooked linguine
+
+Name Destructive
+ID AGGRESSIVE
+Description This Duplicant handles stress by taking their frustrations out on defenseless machines
+
+Name Ugly Crier
+ID UGLYCRIER
+Description If this Duplicant gets too stressed it won't be pretty
+
+Name Binge Eater
+ID BINGEEATER
+Description This Duplicant will dangerously overeat when stressed
+
+Name Anxious
+ID ANXIOUS
+Description This Duplicant collapses when put under too much pressure
+
+Name Vomiter
+ID STRESSVOMITER
+Description This Duplicant is liable to puke everywhere when stressed
+
+Name Iron Gut
+ID IRONGUT
+Description This Duplicant can eat just about anything without getting sick
+
+Name Germ Resistant
+ID STRONGIMMUNESYSTEM
+Description This Duplicant's immune system bounces back faster than most
+
+Name Pacifist
+ID SCAREDYCAT
+Description This Duplicant abhors violence
+
+Name Biohazardous
+ID WEAKIMMUNESYSTEM
+Description All the vitamin C in space couldn't stop this Duplicant from getting sick
+
+Name Irritable Bowel
+ID IRRITABLEBOWEL
+Description This Duplicant needs a little extra time to "do their business"
+
+Name Bottomless Stomach
+ID CALORIEBURNER
+Description This Duplicant might actually be several black holes in a trench coat
+
+Name Small Bladder
+ID SMALLBLADDER
+Description This Duplicant has a tiny, pea-sized bladder. Adorable!
+
+Name Anemic
+ID ANEMIC
+Description This Duplicant has trouble keeping up with the others
+
+Name Grease Monkey
+ID GREASEMONKEY
+Description This Duplicant likes to throw a wrench into the colony's plans... in a good way
+
+Name Mole Hands
+ID MOLEHANDS
+Description They're great for tunneling, but finding good gloves is a nightmare
+
+Name Quick Learner
+ID FASTLEARNER
+Description This Duplicant's sharp as a tack and learns new skills with amazing speed
+
+Name Slow Learner
+ID SLOWLEARNER
+Description This Duplicant's a little slow on the uptake, but gosh do they try
+
+Name Diver's Lungs
+ID DIVERSLUNG
+Description This Duplicant could have been a talented opera singer in another life
+
+Name Flatulent
+ID FLATULENCE
+Description Some Duplicants are just full of it
+
+Name Loud Sleeper
+ID SNORER
+Description In space, everyone can hear you snore
+
+Name Narcoleptic
+ID NARCOLEPSY
+Description This Duplicant can and will fall asleep anytime, anyplace
+
+Name Interior Decorator
+ID INTERIORDECORATOR
+Description "Move it a little to the left..."
+
+Name Uncultured
+ID UNCULTURED
+Description This Duplicant has simply no appreciation for the arts
+
+Name Early Bird
+ID EARLYBIRD
+Description This Duplicant always wakes up feeling fresh and efficient!
+
+Name Night Owl
+ID NIGHTOWL
+Description This Duplicant does their best work when they'd ought to be sleeping
+
+Name Regenerative
+ID REGENERATION
+Description This Duplicant is constantly regenerating health.
+
+Name Deeper Diver's Lungs
+ID DEEPERDIVERSLUNGS
+Description This Duplicant was a talented opera singer and a snorkeling instructor.
+
+Name Sunny Disposition
+ID SUNNYDISPOSITION
+Description This Duplicant has an unwaveringly positive outlook on life.
+
+Name Rock Crusher
+ID ROCKCRUSHER
+Description This Duplicant is incredibly strong.
+
+Name Simple Tastes
+ID SIMPLETASTES
+Description This Duplicant finds pleasure in even the blandest of foods.
+
+Name Gourmet
+ID FOODIE
+Description This Duplicant has a highly refined palate and desires luxurious foods.
+
+
+Name Catalina
+ID CATALINA
+Description A {0} is admired by all for her seemingly tireless work ethic. Little do people know, she's dying on the inside.
+
+Name Nisbet
+ID NISBET
+Description This {0} likes to punch people to show her affection. Everyone's too afraid of her to tell her it hurts.
+
+Name Ellie
+ID ELLIE
+Description Nothing makes an {0} happier than a big tin of glitter and a pack of unicorn stickers.
+
+Name Ruby
+ID RUBY
+Description This {0} asks the pressing questions, like "Where can I get a leather jacket in space?"
+
+Name Leira
+ID LEIRA
+Description {0}s just want everyone to be happy.
+
+Name Bubbles
+ID BUBBLES
+Description This {0} is constantly challenging others to fight her, regardless of whether or not she can actually take them.
+
+Name Mi-Ma
+ID MIMA
+Description Ol' {0} here can't stand lookin' at people's knees.
+
+Name Nails
+ID NAILS
+Description People often expect a Duplicant named "{0}" to be tough, but they're all pretty huge wimps.
+
+Name Mae
+ID MAE
+Description There's nothing a {0} can't do if she sets her mind to it.
+
+Name Gossmann
+ID GOSSMANN
+Description {0}s are major goofballs who can make anyone laugh.
+
+Name Marie
+ID MARIE
+Description This {0} is positively glowing! What's her secret? Radioactive isotopes, of course.
+
+Name Lindsay
+ID LINDSAY
+Description A {0} is a charming woman, unless you make the mistake of messing with one of her friends.
+
+Name Devon
+ID DEVON
+Description This {0} dreams of owning their own personal computer so they can start a blog full of pictures of toast.
+
+Name Ren
+ID REN
+Description Every {0} has this unshakable feeling that his life's already happened and he's just watching it unfold from a memory.
+
+Name Frankie
+ID FRANKIE
+Description There's nothing {0}s are more proud of than their thick, dignified eyebrows.
+
+Name Banhi
+ID BANHI
+Description The "cool loner" vibes that radiate off a {0} never fail to make the colony swoon.
+
+Name Ada
+ID ADA
+Description {0}s enjoy writing poetry in their downtime. Dark poetry.
+
+Name Hassan
+ID HASSAN
+Description If someone says something nice to a {0} he'll think about it nonstop for no less than three weeks.
+
+Name Stinky
+ID STINKY
+Description This {0} has never been invited to a party, which is a shame. His dance moves are incredible.
+
+Name Joshua
+ID JOSHUA
+Description {0}s are precious goobers. Other Duplicants are strangely incapable of cursing in a {0}'s presence.
+
+Name Liam
+ID LIAM
+Description No matter how much this {0} scrubs, he can never truly feel clean.
+
+Name Abe
+ID ABE
+Description {0}s are sweet, delicate flowers. They need to be treated gingerly, with great consideration for their feelings.
+
+Name Burt
+ID BURT
+Description This {0} always feels great after a bubble bath and a good long cry.
+
+Name Travaldo
+ID TRAVALDO
+Description A {0}'s monotonous voice and lack of facial expression makes it impossible for others to tell when he's messing with them.
+
+Name Harold
+ID HAROLD
+Description Get a bunch of {0}s together in a room, and you'll have... a bunch of {0}s together in a room.
+
+Name Max
+ID MAX
+Description At any given moment a {0} is viscerally reliving ten different humiliating memories.
+
+Name Rowan
+ID ROWAN
+Description {0}s have exceptionally large hearts and express their emotions most efficiently by yelling.
+
+Name Otto
+ID OTTO
+Description {0}s always insult people by accident and generally exist in a perpetual state of deep regret.
+
+Name Turner
+ID TURNER
+Description This {0} is paralyzed by the knowledge that others have memories and perceptions of them they can't control.
+
+Name Nikola
+ID NIKOLA
+Description This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one asked him to prove it.
+
+Name Meep
+ID MEEP
+Description {0}s have a face only a two tonne Printing Pod could love.
+
+Name Ari
+ID ARI
+Description {0}s tend to space out from time to time, but they always pay attention when it counts.
+
+Name Jean
+ID JEAN
+Description Just because {0}s are a little slow doesn't mean they can't suffer from soul-crushing existential crises.
+
+Name Camille
+ID CAMILLE
+Description This {0} loves anything that makes her feel nostalgic, including things that haven't aged well.
+
+Name Ashkan
+ID ASHKAN
+Description {0}s have what can only be described as a "seriously infectious giggle".
+
+
+Name Decor Expectation
+ID DECOR
+
+Name Food Quality
+ID FOOD_QUALITY
+
+
+Name Morale Requirements
+ID QUALITYOFLIFE
+
+Name Noise Expectation
+ID NOISE
+
+
+Name Construction
+ID CONSTRUCTION
+Description Determines a Duplicant's building speed.
+
+Name Scalding Threshold
+ID SCALDINGTHRESHOLD
+Description Determines the temperature at which a Duplicant will get burned.
+
+Name Digging
+ID DIGGING
+Description Determines a Duplicant's mining speed.
+
+Name Tinkering
+ID MACHINERY
+Description Determines how adeptly a Duplicant uses machines.
+
+Name Life Support
+ID LIFESUPPORT
+Description Determines how efficiently a Duplicant maintains algae terrariums, deodorizers, and water sieves.
+
+Name Toggle
+ID TOGGLE
+Description Determines how efficiently a Duplicant tunes machinery, flips switches, and sets sensors.
+
+Name Growth Speed
+ID MATURITYDELTA
+Description Determines the amount of time needed to reach maturation.
+
+Name Athletics
+ID ATHLETICS
+Description Determines a Duplicant's default runspeed.
+
+Name <link="MEDICINE">Care Received</link> Effect
+ID DOCTOREDLEVEL
+Description Duplicants who receive medical care while on a Med-Bed or Pharma Chamber will gain the "Care Received" effect
+
+This effect reduces Disease symptoms
+
+Name Sneeziness
+ID SNEEZYNESS
+Description Determines how frequently a Duplicant sneezes.
+
+Name Learning
+ID LEARNING
+Description Determines how quickly a Duplicant conducts <link="RESEARCH">Research</link> and gains skills.
+
+Name Cooking
+ID COOKING
+Description Determines how quickly a Duplicant prepares <link="FOOD">Food</link>.
+
+Name Reproduction Rate
+ID FERTILITYDELTA
+Description Determines the amount of time needed for a critter to lay new eggs.
+
+Name Happiness Change
+ID HAPPINESSDELTA
+Description Contented critters produce usable materials with increased frequency.
+
+Name Wildness Change
+ID WILDNESSDELTA
+Description Wild creatures can survive on fewer calories than domesticated ones.
+
+Name Insulation
+ID INSULATION
+Description Highly insulated Duplicants retain body heat easily, while low insulation Duplicants are easier to keep cool.
+
+Name Strength
+ID STRENGTH
+Description Determines a Duplicant's carrying capacity, and how much elbow grease they can put into cleaning errands.
+
+Name Kindness
+ID CARING
+Description Determines medical skill and how well a Duplicant works with peers and critters.
+
+Name Immunity
+ID IMMUNITY
+Description Determines a Duplicant's disease susceptibility and recovery time.
+
+Name Farming
+ID BOTANIST
+Description Determines how quickly and efficiently a Duplicant raises plants.
+
+Name Ranching
+ID RANCHING
+Description Determines how quickly and efficiently a Duplicant raises critters.
+
+Name Creativity
+ID ART
+Description Determines the speed at which a Duplicant creates artwork.
+
+Name Decor
+ID DECOR
+Description <link="DECOR">Decor</link> affects a Duplicant's <link="STRESS">Stress</link> and their opinion of their surroundings.
+
+Name Insulation Thickness
+ID THERMALCONDUCTIVITYBARRIER
+Description Insulation Thickness determines how quickly a Duplicant retains or loses body <link="HEAT">Heat</link> in any given area.
+
+It is the sum of a Duplicant's equipment and their natural Insulation values.
+
+Name Decor Radius
+ID DECORRADIUS
+Description The influence range of an object's <link="DECOR">Decor</link> value.
+
+Name Decor Benefit
+ID DECOREXPECTATION
+Description Allows Duplicants to receive <link="QUALITYOFLIFE">Morale</link> boosts from lower <link="DECOR">Decor</link> values.
+
+High Morale prevents Duplicants from becoming <link="STRESS">Stressed</link>.
+
+Name Food Benefit
+ID FOODEXPECTATION
+Description Allows Duplicants to receive <link="QUALITYOFLIFE">Morale</link> boosts from lower quality <link="FOOD">Foods</link>.
+
+High Morale prevents Duplicants from becoming <link="STRESS">Stressed</link>.
+
+Name Morale Need
+ID QUALITYOFLIFEEXPECTATION
+Description Morale Need
+
+Name Hygiene
+ID HYGIENE
+Description <link="HYGIENE">Hygiene</link> affects a Duplicant's sense of cleanliness.
+
+Name Carrying Capacity
+ID CARRYAMOUNT
+Description Determines the maximum weight that a Duplicant can carry.
+
+Name Morale
+ID QUALITYOFLIFE
+Description Duplicants must have a Morale rating that exceeds their Morale Need, or they'll begin to accumulate Stress.
+
+Morale ratings can be increased by providing Duplicants higher quality food, allotting more Downtime in the colony schedule, or building better bathrooms and bedrooms for them to live in.
+
+Name Air Consumption Rate
+ID AIRCONSUMPTIONRATE
+Description Air Consumption determines how much <link="OXYGEN">Oxygen</link> a Duplicant requires per minute to live.
+
+Name Stress Change
+ID STRESSDELTA
+Description Determines how quickly a Duplicant gains or reduces <link="STRESS">Stress</link>.
+
+Name Breath Change
+ID BREATHDELTA
+Description Determines how quickly a Duplicant gains or reduces <link="STRESS">Breath</link>.
+
+Name Bladder Change
+ID BLADDERDELTA
+Description 
+
+Name Calories Change Rate
+ID CALORIESDELTA
+Description 
+
+Name Stamina Change
+ID STAMINADELTA
+Description 
+
+Name Toxicity Change
+ID TOXICITYDELTA
+Description 
+
+Name Immunity Regen
+ID IMMUNELEVELDELTA
+Description 
+
+Name Bathroom Use Speed
+ID TOILETEFFICIENCY
+Description Determines how long a Duplicant needs to do their "business".
+
+Name Metabolism
+ID METABOLISM
+Description Affects the rate at which a critter burns calories.
+
+Name Temperature Preference
+ID ROOMTEMPERATUREPREFERENCE
+Description Determines the minimum body heat a Duplicant prefers to maintain.
+
+Name Underwater Movement
+ID MAXUNDERWATERTRAVELCOST
+Description Determines a Duplicant's runspeed when submerged in liquid
+
+Name Overheat Temperature
+ID OVERHEATTEMPERATURE
+Description A building at Overheat <link="HEAT">Temperature</link> will take damage and melt down if not cooled
+
+Name Meltdown Temperature
+ID FATALTEMPERATURE
+Description A building at Meltdown <link="HEAT">Temperature</link> will lose functionality and take damage
+
+Name <link="HEALTH">Health</link>
+ID HITPOINTSDELTA
+Description Health regeneration is increased when another Duplicant provides medical care to the patient
+
+Name <link="DISEASE">Disease</link> Recovery Speed Bonus
+ID DISEASECURESPEED
+Description Recovery speed bonus is increased when another Duplicant provides medical care to the patient
+
+Name Machinery Speed
+ID MACHINERYSPEED
+Description Speed Bonus
+
+Name Power Output
+ID GENERATOROUTPUT
+
+Name Incubation Rate
+ID INCUBATIONDELTA
+Description 
+
+Name Happiness
+ID HAPPINESS
+Description 
+
+Name Scale Growth
+ID SCALEGROWTHDELTA
+
+Name Viability Loss Rate
+ID VIABILITYDELTA
+Description 
+
+
+
+Name <link="NOROLE">Unemployed</link>
+ID NO_ROLE
+
+Name <link="JUNIORARTIST">Art Student</link>
+ID JUNIOR_ARTIST
+
+Name <link="ARTIST">Artist</link>
+ID ARTIST
+
+Name <link="MASTERARTIST">Master Artist</link>
+ID MASTER_ARTIST
+
+Name <link="JUNIORBUILDER">Apprentice Architect</link>
+ID JUNIOR_BUILDER
+
+Name <link="BUILDER">Architect</link>
+ID BUILDER
+
+Name <link="SENIORBUILDER">Senior Architect</link>
+ID SENIOR_BUILDER
+
+Name <link="JUNIORRESEARCHER">Research Assistant</link>
+ID JUNIOR_RESEARCHER
+
+Name <link="RESEARCHER">Scientist</link>
+ID RESEARCHER
+
+Name <link="SENIORRESEARCHER">Tenured Scientist</link>
+ID SENIOR_RESEARCHER
+
+Name <link="JUNIORCOOK">Sous Chef</link>
+ID JUNIOR_COOK
+
+Name <link="COOK">Chef</link>
+ID COOK
+
+Name <link="MEDIC">Medic</link>
+ID MEDIC
+
+Name <link="MACHINETECHNICIAN">General Engineer</link>
+ID MACHINE_TECHNICIAN
+
+Name <link="OILTECHNICIAN">Oil Technician</link>
+ID OIL_TECHNICIAN
+
+Name <link="HAULER">Gofer</link>
+ID HAULER
+
+Name <link="JUNIORFARMER">Farmhand</link>
+ID JUNIOR_FARMER
+
+Name <link="FARMER">Farmer</link>
+ID FARMER
+
+Name <link="SENIORFARMER">Seasoned Farmer</link>
+ID SENIOR_FARMER
+
+Name <link="JUNIORMINER">Apprentice Miner</link>
+ID JUNIOR_MINER
+
+Name <link="MINER">Miner</link>
+ID MINER
+
+Name <link="SENIORMINER">Seasoned Miner</link>
+ID SENIOR_MINER
+
+Name <link="SUITEXPERT">Exosuit Engineer</link>
+ID SUIT_EXPERT
+
+Name <link="BOTANIST">Botanist</link>
+ID BOTANIST
+
+Name <link="MATERIALSMANAGER">Courier</link>
+ID MATERIALS_MANAGER
+
+Name <link="POWERTECHNICIAN">Electrical Engineer</link>
+ID POWER_TECHNICIAN
+
+Name <link="MECHATRONICENGINEER">Mechatronics Engineer</link>
+ID MECHATRONIC_ENGINEER
+
+Name <link="HANDYMAN">Groundskeeper</link>
+ID HANDYMAN
+
+Name <link="PLUMBER">Plumber</link>
+ID PLUMBER
+
+Name <link="RANCHER">Rancher</link>
+ID RANCHER
+
+Name <link="SENIORRANCHER">Seasoned Rancher</link>
+ID SENIOR_RANCHER
+
+Name <link="ASTRONAUT">Astronaut</link>
+ID ASTRONAUT
+
+Name <link="ASTRONAUTTRAINEE">Space Cadet</link>
+ID ASTRONAUTTRAINEE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name Digestive Tonic
+ID HERBALREMEDY
+Description <link="MEDICINE">Medicine</link> for <link="DIARRHEA">disease</link>.
+
+Name Placebo
+ID PLACEBO
+Description A general, all-purpose <link="MEDICINE">Medicine</link>.
+
+The less one knows about it, the better it works.
+
+Name Antifungal Cream
+ID GINKONUT
+Description 
+
+Name Anti Inflammatory Pills
+ID MUSCARINICANTAGONIST
+Description 
+
+Name Deodorant
+ID PUTRIDODOURMEDICINE
+Description A medical-grade destinkifier.
+
+Name Vitamin Chews
+ID VITAMINSUPPLEMENT
+Description A health Supplement for improving <link="DISEASE">Immune System</link> strength.
+
+
+Name <link="FIELDRATION">Nutrient Bar</link>
+ID FIELDRATION
+Description A nourishing nutrient paste, sandwiched between thin wafer layers.
+
+Name <link="MUSHBAR">Mush Bar</link>
+ID MUSHBAR
+Description An edible, putrefied mudslop.
+
+Mush Bars are preferable to starvation, but only just barely.
+
+Name <link="FRUITCAKE">Berry Sludge</link>
+ID FRUITCAKE
+Description A mashed up <link="PRICKLEFRUIT">Bristle Berry</link> sludge with an exceptionally long shelf life.
+
+Its aggressive, overbearing sweetness can leave the tongue feeling temporarily numb.
+
+Name <link="HATCH">Hatchling Egg</link>
+ID HATCHEGG
+Description An egg laid by a <link="HATCH">Hatch</link>.
+
+If incubated, it will hatch into a <link="HATCH">Hatchling</link>.
+
+Name <link="DRECKO">Drecklet Egg</link>
+ID DRECKOEGG
+Description An egg laid by a <link="DRECKO">Drecko</link>.
+
+If incubated, it will hatch into a new <link="DRECKO">Drecklet</link>.
+
+Name <link="LIGHTBUG">Shine Nymph Egg</link>
+ID LIGHTBUGEGG
+Description An egg laid by a <link="LIGHTBUG">Shine Bug</link>.
+
+If incubated, it will hatch into a <link="LIGHTBUG">Shine Nymph</link>.
+
+Name <link="OILFLOATER">Larva Egg</link>
+ID OILFLOATEREGG
+Description An egg laid by a <link="OILFLOATER">Slickster</link>.
+
+If incubated, it will hatch into a <link="OILFLOATER">Slickster Larva</link>.
+
+Name <link="PUFT">Puftlet Egg</link>
+ID PUFTEGG
+Description An egg laid by a <link="PUFT">Puft</link>.
+
+If incubated, it will hatch into a <link="PUFT">Puftlet</link>.
+
+Name <link="MEAT">Meat</link>
+ID MEAT
+Description Uncooked meat from a very dead critter. Yum!
+
+Name <link="MUSHROOM">Mushroom</link>
+ID MUSHROOM
+Description An edible, flavorless fungus that grew in the dark.
+
+Name <link="COOKEDMEAT">Barbeque</link>
+ID COOKEDMEAT
+Description The cooked meat of a defeated critter.
+
+It has a delightful smoky aftertaste.
+
+Name <link="PICKLEDMEAL">Pickled Meal</link>
+ID PICKLEDMEAL
+Description Meal Lice preserved in vinegar.
+
+It's a rarely acquired taste.
+
+Name <link="FRIEDMUSHBAR">Mush Fry</link>
+ID FRIEDMUSHBAR
+Description Deep fried, solidified mudslop.
+
+The inside is almost completely uncooked, despite the crunch on the outside.
+
+Name <link="RAWEGG">Raw Egg</link>
+ID RAWEGG
+Description A raw egg that has been cracked open for use in <link="FOOD">Food</link> preparation.
+
+It will never hatch.
+
+Name <link="COOKEDEGG">Omelette</link>
+ID COOKEDEGG
+Description Fluffed and folded egg innards.
+
+It turns out you do, in fact, have to break a few eggs to make it.
+
+Name <link="FRIEDMUSHROOM">Fried Mushroom</link>
+ID FRIEDMUSHROOM
+Description A fried dish made with a fruiting <link="MUSHROOM">Dusk Cap</link>.
+
+It has a thick, savory flavor with subtle earthy undertones.
+
+Name <link="PRICKLEFRUIT">Bristle Berry</link>
+ID PRICKLEFRUIT
+Description A sweet, mostly pleasant-tasting fruit covered in prickly barbs.
+
+Name <link="GRILLEDPRICKLEFRUIT">Gristle Berry</link>
+ID GRILLEDPRICKLEFRUIT
+Description The grilled bud of a <link="PRICKLEFRUIT">Bristle Berry</link>.
+
+Heat unlocked an exquisite taste in the fruit, though the burnt spines leave something to be desired.
+
+Name <link="COLDWHEATBREAD">Frost Bun</link>
+ID COLDWHEATBREAD
+Description A simple bun baked from <link="COLDWHEATSEED">Sleet Wheat Grain</link> grain.
+
+Each bite leaves a mild cooling sensation in one's mouth, even when the bun itself is warm.
+
+Name <link="SPICENUT">Pincha Peppernut</link>
+ID SPICENUT
+Description The flavorful nut of a <link="SPICEVINE">Pincha Pepperplant</link>.
+
+The bitter outer rind hides a rich, peppery core that is useful in cooking.
+
+Name <link="SPICEBREAD">Pepper Bread</link>
+ID SPICEBREAD
+Description A loaf of bread, lightly spiced with <link="SPICENUT">Pincha Peppernut</link> for a mild bite.
+
+There's a simple joy to be had in pulling it apart in one's fingers.
+
+Name <link="SALSA">Stuffed Berry</link>
+ID SALSA
+Description A baked <link="PRICKLEFRUIT">Bristle Berry</link> stuffed with delectable spices and vibrantly flavored.
+
+Name <link="BASICPLANTFOOD">Meal Lice</link>
+ID BASICPLANTFOOD
+Description A flavorless grain that almost never wiggles on its own.
+
+Name <link="BASICPLANTBAR">Liceloaf</link>
+ID BASICPLANTBAR
+Description <link="BASICPLANTFOOD">Meal Lice</link> compacted into a dense, immobile loaf.
+
+Name <link="BASICFORAGEPLANT">Muckroot</link>
+ID BASICFORAGEPLANT
+Description A seedless fruit with an upsettingly bland aftertaste.
+
+It cannot be replanted.
+
+Digging up Buried Objects may uncover a Muckroot.
+
+Name <link="COMPOST">Rot Pile</link>
+ID ROTPILE
+Description An inedible glop of former foodstuff.
+
+Rot piles break down into <link="TOXICSAND">Polluted Dirt</link> over time.
+
+Name <link="COLDWHEATSEED">Sleet Wheat Grain</link>
+ID COLDWHEATSEED
+Description An edible grain that leaves a cool taste on the tongue.
+
+
+Name Balm Lily Flower
+ID SWAMPLILYFLOWER
+Description A medicinal flower that soothes most minor maladies.
+
+It is exceptionally fragrant.
+
+
+Name Fuel Brick
+ID FUEL_BRICK
+Description A densely compressed brick of combustible material.
+
+It can be burned to produce a one-time burst of <link="POWER">Power</link>.
+
+Name Reed Fiber
+ID BASIC_FABRIC
+Description A ball of raw cellulose used in the production of <link="EQUIPMENT">Clothing</link> and textiles.
+
+Name Trap Components
+ID TRAP_PARTS
+Description These components can be assembled into an Critter Trap and used to catch <link="CREATURES">Critters</link>.
+
+Name Microchip
+ID POWER_STATION_TOOLS
+Description A specialized Microchip created by a professional engineer.
+
+Tunes up generators to increase their <link="POWER">Power</link> output.
+
+Name Micronutrient Fertilizer
+ID FARM_STATION_TOOLS
+Description Specialized <link="FERTILIZER">Fertilizer</link> mixed by a professional farmer.
+
+Increases the growth rate of one <link="PLANTS">Plant</link>.
+
+Name Custom Parts
+ID MACHINE_PARTS
+Description Specialized Parts crafted by a professional engineer.
+
+Jerry rigs machine buildings to increase their efficiency.
+
+Name Data Bank
+ID RESEARCH_DATABANK
+Description Raw data that can be processed into research points.
+
+Name Egg Shell
+ID EGG_SHELL
+Description Can be crushed to produce <link="LIME">Lime</link>.
+
+Name Vacillator Recharge
+ID GENE_SHUFFLER_RECHARGE
+Description Replenishes one charge to a depleted Neural Vacillator.
+
+
+
+
+
+
+Name <link="AEROGEL">Aerogel</link>
+ID AEROGEL
+Description 
+
+Name <link="ALGAE">Algae</link>
+ID ALGAE
+Description Algae is a cluster of non-motile, single-celled lifeforms.
+
+It can be used to produce <link="OXYGEN">Oxygen</link> when used in <link="MINERALOXIDIZER">Oxygen Diffusers</link>.
+
+Name <link="BLEACHSTONE">Bleach Stone</link>
+ID BLEACHSTONE
+Description Bleach stone is an unstable compound that emits toxic <link="CHLORINEGAS">Chlorine</link>.
+
+It is useful in <link="HYGIENE">Hygienic</link> processes.
+
+Name <link="BITUMEN">Bitumen</link>
+ID BITUMEN
+Description Bitumen is a sticky viscous residue from <link="PETROLEUM">Petroleum</link> production
+
+Name <link="BOTTLEDWATER">Water</link>
+ID BOTTLEDWATER
+Description (H<sub>2</sub>O) Clean <link="WATER">Water</link>, prepped for transport.
+
+Name <link="CARBON">Coal</link>
+ID CARBON
+Description (C) Coal is a combustible fossil fuel composed of carbon.
+
+It is useful in <link="POWER">Power</link> production.
+
+Name <link="REFINEDCARBON">Refined Carbon</link>
+ID REFINEDCARBON
+Description (C) Refined carbon is solid element purified from raw <link="CARBON">Coal</link>.
+
+Name <link="CARBONDIOXIDE">Carbon Dioxide</link>
+ID CARBONDIOXIDE
+Description (CO<sub>2</sub>) Carbon Dioxide toxic, atomically heavy chemical compound in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+It tends to sink below other gases.
+
+Name <link="CARBONFIBRE">Carbon Fiber</link>
+ID CARBONFIBRE
+Description Carbon Fiber is a <link="MANUFACTURED MATERIAL">RefinedMineral</link> with high tensile strength.
+
+Name <link="CARBONGAS">Carbon</link>
+ID CARBONGAS
+Description (C) Carbon is an abundant, versatile element heated into a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="CHLORINE">Chlorine</link>
+ID CHLORINE
+Description (Cl) Chlorine is an extremely toxic element in a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="CHLORINEGAS">Chlorine</link>
+ID CHLORINEGAS
+Description (Cl) Chlorine is an extremely toxic chemical in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="CLAY">Clay</link>
+ID CLAY
+Description Clay is a soft, naturally occurring composite of stone and soil that hardens at high <link="HEAT">Temperatures</link>.
+
+It is a reliable <b>Construction Material.</b>
+
+Name <link="BRICK">Brick</link>
+ID BRICK
+Description Brick is a hard, brittle material formed from heated <link="CLAY">Clay</link>.
+
+It is a reliable Construction Material.
+
+Name <link="CERAMIC">Ceramic</link>
+ID CERAMIC
+Description Ceramic is a hard, brittle material formed from heated <link="CLAY">Clay</link>.
+
+It is a reliable Construction Material.
+
+Name <link="CEMENT">Cement</link>
+ID CEMENT
+Description Cement is a refined building material used for assembling advanced buildings.
+
+Name <link="CEMENTMIX">Cement Mix</link>
+ID CEMENTMIX
+Description Cement Mix can be used to create <link="CEMENT">Cement</link> for advanced building assembly.
+
+Name <link="CONTAMINATEDOXYGEN">Polluted Oxygen</link>
+ID CONTAMINATEDOXYGEN
+Description (O<sub>2</sub>) Polluted Oxygen is dirty, unfiltered air.
+
+It is breathable.
+
+Name <link="COPPER">Copper</link>
+ID COPPER
+Description (Cu) Copper is a conductive <link="METAL">Metal</link>.
+
+It is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="COPPERGAS">Copper</link>
+ID COPPERGAS
+Description (Cu) Copper is a conductive <link="METAL">Metal</link> heated into a <link="ELEMENTSGAS">Gas</link>.
+
+Name <link="CREATURE">Genetic Ooze</link>
+ID CREATURE
+Description (DuPe) Ooze is a slurry of water, carbon, and dozens and dozens of trace elements.
+
+Duplicants are printed from pure <link="SOLID">Ooze</link>.
+
+Name <link="CRUDEOIL">Crude Oil</link>
+ID CRUDEOIL
+Description Crude Oil is a raw potential <link="POWER">Power</link> source composed of billions of dead, primordial organisms.
+
+Name <link="PETROLEUM">Petroleum</link>
+ID PETROLEUM
+Description Petroleum is a <link="POWER">Power</link> source refined from <link="CRUDEOIL">Crude Oil</link>.
+
+It is also an essential ingredient in the production of <link="POLYPROPYLENE">Plastic</link>.
+
+Name <link="SOURGAS">Sour Gas</link>
+ID SOURGAS
+Description Sour Gas is a hydrocarbon <link="ELEMENTSGAS">Gas</link> containing high concentrations of hydrogen sulfide.
+
+It is a byproduct of highly heated <link="PETROLEUM">Petroleum</link>.
+
+Name <link="CRUSHEDICE">Crushed Ice</link>
+ID CRUSHEDICE
+Description (H<sub>2</sub>0) A slush of crushed, semi-solid ice.
+
+Name <link="CRUSHEDROCK">Crushed Rock</link>
+ID CRUSHEDROCK
+Description Crushed Rock is <link="IGNEOUSROCK">Igneous Rock</link> crushed into a mechanical mixture.
+
+Name <link="CUPRITE">Copper Ore</link>
+ID CUPRITE
+Description (Cu<sub>2</sub>0) Copper Ore is a conductive <link="RAWMETAL">Metal</link>.
+
+It is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="DIAMOND">Diamond</link>
+ID DIAMOND
+Description (C) Diamond is industrial-grade, high density carbon.
+
+It is very difficult to excavate.
+
+Name <link="DIRT">Dirt</link>
+ID DIRT
+Description Dirt is a soft, nutrient-rich substance capable of supporting life.
+
+It is necessary in some forms of <link="FOOD">Food</link> production.
+
+Name <link="DIRTYICE">Polluted Ice</link>
+ID DIRTYICE
+Description Polluted Ice is dirty, unfiltered water frozen into a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="DIRTYWATER">Polluted Water</link>
+ID DIRTYWATER
+Description Polluted Water is dirty, unfiltered <link="WATER">Water</link>.
+
+It is not fit for consumption.
+
+Name <link="ELECTRUM">Electrum</link>
+ID ELECTRUM
+Description Electrum is a conductive <link="RAWMETAL">Metal</link> alloy composed of gold and silver.
+
+It is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="FERTILIZER">Fertilizer</link>
+ID FERTILIZER
+Description Fertilizer is a processed mixture of biological nutrients.
+
+It aids in the growth of certain <link="PLANTS">Plants</link>.
+
+Name <link="PONDSCUM">Pondscum</link>
+ID PONDSCUM
+Description Pondscum is a soft, naturally occurring composite of biological nutrients.
+
+It may be processed into <link="FERTILIZER">Fertilizer</link> and aids in the growth of certain <link="PLANTS">Plants</link>.
+
+Name <link="FOOLSGOLD">Pyrite</link>
+ID FOOLSGOLD
+Description (FeS<sub>2</sub>) Pyrite is a conductive <link="RAWMETAL">Metal</link>.
+
+Also known as "Fool's Gold", is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="FULLERENE">Fullerene</link>
+ID FULLERENE
+Description (C<sub>60</sub>) Fullerene is a form of <link="CARBON">Carbon</link> consisting of spherical molecules.
+
+Name <link="GLASS">Glass</link>
+ID GLASS
+Description Glass is a brittle, transparent substance formed from <link="SAND">Sand</link> fired at high temperatures.
+
+Name <link="GOLD">Gold</link>
+ID GOLD
+Description (Au) Gold is a conductive precious <link="RAWMETAL">Metal</link>.
+
+It is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="GOLDAMALGAM">Gold Amalgam</link>
+ID GOLDAMALGAM
+Description Gold Amalgam is a conductive amalgam of gold and mercury.
+
+It is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="GOLDGAS">Gold</link>
+ID GOLDGAS
+Description (Au) Gold is a conductive precious <link="RAWMETAL">Metal</link>, heated into a <link="ELEMENTSGAS">Gas</link>.
+
+Name <link="GRANITE">Granite</link>
+ID GRANITE
+Description Granite is a dense composite of <link="IGNEOUSROCK">Igneous Rock</link>.
+
+It is useful as a Construction Material.
+
+Name <link="HELIUM">Helium</link>
+ID HELIUM
+Description (He) Helium is an atomically lightweight, chemical <link="ELEMENTSGAS">Gas</link>.
+
+Name <link="HYDROGEN">Hydrogen</link>
+ID HYDROGEN
+Description (H) Hydrogen is the universe's most common and atomically light element in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="ICE">Ice</link>
+ID ICE
+Description (H<sub>2</sub>0) Ice is clean water frozen into a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="IGNEOUSROCK">Igneous Rock</link>
+ID IGNEOUSROCK
+Description Igneous Rock is a composite of solidified volcanic rock.
+
+It is useful as a Construction Material.
+
+Name <link="ISORESIN">Isoresin</link>
+ID ISORESIN
+Description Isoresin is a crystalized sap composed of long-chain polymers.
+
+It is used in the production of rare, high grade materials.
+
+Name <link="IRON">Iron</link>
+ID IRON
+Description (Fe) Iron is a common industrial <link="RAWMETAL">Metal</link>.
+
+Name <link="IRONINGOT">Iron</link>
+ID IRONINGOT
+Description (Fe) Iron is refined <link="IRONORE">Iron Ore</link>.
+
+Name <link="IRONGAS">Iron</link>
+ID IRONGAS
+Description (Fe) Iron is a common industrial <link="RAWMETAL">Metal</link>, heated into a <link="ELEMENTSGAS">Gas</link>.
+
+Name <link="IRONORE">Iron Ore</link>
+ID IRONORE
+Description (Fe) Iron Ore is a soft <link="RAWMETAL">Metal</link>.
+
+It is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="KATAIRITE">Abyssalite</link>
+ID KATAIRITE
+Description (Ab) Abyssalite is a resilient, crystalline element.
+
+Name <link="LIME">Lime</link>
+ID LIME
+Description (CaCO<sub>3</sub>) Lime is a mineral commonly found in <link="CRITTERS">Critter</link> egg shells.
+
+It is useful as a Construction Material.
+
+Name <link="FOSSIL">Fossil</link>
+ID FOSSIL
+Description Fossil is organic matter, highly compressed and hardened into a mineral state.
+
+It is useful as a Construction Material.
+
+Name <link="LIQUIDCARBONDIOXIDE">Carbon Dioxide</link>
+ID LIQUIDCARBONDIOXIDE
+Description (CO<sub>2</sub>) Carbon Dioxide is a toxic chemical compound. This selection is currently in a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="LIQUIDHELIUM">Helium</link>
+ID LIQUIDHELIUM
+Description (He) Helium is an atomically lightweight chemical element cooled into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="LIQUIDHYDROGEN">Hydrogen</link>
+ID LIQUIDHYDROGEN
+Description (H) Hydrogen is a chemical <link="ELEMENTSLIQUID">Liquid</link>.
+
+It freezes most substances that come into contact with it.
+
+Name <link="LIQUIDOXYGEN">Oxygen</link>
+ID LIQUIDOXYGEN
+Description (O<sub>2</sub>) Oxygen is a breathable chemical.
+
+This selection is in a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="LIQUIDMETHANE">Methane</link>
+ID LIQUIDMETHANE
+Description (CH<sub>4</sub>) Methane is an alkane.
+
+This selection is in a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="LIQUIDPHOSPHORUS">Phosphorus</link>
+ID LIQUIDPHOSPHORUS
+Description (P) Phosphorus is a chemical element.
+
+This selection is in a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="LIQUIDPROPANE">Propane</link>
+ID LIQUIDPROPANE
+Description (C<sub>3</sub>H<sub>8</sub>) Propane is an alkane in a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+It is useful in <link="POWER">Power</link> production.
+
+Name <link="LIQUIDSULFUR">Liquid Sulfur</link>
+ID LIQUIDSULFUR
+Description (S) Sulfur is a common chemical element and byproduct of <link="METHANE">Natural Gas</link> production.
+
+This selection is in a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MAFICROCK">Mafic Rock</link>
+ID MAFICROCK
+Description Mafic Rock an <link="IRON">Iron</link>-rich variation of <link="IGNEOUSROCK">Igneous Rock</link>.
+
+It is useful as a Construction Material.
+
+Name <link="MAGMA">Magma</link>
+ID MAGMA
+Description Magma is a composite of <link="IGNEOUSROCK">Igneous Rock</link> heated into a molten, <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MERCURY">Mercury</link>
+ID MERCURY
+Description (Hg) Mercury is a toxic, metallic <link="ELEMENTSLIQUID">Liquid</link>.
+
+Name <link="MERCURYGAS">Mercury</link>
+ID MERCURYGAS
+Description (Hg) Mercury is a toxic <link="RAWMETAL">Metal</link> heated into a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="METHANE">Natural Gas</link>
+ID METHANE
+Description Natural Gas is a mixture of various alkanes in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+It is useful in <link="POWER">Power</link> production.
+
+Name <link="MOLTENCARBON">Carbon</link>
+ID MOLTENCARBON
+Description (C) Carbon is an abundant, versatile element heated into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MOLTENCOPPER">Copper</link>
+ID MOLTENCOPPER
+Description (Cu) Copper is a conductive <link="RAWMETAL">Metal</link> heated into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MOLTENGLASS">Molten Glass</link>
+ID MOLTENGLASS
+Description Molten Glass is a composite of granular rock heated into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MOLTENGOLD">Gold</link>
+ID MOLTENGOLD
+Description (Au) Gold is a conductive precious <link="RAWMETAL">Metal</link> heated into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MOLTENIRON">Iron</link>
+ID MOLTENIRON
+Description (Fe) Iron is a common industrial <link="RAWMETAL">Metal</link> heated into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MOLTENNIOBIUM">Niobium</link>
+ID MOLTENNIOBIUM
+Description (Nb) Niobium is a <link="RAREMATERIALS">Rare Metal</link> heated into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MOLTENTUNGSTEN">Tungsten</link>
+ID MOLTENTUNGSTEN
+Description (W) Tungsten is a crystalline <link="RAWMETAL">Metal</link> heated into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MOLTENTUNGSTENDISELENIDE">Tungsten Diselenide</link>
+ID MOLTENTUNGSTENDISELENIDE
+Description (WSe<sub>2</sub>) Tungsten Diselenide is an inorganic <link="RAWMETAL">Metal</link> compound heated into a <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="MOLTENSTEEL">Steel</link>
+ID MOLTENSTEEL
+Description Steel is a <link="RAWMETAL">Metal</link> alloy of iron and carbon, heated into a hazardous <link="ELEMENTSLIQUID">Liquid</link> state.
+
+Name <link="NIOBIUM">Niobium</link>
+ID NIOBIUM
+Description (Nb) Niobium is a <link="RAREMATERIALS">Rare Metal</link> with many practical applications in metallurgy and superconductor <link="RESEARCH">Research</link>.
+
+Name <link="NIOBIUMGAS">Niobium</link>
+ID NIOBIUMGAS
+Description (Nb) Niobium is a <link="RAREMATERIALS">Rare Metal</link>.
+
+This selection is in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="OBSIDIAN">Obsidian</link>
+ID OBSIDIAN
+Description Obsidian is a brittle composite of volcanic <link="GLASS">Glass</link>.
+
+Name <link="OXYGEN">Oxygen</link>
+ID OXYGEN
+Description (O<sub>2</sub>) Oxygen is an atomically lightweight and breathable <link="ELEMENTSGAS">Gas</link>, necessary for sustaining life.
+
+It tends to rise above other gases.
+
+Name <link="OXYROCK">Oxylite</link>
+ID OXYROCK
+Description (Ir<sub>3</sub>O<sub>2</sub>) Oxylite is a chemical compound that slowly emits breathable <link="OXYGEN">Oxygen</link>.
+
+Excavating Oxylite increases its emission rate, but depletes the ore more rapidly.
+
+Name <link="PHOSPHATENODULES">Phosphate Nodules</link>
+ID PHOSPHATENODULES
+Description (PO<sup>3-</sup><sub>4</sub>) Nodules of sedimentary rock containing high concentrations of phosphate.
+
+Name <link="PHOSPHORITE">Phosphorite</link>
+ID PHOSPHORITE
+Description Phosphorite is a composite of sedimentary rock, saturated with phosphate.
+
+Name <link="PHOSPHORUS">Phosphorus</link>
+ID PHOSPHORUS
+Description (P) Phosphorus is a chemical element in its <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="PHOSPHORUSGAS">Phosphorus</link>
+ID PHOSPHORUSGAS
+Description (P) Phosphorus is a chemical element in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="PROPANE">Propane</link>
+ID PROPANE
+Description (C<sub>3</sub>H<sub>8</sub>) Propane is a natural alkane <link="ELEMENTSGAS">Gas</link>.
+
+It is useful in <link="POWER">Power</link> production.
+
+Name <link="RADIUM">Radium</link>
+ID RADIUM
+Description (Ra) Radium is a <link="LIGHT">Light</link> emitting radioactive substance.
+
+It is useful as a <link="POWER">Power</link> source.
+
+Name <link="ROCKGAS">Rock Gas</link>
+ID ROCKGAS
+Description Rock Gas is rock that has been superheated into a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="REGOLITH">Regolith</link>
+ID REGOLITH
+Description Regolith is a sandy substance composed of the various particles that collect atop terrestrial objects.
+
+It is useful as a Filtration Medium.
+
+Name <link="SAND">Sand</link>
+ID SAND
+Description Sand is a composite of granular rock.
+
+It is useful as a Filtration Medium.
+
+Name <link="SANDCEMENT">Sand Cement</link>
+ID SANDCEMENT
+Description 
+
+Name <link="SANDSTONE">Sandstone</link>
+ID SANDSTONE
+Description Sandstone is a composite of relatively soft sedimentary rock.
+
+It is useful as a construction material.
+
+Name <link="SEDIMENTARYROCK">Sedimentary Rock</link>
+ID SEDIMENTARYROCK
+Description Sedimentary Rock is a hardened composite of sediment layers.
+
+It is useful as a construction material.
+
+Name <link="SLIMEMOLD">Slime</link>
+ID SLIMEMOLD
+Description Slime is a thick biomixture of algae, fungi, and mucopolysaccharides.
+
+It can be distilled into <link="ALGAE">Algae</link> and is useful in some <link="OXYGEN">Oxygen</link> production processes.
+
+Name <link="SNOW">Snow</link>
+ID SNOW
+Description (H<sub>2</sub>0) Snow is a mass of loose, crystalline ice particles.
+
+It becomes <link="WATER">Water</link> when melted.
+
+Name <link="SOLIDCARBONDIOXIDE">Carbon Dioxide</link>
+ID SOLIDCARBONDIOXIDE
+Description (CO<sub>2</sub>) Carbon Dioxide is a toxic compound in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDCHLORINE">Chlorine</link>
+ID SOLIDCHLORINE
+Description (Cl) Chlorine is a toxic chemical element in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDCRUDEOIL">Crude Oil</link>
+ID SOLIDCRUDEOIL
+Description 
+
+Name <link="SOLIDHYDROGEN">Hydrogen</link>
+ID SOLIDHYDROGEN
+Description (H) Hydrogen is the universe's most common element in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDMERCURY">Mercury</link>
+ID SOLIDMERCURY
+Description (Hg) Mercury is a toxic <link="RAWMETAL">Metal</link> in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDOXYGEN">Oxygen</link>
+ID SOLIDOXYGEN
+Description (O<sub>2</sub>) Oxygen is a breathable element in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDMETHANE">Methane</link>
+ID SOLIDMETHANE
+Description (CH<sub>4</sub>) Methane is an alkane in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDNAPHTHA">Naphtha</link>
+ID SOLIDNAPHTHA
+Description Naphtha is a distilled hydrocarbon mixture in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDPETROLEUM">Petroleum</link>
+ID SOLIDPETROLEUM
+Description Petroleum is a <link="POWER">Power</link> source.
+
+This selection is in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDPROPANE">Propane</link>
+ID SOLIDPROPANE
+Description (C<sub>3</sub>H<sub>8</sub>) Propane is a natural gas in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDSUPERCOOLANT">Super Coolant</link>
+ID SOLIDSUPERCOOLANT
+Description Super Coolant is an industrial grade <link="FULLERENE">Fullerene</link> coolant.
+
+This selection is in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="SOLIDVISCOGEL">Visco-Gel</link>
+ID SOLIDVISCOGEL
+Description Visco-Gel is a polymer that has high surface tension when in <link="ELEMENTSLIQUID">Liquid</link> form.
+
+This selection is in a <link="ELEMENTSSOLID">Solid</link> state.
+
+Name <link="STEAM">Steam</link>
+ID STEAM
+Description (H<sub>2</sub>0) Steam is water that has been heated into a scalding <link="ELEMENTSGAS">Gas</link>.
+
+Name <link="STEEL">Steel</link>
+ID STEEL
+Description Steel is a <link="REFINEDMETAL">Metal Alloy</link> composed of iron and carbon.
+
+Name <link="STEELGAS">Steel</link>
+ID STEELGAS
+Description Steel is a superheated <link="RAWMETAL">Metal</link> <link="ELEMENTSGAS">Gas</link> composed of iron and carbon.
+
+Name <link="SULFUR">Sulfur</link>
+ID SULFUR
+Description (S) Sulfur is a common chemical element and byproduct of <link="METHANE">Natural Gas</link> production.
+
+Name <link="SULFURGAS">Sulfur</link>
+ID SULFURGAS
+Description (S) Sulfur is a common chemical element and byproduct of <link="METHANE">Natural Gas</link> production.
+
+This selection is in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="SUPERCOOLANT">Super Coolant</link>
+ID SUPERCOOLANT
+Description Super Coolant is an industrial grade coolant that utilizes the unusual energy states of <link="FULLERENE">Fullerene</link>.
+
+Name <link="SUPERCOOLANTGAS">Super Coolant</link>
+ID SUPERCOOLANTGAS
+Description Super Coolant is an industrial grade <link="FULLERENE">Fullerene</link> coolant.
+
+This selection is in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="SUPERINSULATOR">Insulation</link>
+ID SUPERINSULATOR
+Description Insulation reduces <link="HEAT">Heat Transfer</link> and is composed of recrystallized <link="KATAIRITE">Abyssalite</link>.
+
+Name <link="TEMPCONDUCTORSOLID">Thermium</link>
+ID TEMPCONDUCTORSOLID
+Description Thermium is an industrial metal alloy formulated to maximize <link="HEAT">Heat Transfer</link> and thermal dispersion.
+
+Name <link="TUNGSTEN">Tungsten</link>
+ID TUNGSTEN
+Description (W) Tungsten is an extremely tough crystalline <link="RAWMETAL">Metal</link>.
+
+It is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="TUNGSTENGAS">Tungsten</link>
+ID TUNGSTENGAS
+Description (W) Tungsten is a superheated crystalline <link="RAWMETAL">Metal</link>.
+
+This selection is in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="TUNGSTENDISELENIDE">Tungsten Diselenide</link>
+ID TUNGSTENDISELENIDE
+Description (WSe<sub>2</sub>) Tungsten Diselenide is an inorganic <link="RAWMETAL">Metal</link> compound with a crystalline structure.
+
+It is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="TUNGSTENDISELENIDEGAS">Tungsten Diselenide</link>
+ID TUNGSTENDISELENIDEGAS
+Description (WSe<sub>2</sub>) Tungsten Diselenide is a superheated <link="RAWMETAL">Metal</link> compound in a <link="ELEMENTSGAS">Gaseous</link> state.
+
+Name <link="TOXICSAND">Polluted Dirt</link>
+ID TOXICSAND
+Description Polluted Dirt is toxic biological waste.
+
+It emits <link="CONTAMINATEDOXYGEN">Polluted Oxygen</link> over time.
+
+Name <link="UNOBTANIUM">Neutronium</link>
+ID UNOBTANIUM
+Description (Nt) Neutronium is a mysterious and extremely resilient Metallic element.
+
+It cannot be excavated by any Duplicant mining tool.
+
+Name <link="VACUUM">Vacuum</link>
+ID VACUUM
+Description A vacuum is a space devoid of all matter.
+
+Name <link="VISCOGEL">Visco-Gel</link>
+ID VISCOGEL
+Description Visco-Gel is a <link="ELEMENTSLIQUID">Liquid</link> polymer with high surface tension, preventing typical liquid flow and allowing for unusual configurations.
+
+Name <link="VOID">Void</link>
+ID VOID
+Description Cold, infinite nothingness.
+
+Name <link="WATER">Water</link>
+ID WATER
+Description (H<sub>2</sub>O) Clean <link="WATER">Water</link>, suitable for consumption.
+
+Name <link="WOLFRAMITE">Wolframite</link>
+ID WOLFRAMITE
+Description ((Fe,Mn)WO<sub>4</sub>) Wolframite is a dense Metallic element in a <link="ELEMENTSSOLID">Solid</link> state.
+
+It is a source of <link="TUNGSTEN">Tungsten</link> and is suitable for building <link="POWER">Power</link> systems.
+
+Name <link="POLYPROPYLENE">Plastic</link>
+ID POLYPROPYLENE
+Description (C<sub>3</sub>H<sub>6</sub>)<sub>n</sub> <link="POLYPROPYLENE">Plastic</link> is a thermoplastic polymer.
+
+It is useful for constructing a variety of advanced buildings and equipment.
+
+Name <link="NAPHTHA">Naphtha</link>
+ID NAPHTHA
+Description Naphtha a distilled hydrocarbon mixture produced from the burning of <link="POLYPROPYLENE">Plastic</link>.
+
+Name <link="SLABS">Building Slab</link>
+ID SLABS
+Description Slabs are a refined mineral building block used for assembling advanced buildings.
+
+
+
+
+
+Name Oxylite blocked
+ID NEIGHBORSBLOCKED
+
+Name Inert
+ID OVERPRESSURE
+
+Name {BlockedString}
+ID OXYROCKBLOCKED
+
+Name Emitting <link="OXYGEN">Oxygen</link>: {FlowRate}
+ID OXYROCKEMITTING
+
+Name Space exposure
+ID SPACE
+
+Name Inert
+ID OXYROCKINACTIVE
+
+
+Name Bleachstone blocked
+ID NEIGHBORSBLOCKED
+
+Name Inert
+ID OVERPRESSURE
+
+Name {BlockedString}
+ID BLEACHSTONEBLOCKED
+
+Name Emitting {Element}: {FlowRate}
+ID BLEACHSTONEEMITTING
+
+Name Inert
+ID BLEACHSTONEINACTIVE
+
+Name Rations: {0}
+ID EDIBLE
+
+Name Disinfect Errand
+ID MARKEDFORDISINFECTION
+
+Name Sweep Errand
+ID PENDINGCLEAR
+
+Name Compost Errand
+ID MARKEDFORCOMPOST
+
+Name No Sweep Destination
+ID NOCLEARLOCATIONSAVAILABLE
+
+Name Harvest Errand
+ID PENDINGHARVEST
+
+Name Uproot Errand
+ID PENDINGUPROOT
+
+Name Dig Errand
+ID WAITINGFORDIG
+
+Name Mop Errand
+ID WAITINGFORMOP
+
+Name No Harvest Pending
+ID NOTMARKEDFORHARVEST
+
+Name {Category}
+ID ELEMENTALCATEGORY
+
+Name {Mass}
+ID ELEMENTALMASS
+
+Name {Disease}
+ID ELEMENTALDISEASE
+
+Name {Temp}
+ID ELEMENTALTEMPERATURE
+
+Name Buried Object
+ID BURIEDITEM
+
+
+Name None
+ID PERFECT
+
+Name None
+ID ALRIGHT
+
+Name Minor
+ID SCUFFED
+
+Name Moderate
+ID INJURED
+
+Name Severe
+ID CRITICAL
+
+Name Paralyzing
+ID INCAPACITATED
+
+Name Conclusive
+ID DEAD
+
+Name {targetName} took {damageAmount} damage from {attackerName}'s attack!
+ID HIT
+
+Name {Mass}
+ID OREMASS
+
+Name {Temp}
+ID ORETEMP
+
+Name {Tags}
+ID TREEFILTERABLETAGS
+
+Name Overpressure {StudiedDetails}
+ID SPOUTOVERPRESSURE
+
+Name Venting {StudiedDetails}
+ID SPOUTEMITTING
+
+Name Rising pressure {StudiedDetails}
+ID SPOUTPRESSUREBUILDING
+
+Name Idle {StudiedDetails}
+ID SPOUTIDLE
+
+Name Dormant
+ID SPOUTDORMANT
+
+Name Unreachable
+ID PICKUPABLEUNREACHABLE
+
+Name High Priority
+ID PRIORITIZED
+
+Name Using {Target}
+ID USING
+
+Name Pending Attack
+ID ORDERATTACK
+
+Name Pending Wrangle
+ID ORDERCAPTURE
+
+Name In Use
+ID OPERATING
+
+Name Cleaning
+ID CLEANING
+
+Name Blocked
+ID REGIONISBLOCKED
+
+Name Analysis Complete
+ID STUDIED
+
+Name Analysis Pending
+ID AWAITINGSTUDY
+
+
+
+Name Tutorial: Basic Controls
+ID BASICCONTROLS
+
+Name Tutorial: Colony Management
+ID WELCOMEMESSAGE
+
+Name Tutorial: Stress Management
+ID STRESSMANAGEMENTMESSAGE
+
+Name Tutorial: Priority
+ID TASKPRIORITIESMESSAGE
+
+Name Tutorial: Polluted Water
+ID MOPPINGMESSAGE
+
+Name Tutorial: Duplicant Movement
+ID LOCOMOTIONMESSAGE
+
+Name Tutorial: Errand Priorities
+ID PRIORITIESMESSAGE
+
+Name Tutorial: Fetching Water
+ID FETCHINGWATERMESSAGE
+
+Name Tutorial: Scheduling
+ID SCHEDULEMESSAGE
+
+Name Tutorial: Duplicant Temperature
+ID THERMALCOMFORT
+
+Name Tutorial: Building Temperature
+ID TUTORIAL_OVERHEATING
+
+Name Tutorial: Germs and Disease
+ID LOTS_OF_GERMS
+
+Name Tutorial: Immune Systems
+ID BEING_INFECTED
+
+Name Tutorial: Food Safety
+ID DISEASE_COOKING
+
+Name Tutorial: Atmo Suits
+ID SUITS
+
+Name Tutorial: Morale
+ID MORALE
+
+Name Tutorial: Duplicant Thermal Units
+ID DTU
+
+Name 
+ID NOMESSAGES
+
+Name 
+ID NOALERTS
+
+Name {0} has developed a trait
+ID NEWTRAIT
+
+Name Research Complete
+ID RESEARCHCOMPLETE
+
+Name Jobs Mastered
+ID ROLEMASTERED
+
+Name New Duplicants have been reabsorbed
+ID DUPLICANTABSORBED
+
+Name Duplicants have died
+ID DUPLICANTDIED
+
+Name Food has decayed
+ID FOODROT
+
+Name Food has become stale
+ID FOODSTALE
+
+Name Red Alert
+ID REDALERT
+
+Name Healing
+ID HEALING
+
+Name Unreachable resources
+ID UNREACHABLEITEM
+
+Name Invalid construction location
+ID INVALIDCONSTRUCTIONLOCATION
+
+Name Missing materials
+ID MISSINGMATERIALS
+
+Name Damage: Overheated
+ID BUILDINGOVERHEATED
+
+Name No <link="MINERALDEOXIDIZER">Oxygen Diffuser</link> built
+ID NO_OXYGEN_GENERATOR
+
+Name Insufficient Oxygen generation
+ID INSUFFICIENTOXYGENLASTCYCLE
+
+Name Unrefrigerated Food
+ID UNREFRIGERATEDFOOD
+
+Name Food shortage
+ID FOODLOW
+
+Name No <link="MEDICALCOT">Med-Bed</link> built
+ID NO_MEDICAL_COTS
+
+Name No <link="OUTHOUSE">Outhouse</link> built
+ID NEEDTOILET
+
+Name Colony requires a food source
+ID NEEDFOOD
+
+Name No <link="WASHBASIN">Wash Basin</link> built
+ID HYGENE_NEEDED
+
+Name No <link="COT">Cots</link> built
+ID NEEDSLEEP
+
+Name Colony requires a <link="POWER">Power</link> source
+ID NEEDENERGYSOURCE
+
+Name Resources melted
+ID RESOURCEMELTED
+
+Name Vent overpressurized
+ID VENTOVERPRESSURE
+
+Name Vent blocked
+ID VENTBLOCKED
+
+Name Output blocked
+ID OUTPUTBLOCKED
+
+Name Building broken
+ID BROKENMACHINE
+
+Name Structural damage
+ID STRUCTURALDAMAGE
+
+Name Structural collapse
+ID STRUCTURALCOLLAPSE
+
+Name A gas cloud approaches
+ID GASCLOUDWARNING
+
+Name The colony is entering a cloud of gas
+ID GASCLOUDARRIVING
+
+Name The gas cloud is at its densest point
+ID GASCLOUDPEAK
+
+Name The gas cloud is receding
+ID GASCLOUDDEPARTING
+
+Name The colony is once again in open space
+ID GASCLOUDGONE
+
+Name Resource available
+ID AVAILABLE
+
+Name Resource allocated
+ID ALLOCATED
+
+Name Duplicants' expectations increased
+ID INCREASEDEXPECTATIONS
+
+Name Nearly dry
+ID NEARLYDRY
+
+Name New Duplicants have been reabsorbed
+ID IMMIGRANTSLEFT
+
+Name Skill increase
+ID LEVELUP
+
+Name {0}: {1}!
+ID SCHEDULE_CHANGED
+
+Name Genes Shuffled
+ID GENESHUFFLER
+
+Name New trait
+ID HEALINGTRAITGAIN
+
+Name Colony Lost
+ID COLONYLOST
+
+Name Fabricator idle
+ID FABRICATOREMPTY
+
+Name No Docks available
+ID SUIT_DROPPED
+
+Name Duplicants suffocated
+ID DEATH_SUFFOCATION
+
+Name Duplicants have frozen
+ID DEATH_FROZENSOLID
+
+Name Duplicants have overheated
+ID DEATH_OVERHEATING
+
+Name Duplicants have starved
+ID DEATH_STARVATION
+
+Name Duplicants splattered
+ID DEATH_FELL
+
+Name Duplicants crushed
+ID DEATH_CRUSHED
+
+Name Duplicants have suffocated
+ID DEATH_SUFFOCATEDTANKEMPTY
+
+Name Duplicants have suffocated
+ID DEATH_SUFFOCATEDAIRTOOHOT
+
+Name Duplicants have suffocated
+ID DEATH_SUFFOCATEDAIRTOOCOLD
+
+Name Duplicants have drowned
+ID DEATH_DROWNED
+
+Name Duplicants have been entombed
+ID DEATH_ENTOUMBED
+
+Name Duplicants pressurized
+ID DEATH_RAPIDDECOMPRESSION
+
+Name Duplicants pressurized
+ID DEATH_OVERPRESSURE
+
+Name Duplicants poisoned
+ID DEATH_POISONED
+
+Name Duplicants have succumb to illness
+ID DEATH_DISEASE
+
+Name Circuit Overloaded
+ID CIRCUIT_OVERLOADED
+
+Name ALERT - Surface Breach
+ID DISCOVERED_SPACE
+
+
+
+Name Dig
+ID DIGPLACER
+
+Name Mop
+ID MOPPLACER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name Global
+ID ROOT
+
+Name Tool
+ID TOOL
+
+Name Management
+ID MANAGEMENT
+
+Name Navigation
+ID NAVIGATION
+
+Name Building
+ID BUILDING
+
+Name Debug
+ID DEBUG
+
+Name Sandbox
+ID SANDBOX
+
+Name Base Menu
+ID BASEMENU
+
+Name Food And Agriculture Menu
+ID FOODANDAGRICULTUREMENU
+
+Name Health And Happiness Menu
+ID HEALTHANDHAPPINESSMENU
+
+Name Infrastructure Menu
+ID INFRASTRUCTUREMENU
+
+Name Industrial Menu
+ID INDUSTRIALMENU
+
+Name Logistics Menu
+ID LOGISTICSMENU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name <link="HEADQUARTERS">Printing Pod</link>
+ID HEADQUARTERSCOMPLETE
+
+Name <link="AIRCONDITIONER">Thermo Regulator</link>
+ID AIRCONDITIONER
+Description A thermo regulator doesn't remove heat, but relocates it to a new area.
+
+Name <link="ALGAEDISTILLERY">Algae Distiller</link>
+ID ALGAEDISTILLERY
+Description Algae distillers convert disease-causing slime into algae for oxygen production.
+
+Name <link="OXYLITEREFINERY">Oxylite Refinery</link>
+ID OXYLITEREFINERY
+Description Oxylite is a solid and easily transportable source of consumable oxygen.
+
+Name <link="FERTILIZERMAKER">Fertilizer Synthesizer</link>
+ID FERTILIZERMAKER
+Description Fertilizer synthesizers convert polluted dirt into fertilizer for domestic plants.
+
+Name <link="ALGAEHABITAT">Algae Terrarium</link>
+ID ALGAEHABITAT
+Description Algae colony, Duplicant colony... we're more alike than we are different.
+
+Name <link="BATTERY">Battery</link>
+ID BATTERY
+Description Batteries allow extra power from generators to be stored for later, rather than lost.
+
+Name <link="AIRBORNECREATURELURE">Critter Lure</link>
+ID AIRBORNECREATURELURE
+Description Lures can relocate Pufts or Shine Bugs to specific locations in your base.
+
+Name <link="BATTERYMEDIUM">Jumbo Battery</link>
+ID BATTERYMEDIUM
+Description Larger batteries hold more power and keep systems running longer before recharging.
+
+Name <link="BATTERYSMART">Smart Battery</link>
+ID BATTERYSMART
+Description Smart batteries can automatically turn systems off when there is no charge to sustain them.
+
+Name <link="BED">Cot</link>
+ID BED
+Description Duplicants without a bed will develop sore backs from sleeping on the floor.
+
+Name <link="BOTTLEEMPTIER">Bottle Emptier</link>
+ID BOTTLEEMPTIER
+Description A bottle emptier's Element Filter can be used to designate areas for specific liquid storage.
+
+Name <link="BOTTLEEMPTIERGAS">Canister Emptier</link>
+ID BOTTLEEMPTIERGAS
+Description A canister emptier's Element Filter can be used to designate areas for specific gas storage.
+
+Name <link="CARGOBAY">Cargo Bay</link>
+ID CARGOBAY
+Description Duplicants will fill cargo bays with whatever resources they find during their space missions.
+
+Name <link="SPECIALCARGOBAY">Biological Cargo Bay</link>
+ID SPECIALCARGOBAY
+Description Biological cargo bays allow Duplicants to retrieve alien plants and wildlife from space.
+
+Name <link="COMMANDMODULE">Command Capsule</link>
+ID COMMANDMODULE
+Description At least one astronaut must be assigned to the command module to pilot a rocket.
+
+Name <link="RESEARCHMODULE">Research Module</link>
+ID RESEARCHMODULE
+Description Data banks can be used at virtual planetariums to produce additional research points.
+
+Name <link="TOURISTMODULE">Sight-Seeing Module</link>
+ID TOURISTMODULE
+Description An astronaut must accompany sight seeing Duplicants on rocket flights.
+
+Name <link="GANTRY">Gantry</link>
+ID GANTRY
+Description A gantry can be built over rocket pieces where ladders and tile cannot.
+
+Name <link="WATERCOOLER">Water Cooler</link>
+ID WATERCOOLER
+Description Chatting with friends improves Duplicants' moods and reduces their stress.
+
+Name <link="ARCADEMACHINE">Arcade Cabinet</link>
+ID ARCADEMACHINE
+Description Komet Kablam-O!
+For up to two players.
+
+Name <link="PHONOBOX">Jukebot</link>
+ID PHONOBOX
+Description Dancing helps Duplicants get their feelings out.
+
+Name <link="ESPRESSOMACHINE">Espresso Machine</link>
+ID ESPRESSOMACHINE
+Description A shot of espresso helps Duplicants relax after a long day.
+
+Name <link="CHECKPOINT">Duplicant Checkpoint</link>
+ID CHECKPOINT
+Description Checkpoints can be connected to automated sensors to determine when it's safe to enter.
+
+Name <link="FIREPOLE">Fire Pole</link>
+ID FIREPOLE
+Description Fire poles provide quick downward travel, while ladders provide better upward movement.
+
+Name <link="FLOORSWITCH">Weight Plate</link>
+ID FLOORSWITCH
+Description Weight plates can be used to turn on amenities only when Duplicants pass by.
+
+Name <link="KILN">Kiln</link>
+ID KILN
+Description Kilns can also be used to refine coal into pure carbon.
+
+Name <link="LIQUIDFUELTANK">Liquid Fuel Tank</link>
+ID LIQUIDFUELTANK
+Description Storing additional fuel increases the distance a rocket can travel before returning.
+
+Name <link="OXIDIZERTANK">Solid Oxidizer Tank</link>
+ID OXIDIZERTANK
+Description Solid oxidizers allows rocket fuel to be efficiently burned in the vacuum of space.
+
+Name <link="LIQUIDOXIDIZERTANK">Liquid Oxidizer Tank</link>
+ID OXIDIZERTANKLIQUID
+Description Liquid oxygen improves the thrust-to-mass ratio of rocket fuels.
+
+Name <link="LIQUIDCONDITIONER">Thermo Aquatuner</link>
+ID LIQUIDCONDITIONER
+Description A thermo aquatuner cools liquid and outputs the heat elsewhere.
+
+Name <link="LIQUIDCARGOBAY">Liquid Cargo Tank</link>
+ID LIQUIDCARGOBAY
+Description Duplicants will fill cargo tanks with whatever resources they find during their space missions.
+
+Name <link="LUXURYBED">Comfy Bed</link>
+ID LUXURYBED
+Description Duplicants prefer comfy beds to cots and will gain more stamina back from sleeping in them.
+
+Name <link="MEDICALCOT">Med-Bed</link>
+ID MEDICALCOT
+Description Duplicants use med-beds to recover from sickness and receive medical aid from peers.
+
+Name <link="MASSAGETABLE">Massage Table</link>
+ID MASSAGETABLE
+Description Massage tables quickly reduce extreme stress, at the cost of power production.
+
+Name <link="CEILINGLIGHT">Ceiling Light</link>
+ID CEILINGLIGHT
+Description Light reduces Duplicant stress and is required to grow certain plants.
+
+Name <link="AIRFILTER">Deodorizer</link>
+ID AIRFILTER
+Description Oh! Citrus scented!
+
+Name <link="CANVAS">Blank Canvas</link>
+ID CANVAS
+Description Once built, a Duplicant can paint a blank canvas to produce a decorative painting.
+
+Name <link="CANVASWIDE">Landscape Canvas</link>
+ID CANVASWIDE
+Description Once built, a Duplicant can paint a blank canvas to produce a decorative painting.
+
+Name <link="CANVASTALL">Portrait Canvas</link>
+ID CANVASTALL
+Description Once built, a Duplicant can paint a blank canvas to produce a decorative painting.
+
+Name <link="CO2SCRUBBER">Carbon Skimmer</link>
+ID CO2SCRUBBER
+Description Carbon skimmers remove large amounts of carbon dioxide, but produce no breathable air.
+
+Name <link="COMPOST">Compost</link>
+ID COMPOST
+Description Composts safely deal with biological waste, producing fresh dirt.
+
+Name <link="COOKINGSTATION">Electric Grill</link>
+ID COOKINGSTATION
+Description Proper cooking eliminates foodborne disease and produces tasty, stress-relieving meals.
+
+Name <link="DININGTABLE">Mess Table</link>
+ID DININGTABLE
+Description Duplicants prefer to dine at a table, rather than eat off the floor.
+
+Name <link="DOOR">Pneumatic Door</link>
+ID DOOR
+Description Door controls can be used to prevent Duplicants from entering restricted areas.
+
+
+Name Open
+ID OPEN
+
+Name Lock
+ID CLOSE
+
+Name Auto
+ID AUTO
+
+Name <link="ELECTROLYZER">Electrolyzer</link>
+ID ELECTROLYZER
+Description Water goes in one end, life sustaining oxygen comes out the other.
+
+Name <link="POWERTRANSFORMERSMALL">Power Transformer</link>
+ID POWERTRANSFORMERSMALL
+Description Transformers prevent wires and buildings from frying when on circuits with powerful generators.
+
+Name <link="POWERTRANSFORMER">Large Power Transformer</link>
+ID POWERTRANSFORMER
+Description Shh! It only transforms when no one's looking.
+
+Name <link="FLOORLAMP">Lamp</link>
+ID FLOORLAMP
+Description The emitting radius of a building's light can be viewed in the Light Overlay.
+
+Name <link="FLOWERVASE">Flower Pot</link>
+ID FLOWERVASE
+Description Flower pots allow decorative plants to be moved to new locations.
+
+Name <link="FLOWERVASEWALL">Wall Pot</link>
+ID FLOWERVASEWALL
+Description Placing a plant in a wall pot can add a spot of decor to otherwise bare walls.
+
+Name <link="FLOWERVASEHANGING">Hanging Pot</link>
+ID FLOWERVASEHANGING
+Description Hanging pots can add a bit of decor to a room, without interferring with buildings on the floor.
+
+Name <link="FLOWERVASEHANGINGFANCY">Aero Pot</link>
+ID FLOWERVASEHANGINGFANCY
+Description Aero pots can be hung from the ceiling and have extremely high decor values.
+
+Name <link="FLUSHTOILET">Lavatory</link>
+ID FLUSHTOILET
+Description Lavatories transmit fewer germs to Duplicants' skin and require no manual emptying.
+
+Name <link="SHOWER">Shower</link>
+ID SHOWER
+Description Showers remove the "Grimy" effect and kill all germs present on Duplicant's skin.
+
+
+Name Marked for Emptying
+ID STATUS_ITEM
+
+Name <link="GASCARGOBAY">Gas Cargo Canister</link>
+ID GASCARGOBAY
+Description Duplicants will fill cargo canisters with whatever resources they find during their space missions.
+
+Name <link="GASCONDUIT">Gas Pipe</link>
+ID GASCONDUIT
+Description Gas pipes are used to connect the inputs and outputs of ventilated buildings.
+
+Name <link="GASCONDUITBRIDGE">Gas Bridge</link>
+ID GASCONDUITBRIDGE
+Description Separate pipe systems prevent mingled contents from causing building damage.
+
+Name <link="GASCONDUITPREFERENTIALFLOW">Priority Gas Flow</link>
+ID GASCONDUITPREFERENTIALFLOW
+Description Priority flows ensure important buildings are filled first when on a system with other buildings.
+
+Name <link="LIQUIDCONDUITPREFERENTIALFLOW">Priority Liquid Flow</link>
+ID LIQUIDCONDUITPREFERENTIALFLOW
+Description Priority flows ensure important buildings are filled first when on a system with other buildings.
+
+Name <link="GASCONDUITOVERFLOW">Gas Overflow Valve</link>
+ID GASCONDUITOVERFLOW
+Description Overflow valves can be used to prioritize which buildings should receive precious resources first.
+
+Name <link="LIQUIDCONDUITOVERFLOW">Liquid Overflow Valve</link>
+ID LIQUIDCONDUITOVERFLOW
+Description Overflow valves can be used to prioritize which buildings should receive precious resources first.
+
+Name <link="GASFILTER">Gas Filter</link>
+ID GASFILTER
+Description Gas filters send the selected filter gas into a special pipe, expelling everything else through a second output.
+
+Name <link="GASPERMEABLEMEMBRANE">Airflow Tile</link>
+ID GASPERMEABLEMEMBRANE
+Description Building with airflow tile promotes better gas circulation within a colony.
+
+Name <link="GASPUMP">Gas Pump</link>
+ID GASPUMP
+Description Piping a pump's intake to another building's output will send gas to that building.
+
+Name <link="GASMINIPUMP">Mini Gas Pump</link>
+ID GASMINIPUMP
+Description Mini pumps are useful for moving small quantities of gas with minimum power draw.
+
+Name <link="GASVALVE">Gas Valve</link>
+ID GASVALVE
+Description Valves control the amount of gas that moves through pipes, preventing waste.
+
+Name <link="GASLOGICVALVE">Gas Shutoff</link>
+ID GASLOGICVALVE
+Description Automated piping saves time and resources by removing the need for Duplicant management.
+
+Name <link="GASVENT">Gas Vent</link>
+ID GASVENT
+Description Vents are an exit point for gases from ventilation systems.
+
+Name <link="GASVENTHIGHPRESSURE">High Pressure Gas Vent</link>
+ID GASVENTHIGHPRESSURE
+Description High pressure Vents can exhaust gas into more highly pressurized environments.
+
+Name <link="GASBOTTLER">Canister Filler</link>
+ID GASBOTTLER
+Description Canisters allow Duplicants to manually delivery gases from place to place.
+
+Name <link="GENERATOR">Coal Generator</link>
+ID GENERATOR
+Description Coal generators produce more energy than manual generators, but emit heat and exhaust.
+
+Name <link="KEROSENEENGINE">Petroleum Engine</link>
+ID KEROSENEENGINE
+Description Rockets can be used to send Duplicants into space and retrieve rare resources.
+
+Name <link="HYDROGENENGINE">Hydrogen Engine</link>
+ID HYDROGENENGINE
+Description Hydrogen engines can propel rockets further than steam or petroleum engines.
+
+Name <link="GENERICFABRICATOR">Omniprinter</link>
+ID GENERICFABRICATOR
+Description Omniprinters are incapable of printing organic matter.
+
+Name <link="GRAVE">Tasteful Memorial</link>
+ID GRAVE
+Description Burying dead Duplicants reduces health hazards and stress on the colony.
+
+Name <link="HEADQUARTERS">Printing Pod</link>
+ID HEADQUARTERS
+Description New Duplicants will come out here, but thank goodness, they'll never go back in.
+
+Name <link="HYDROGENGENERATOR">Hydrogen Generator</link>
+ID HYDROGENGENERATOR
+Description Hydrogen generators are exceptionally efficient power sources and emit next to no waste.
+
+Name <link="METHANEGENERATOR">Natural Gas Generator</link>
+ID METHANEGENERATOR
+Description Natural gas generators leak polluted water and are best built above a waste reservoir.
+
+Name <link="PETROLEUMGENERATOR">Petroleum Generator</link>
+ID PETROLEUMGENERATOR
+Description Petroleum generators have a high energy output but produce a great deal of waste.
+
+Name <link="HYDROPONICFARM">Hydroponic Farm</link>
+ID HYDROPONICFARM
+Description Hydroponic farms reduce Duplicant traffic by automating liquid delivery with irrigation pipes.
+
+Name <link="INSULATEDGASCONDUIT">Insulated Gas Pipe</link>
+ID INSULATEDGASCONDUIT
+Description Pipe insulation prevents gas contents from significantly changing temperature in transit.
+
+Name <link="GASCONDUITRADIANT">Radiant Gas Pipe</link>
+ID GASCONDUITRADIANT
+Description Radiant pipes pumping cold gas can be run through hot areas to help cool them down.
+
+Name <link="INSULATEDLIQUIDCONDUIT">Insulated Liquid Pipe</link>
+ID INSULATEDLIQUIDCONDUIT
+Description Pipe insulation prevents liquid contents from significantly changing temperature in transit.
+
+Name <link="LIQUIDCONDUITRADIANT">Radiant Liquid Pipe</link>
+ID LIQUIDCONDUITRADIANT
+Description Radiant pipes pumping cold liquid can be run through hot areas to help cool them down.
+
+Name <link="INSULATEDWIRE">Insulated Wire</link>
+ID INSULATEDWIRE
+Description This stuff won't go melting if things get heated.
+
+Name <link="INSULATIONTILE">Insulated Tile</link>
+ID INSULATIONTILE
+Description The lowered thermal conductivity of insulated tile slows heat from passing through them.
+
+Name <link="EXTERIORWALL">Drywall</link>
+ID EXTERIORWALL
+Description Drywall can be used in conjunction with tile to build airtight rooms on the surface.
+
+Name <link="FARMTILE">Farm Tile</link>
+ID FARMTILE
+Description Duplicants can deliver fertilizer and liquids to farm tile, accelerating plant growth.
+
+Name <link="LADDER">Ladder</link>
+ID LADDER
+Description (That means they climb it.)
+
+Name <link="LADDERFAST">Plastic Ladder</link>
+ID LADDERFAST
+Description Plastic ladders are mildly antiseptic and can help limit the spread of germs in a colony.
+
+Name <link="LIQUIDCONDUIT">Liquid Pipe</link>
+ID LIQUIDCONDUIT
+Description Liquid pipes are used to connect the inputs and outputs of plumbed buildings.
+
+Name <link="LIQUIDCONDUITBRIDGE">Liquid Bridge</link>
+ID LIQUIDCONDUITBRIDGE
+Description Separate pipe systems prevent mingled contents from causing building damage.
+
+Name <link="LIQUIDCOOLEDFAN">Hydrofan</link>
+ID LIQUIDCOOLEDFAN
+Description A Duplicant can work a hydrofan to temporarily cool small areas as needed.
+
+Name <link="BURNER">Burner</link>
+ID BURNER
+Description Burners reach incredible temperatures and can quickly melt large areas.
+
+Name <link="CREATURETRAP">Critter Trap</link>
+ID CREATURETRAP
+Description Traps cannot catch flying critters.
+
+Name <link="CREATUREDELIVERYPOINT">Critter Drop-Off</link>
+ID CREATUREDELIVERYPOINT
+Description Duplicants automatically bring captured critters to these relocation points for release.
+
+Name <link="LIQUIDFILTER">Liquid Filter</link>
+ID LIQUIDFILTER
+Description Liquid filters send the selected liquid into a special pipe, expelling everything else through a second output.
+
+Name <link="LIQUIDPUMP">Liquid Pump</link>
+ID LIQUIDPUMP
+Description Piping a pump's intake to another building's output will send liquid to that building.
+
+Name <link="LIQUIDMINIPUMP">Mini Liquid Pump</link>
+ID LIQUIDMINIPUMP
+Description Mini pumps are useful for moving small quantities of liquid with minimum power draw.
+
+Name <link="LIQUIDPUMPINGSTATION">Pitcher Pump</link>
+ID LIQUIDPUMPINGSTATION
+Description Pitcher pumps are used to fetch water and other liquids for delivery to buildings.
+
+Name <link="LIQUIDVALVE">Liquid Valve</link>
+ID LIQUIDVALVE
+Description Valves control the amount of liquid that moves through pipes, preventing waste.
+
+Name <link="LIQUIDLOGICVALVE">Liquid Shutoff</link>
+ID LIQUIDLOGICVALVE
+Description Automated piping saves time and resources by removing the need for Duplicant management.
+
+Name <link="LIQUIDVENT">Liquid Vent</link>
+ID LIQUIDVENT
+Description Vents are an exit point for liquids from plumbing systems.
+
+Name <link="MANUALGENERATOR">Manual Generator</link>
+ID MANUALGENERATOR
+Description Watching Duplicants run on it is adorable... the electrical power is just an added bonus.
+
+Name <link="MANUALPRESSUREDOOR">Manual Airlock</link>
+ID MANUALPRESSUREDOOR
+Description Airlocks can quarter off dangerous areas or prevent gases from seeping into the colony.
+
+Name <link="MEDICALBED">Pharma Chamber</link>
+ID MEDICALBED
+Description Pharma Chambers decrease patients' disease recovery time, but cannot heal physical injuries.
+
+Name <link="MESHTILE">Mesh Tile</link>
+ID MESHTILE
+Description Mesh tile can be used to make Duplicant pathways in areas where liquid needs to flow.
+
+Name <link="PLASTICTILE">Plastic Tile</link>
+ID PLASTICTILE
+Description Plastic tile is mildly antiseptic and can help limit the spread of germs in a colony.
+
+Name <link="GLASSTILE">Window Tile</link>
+ID GLASSTILE
+Description Window tiles provide a barrier against liquid and gas and are completely transparent.
+
+Name <link="METALTILE">Metal Tile</link>
+ID METALTILE
+Description Heat travels much more quickly through metal tile than other types of flooring.
+
+Name <link="BUNKERTILE">Bunker Tile</link>
+ID BUNKERTILE
+Description Bunker tile can be used to build strong shelters in otherwise dangerous environments.
+
+Name <link="CARPETTILE">Carpeted Tile</link>
+ID CARPETTILE
+Description Carpeted tile is a luxury that remains decorative even when other tile is stacked atop it.
+
+Name <link="MOUDLINGTILE">Trimming Tile</link>
+ID MOULDINGTILE
+Description Trimming is used as purely decorative lining for walls and structures.
+
+Name <link="MICROBEMUSHER">Microbe Musher</link>
+ID MICROBEMUSHER
+Description Food from a musher will keep Duplicants alive, but may cause stress and disease over time.
+
+Name <link="MINERALDEOXIDIZER">Oxygen Diffuser</link>
+ID MINERALDEOXIDIZER
+Description Oxygen diffusers are inefficient, but can output enough <link="OXYGEN">Oxygen</link> to keep a colony breathing.
+
+Name <link="ORESCRUBBER">Ore Scrubber</link>
+ID ORESCRUBBER
+Description Ore scrubbers sanitize freshly mined resources before bringing them into the colony.
+
+Name <link="OUTHOUSE">Outhouse</link>
+ID OUTHOUSE
+Description The colony that eats together, excretes together.
+
+Name <link="APOTHECARY">Apothecary</link>
+ID APOTHECARY
+Description All-natural remedies to cure what ails you.
+
+Name <link="PLANTERBOX">Planter Box</link>
+ID PLANTERBOX
+Description Domestically grown seeds mature more quickly than wild plants.
+
+Name <link="PRESSUREDOOR">Mechanized Airlock</link>
+ID PRESSUREDOOR
+Description Mechanized airlocks have the same function as other doors, but open and close more quickly.
+
+Name <link="BUNKERDOOR">Bunker Door</link>
+ID BUNKERDOOR
+Description A massive, slow-moving door which is nearly indestructible.
+
+Name <link="RATIONBOX">Ration Box</link>
+ID RATIONBOX
+Description Ration boxes keep food safe from hungry critters, but don't slow food spoilage.
+
+Name <link="REFRIGERATOR">Refrigerator</link>
+ID REFRIGERATOR
+Description Food spoilage can be slowed by certain ambient conditions as well as by refrigerators.
+
+Name <link="ROLESTATION">Jobs Board</link>
+ID ROLESTATION
+Description Employment can permanently improve Duplicants' skills and teach them unique traits.
+
+Name <link="RESEARCHCENTER">Research Station</link>
+ID RESEARCHCENTER
+Description Research stations are necessary for unlocking all research tiers.
+
+Name <link="ADVANCEDRESEARCHCENTER">Super Computer</link>
+ID ADVANCEDRESEARCHCENTER
+Description Super computers unlock higher technology tiers than research stations alone.
+
+Name <link="COSMICRESEARCHCENTER">Virtual Planetarium</link>
+ID COSMICRESEARCHCENTER
+Description Virtual planetariums allow the simulated exploration of locations discovered with telescopes.
+
+Name <link="TELESCOPE">Telescope</link>
+ID TELESCOPE
+Description Telescopes are necessary for learning starmaps and conducting rocket missions.
+
+Name <link="SCULPTURE">Large Sculpting Block</link>
+ID SCULPTURE
+Description Duplicants with high art skill will produce better, more decorative sculptures.
+
+Name <link="ICESCULPTURE">Ice Block</link>
+ID ICESCULPTURE
+Description Prone to melting.
+
+Name <link="MARBLESCULPTURE">Marble Block</link>
+ID MARBLESCULPTURE
+Description Duplicants with high art skill will produce better, more decorative sculptures.
+
+Name <link="METALSCULPTURE">Metal Block</link>
+ID METALSCULPTURE
+Description Duplicants with high art skill will produce better, more decorative sculptures.
+
+Name <link="SMALLSCULPTURE">Sculpting Block</link>
+ID SMALLSCULPTURE
+Description Duplicants with high art skill will produce better, more decorative sculptures.
+
+Name <link="SHEARINGSTATION">Shearing Station</link>
+ID SHEARINGSTATION
+Description Shearing stations allow <link="DRECKO">Dreckos</link> to be safely sheared for useful raw materials.
+
+Name <link="SUITMARKER">Atmo Suit Checkpoint</link>
+ID SUITMARKER
+Description A checkpoint must have an atmo suit dock built on the opposite side its arrow faces.
+
+Name <link="SUITLOCKER">Atmo Suit Dock</link>
+ID SUITLOCKER
+Description Docks can refill atmo suits with air or empty them of waste, but can only charge one suit at a time.
+
+Name <link="JETSUITMARKER">Jet Suit Checkpoint</link>
+ID JETSUITMARKER
+Description A checkpoint must have a jet suit dock built on the opposite side its arrow faces.
+
+Name <link="JETSUITLOCKER">Jet Suit Dock</link>
+ID JETSUITLOCKER
+Description Docks can refill jet suits with air and fuel, or empty them of waste.
+
+Name <link="SUITFABRICATOR">Exosuit Forge</link>
+ID SUITFABRICATOR
+Description Exosuits can be filled with oxygen to allow Duplicants to safely enter uninhabitable areas.
+
+Name <link="CLOTHINGFABRICATOR">Textile Loom</link>
+ID CLOTHINGFABRICATOR
+Description A textile loom can be used to spin Reed Fiber into wearable Duplicant clothing.
+
+Name <link="SOLIDBOOSTER">Solid Fuel Thruster</link>
+ID SOLIDBOOSTER
+Description Additional thrusters allow rockets to reach far away space destinations.
+
+Name <link="SPACEHEATER">Space Heater</link>
+ID SPACEHEATER
+Description A space heater will radiate heat for as long as it's powered.
+
+Name <link="STORAGELOCKER">Storage Bin</link>
+ID STORAGELOCKER
+Description Resources left on the floor become "debris" and lower decor when not put away.
+
+Name <link="STORAGELOCKERSMART">Smart Storage Bin</link>
+ID STORAGELOCKERSMART
+Description Smart storage bins allow for the automation of resource organization based on type and mass.
+
+Name <link="LIQUIDRESERVOIR">Liquid Reservoir</link>
+ID LIQUIDRESERVOIR
+Description Reservoirs cannot receive manually delivered resources.
+
+Name <link="GASRESERVOIR">Gas Reservoir</link>
+ID GASRESERVOIR
+Description Reservoirs cannot receive manually delivered resources.
+
+Name <link="LIQUIDHEATER">Liquid Tepidizer</link>
+ID LIQUIDHEATER
+Description Liquid tepidizers kill waterborne germs and heat liquid to a perfect showering temperature.
+
+Name <link="SWITCH">Switch</link>
+ID SWITCH
+Description Switches do not affect buildings preceding them on a circuit, but control all buildings after.
+
+Name <link="LOGICPOWERRELAY">Power Shutoff</link>
+ID LOGICPOWERRELAY
+Description Automated systems save power and time by removing the need for Duplicant management.
+
+Name <link="TEMPERATURECONTROLLEDSWITCH">Thermo Switch</link>
+ID TEMPERATURECONTROLLEDSWITCH
+Description Automated switches can be used to manage circuits in areas where Duplicants cannot enter.
+
+Name <link="PRESSURESWITCHLIQUID">Hydro Switch</link>
+ID PRESSURESWITCHLIQUID
+Description A hydro switch shuts off power when the liquid pressure surrounding it surpasses the set threshold.
+
+Name <link="PRESSURESWITCHGAS">Atmo Switch</link>
+ID PRESSURESWITCHGAS
+Description An atmo switch shuts off power when the air pressure surrounding it surpasses the set threshold.
+
+Name <link="TILE">Tile</link>
+ID TILE
+Description Tile can be used to bridge gaps and get to unreachable areas.
+
+Name <link="WATERPURIFIER">Water Sieve</link>
+ID WATERPURIFIER
+Description Sieves cannot kill germs and pass any disease they receive into their waste and water output.
+
+Name <link="DISTILLATIONCOLUMN">Distillation Column</link>
+ID DISTILLATIONCOLUMN
+Description Gets hot and steamy.
+
+Name <link="WIRE">Wire</link>
+ID WIRE
+Description Electrical wire is used to connect generators, batteries, and buildings.
+
+Name <link="WIREBRIDGE">Wire Bridge</link>
+ID WIREBRIDGE
+Description Splitting generators onto separate systems can prevent power overloads and wasted electricity.
+
+Name <link="HIGHWATTAGEWIRE">Heavi-Watt Wire</link>
+ID HIGHWATTAGEWIRE
+Description Higher wattage wire is used to avoid power overloads, particularly for strong generators.
+
+Name <link="WIREBRIDGEHIGHWATTAGE">Heavi-Watt Joint Plate</link>
+ID WIREBRIDGEHIGHWATTAGE
+Description Joint plates can run Heavi wires through walls without leaking gas or liquid.
+
+Name <link="WIREREFINED">Conductive Wire</link>
+ID WIREREFINED
+Description My Duplicants prefer the look of conductive wire to the regular raggedy stuff.
+
+Name <link="WIREREFINEDBRIDGE">Conductive Wire Bridge</link>
+ID WIREREFINEDBRIDGE
+Description Splitting generators onto separate systems can prevent power overloads and wasted electricity.
+
+Name <link="WIREREFINEDHIGHWATTAGE">Heavi Conductive Wire</link>
+ID WIREREFINEDHIGHWATTAGE
+Description Higher wattage wire is used to avoid power overloads, particularly for strong generators.
+
+Name <link="WIREREFINEDBRIDGEHIGHWATTAGE">Heavi Conductive Joint Plate</link>
+ID WIREREFINEDBRIDGEHIGHWATTAGE
+Description Joint plates can run Heavi wires through walls without leaking gas or liquid.
+
+Name <link="HANDSANITIZER">Hand Sanitizer</link>
+ID HANDSANITIZER
+Description Hand sanitizers kill germs more effectively than wash basins.
+
+Name <link="WASHBASIN">Wash Basin</link>
+ID WASHBASIN
+Description Germ spread can be reduced by building wash basins where Duplicants are likely to get dirty.
+
+Name <link="WASHSINK">Sink</link>
+ID WASHSINK
+Description Sinks are plumbed and do not need to be manually emptied or refilled.
+
+Name <link="TILEPOI">Tile</link>
+ID TILEPOI
+Description 
+
+Name <link="POLYMERIZER">Polymer Press</link>
+ID POLYMERIZER
+Description Plastic can be used to craft unique buildings and goods.
+
+Name <link="DIRECTIONALWORLDPUMPLIQUID">Liquid Channel</link>
+ID DIRECTIONALWORLDPUMPLIQUID
+Description Channels move more volume than pumps and require no power, but need sufficient pressure to function.
+
+Name <link="STEAMTURBINE">Steam Turbine</link>
+ID STEAMTURBINE
+Description Useful for converting the geothermal energy of magma into usable power.
+
+Name <link="STEAMENGINE">Steam Engine</link>
+ID STEAMENGINE
+Description Rockets can be used to send Duplicants into space and retrieve rare resources.
+
+Name <link="SOLARPANEL">Solar Panel</link>
+ID SOLARPANEL
+Description Solar panels convert high intensity Sunlight into usable power.
+
+Name <link="COMETDETECTOR">Space Scanner</link>
+ID COMETDETECTOR
+Description Networks of many scanners will detect objects more efficiently than one scanner alone.
+
+Name <link="OILREFINERY">Oil Refinery</link>
+ID OILREFINERY
+Description Petroleum can only be produced from the refinement of crude oil.
+
+Name <link="OILWELLCAP">Oil Well</link>
+ID OILWELLCAP
+Description Water pumped into an oil reservoir cannot be recovered.
+
+Name <link="METALREFINERY">Metal Refinery</link>
+ID METALREFINERY
+Description Refined metals are necessary to build advanced electronics and technologies.
+
+Name <link="GLASSFORGE">Glass Forge</link>
+ID GLASSFORGE
+Description Glass can be used to construct window tile.
+
+Name <link="ROCKCRUSHER">Rock Granulator</link>
+ID ROCKCRUSHER
+Description Sand is used in an array of liquid and air filtering processes.
+
+Name <link="SUPERMATERIALREFINERY">Molecular Forge</link>
+ID SUPERMATERIALREFINERY
+Description Rare materials can be procured through rocket missions into space.
+
+Name <link="THERMALBLOCK">Tempshift Plate</link>
+ID THERMALBLOCK
+Description Construction materials have different thermal properties that affect how well they retain heat.
+
+Name <link="POWERCONTROLSTATION">Power Control Station</link>
+ID POWERCONTROLSTATION
+Description Only one Duplicant may be assigned to a Station at a time.
+
+Name <link="FARMSTATION">Farm Station</link>
+ID FARMSTATION
+Description This station only has an effect on crops grown within the same room.
+
+Name <link="FISHDELIVERYPOINT">Fish Release</link>
+ID FISHDELIVERYPOINT
+Description This building must be built above liquid to prevent fish from suffocating.
+
+Name <link="FISHFEEDER">Fish Feeder</link>
+ID FISHFEEDER
+Description Build this feeder above a body of water to feed the fish within.
+
+Name <link="FISHTRAP">Fish Trap</link>
+ID FISHTRAP
+Description Trapped fish will automatically be bagged for transport.
+
+Name <link="RANCHSTATION">Grooming Station</link>
+ID RANCHSTATION
+Description Grooming critters make them look nice, smell pretty, feel happy, and produce more.
+
+Name <link="MACHINESHOP">Mechanics Station</link>
+ID MACHINESHOP
+Description Duplicants will only improve the efficiency of buildings in the same room as this station.
+
+Name <link="LOGICWIRE">Automation Wire</link>
+ID LOGICWIRE
+Description Automation wire is used to connect electronic components to the inputs of automation gates.
+
+Name <link="LOGICWIREBRIDGE">Automation Wire Bridge</link>
+ID LOGICWIREBRIDGE
+Description Wire bridges allow multiple automation grids to exist in a small area without connecting.
+
+Name <link="LOGICGATEAND">AND Gate</link>
+ID LOGICGATEAND
+Description This gate only turns buildings on when both the input buildings are on active the same time.
+
+Name <link="LOGICGATEOR">OR Gate</link>
+ID LOGICGATEOR
+Description This gate can only turn buildings on if it has one or more active inputs connected to it.
+
+Name <link="LOGICGATENOT">NOT Gate</link>
+ID LOGICGATENOT
+Description This gate reverses logic, turning buildings on when it receives off values and vice versa.
+
+Name <link="LOGICGATEXOR">XOR Gate</link>
+ID LOGICGATEXOR
+Description This gate needs exactly one of its inputs to be active to turn on buildings.
+
+Name <link="LOGICGATEBUFFER">BUFFER Gate</link>
+ID LOGICGATEBUFFER
+Description This gate will keep buildings running for a short time after the input building is deactivated.
+
+Name <link="LOGICGATEFILTER">FILTER Gate</link>
+ID LOGICGATEFILTER
+Description This gate will keep buildings turned off for a short time after the input building is activated.
+
+Name <link="LOGICMEMORY">Memory Toggle</link>
+ID LOGICMEMORY
+Description Once active, a memory toggle keeps buildings on until the reset port receives an active signal.
+
+Name <link="LOGICSWITCH">Signal Switch</link>
+ID LOGICSWITCH
+Description Signal switches do not turn grids on and off like power switches, but add an additional signal.
+
+Name <link="LOGICPRESSURESENSORGAS">Atmo Sensor</link>
+ID LOGICPRESSURESENSORGAS
+Description Atmo Sensors can be used to prevent excess oxygen production and overpressurization.
+
+Name <link="LOGICPRESSURESENSORLIQUID">Hydro Sensor</link>
+ID LOGICPRESSURESENSORLIQUID
+Description A hydro sensor can tell a pump to refill its basin as soon as it contains too little liquid.
+
+Name <link="LOGICTEMPERATURESENSOR">Thermo Sensor</link>
+ID LOGICTEMPERATURESENSOR
+Description Thermo sensors can auto-disable buildings when they approach dangerous temperatures.
+
+Name <link="LOGICTIMEOFDAYSENSOR">Clock Sensor</link>
+ID LOGICTIMEOFDAYSENSOR
+Description Clock sensors ensure that systems always turn on at the same time, day or night, every cycle.
+
+Name <link="LOGICCRITTERCOUNTSENSOR">Critter Sensor</link>
+ID LOGICCRITTERCOUNTSENSOR
+Description Detecting critter populations can help adjust their automated feeding and care regiments.
+
+Name <link="LOGICDISEASESENSOR">Germ Sensor</link>
+ID LOGICDISEASESENSOR
+Description Automatically detecting germ populations can help block off or clean up dangerous areas.
+
+Name <link="LOGICELEMENTSENSORGAS">Gas Element Sensor</link>
+ID LOGICELEMENTSENSORGAS
+Description These sensors can detect the presence of a specific gas and alter systems accordingly.
+
+Name <link="LOGICELEMENTSENSORLIQUID">Liquid Element Sensor</link>
+ID LOGICELEMENTSENSORLIQUID
+Description These sensors can detect the presence of a specific liquid and alter systems accordingly.
+
+Name <link="GASCONDUITDISEASESENSOR">Gas Pipe Germ Sensor</link>
+ID GASCONDUITDISEASESENSOR
+Description Germ sensors are used to control automation behaviour in the presence of disease.
+
+Name <link="LIQUIDCONDUITDISEASESENSOR">Liquid Pipe Germ Sensor</link>
+ID LIQUIDCONDUITDISEASESENSOR
+Description Germ sensors are used to control automation behaviour in the presence of disease.
+
+Name <link="GASCONDUITELEMENTSENSOR">Gas Pipe Element Sensor</link>
+ID GASCONDUITELEMENTSENSOR
+Description Element sensors can be used to detect the presence of a specific gas in a pipe.
+
+Name <link="LIQUIDCONDUITELEMENTSENSOR">Liquid Pipe Element Sensor</link>
+ID LIQUIDCONDUITELEMENTSENSOR
+Description Element sensors can be used to detect the presence of a specific liquid in a pipe.
+
+Name <link="GASCONDUITTEMPERATURESENSOR">Gas Pipe Thermo Sensor</link>
+ID GASCONDUITTEMPERATURESENSOR
+Description Thermo sensors can disable buildings when their pipe contents reach a certain temperature.
+
+Name <link="LIQUIDCONDUITTEMPERATURESENSOR">Liquid Pipe Thermo Sensor</link>
+ID LIQUIDCONDUITTEMPERATURESENSOR
+Description Thermo sensors can disable buildings when their pipe contents reach a certain temperature.
+
+Name <link="TRAVELTUBEENTRANCE">Transit Tube Access</link>
+ID TRAVELTUBEENTRANCE
+Description Access points are required for Duplicants to enter tubes, but are not required to exit them.
+
+Name <link="TRAVELTUBE">Transit Tube</link>
+ID TRAVELTUBE
+Description Duplicants will only exit a transit tube when a safe landing area is available beneath it.
+
+Name <link="TRAVELTUBEWALLBRIDGE">Transit Tube Crossing</link>
+ID TRAVELTUBEWALLBRIDGE
+Description Tube crossings can run transit tubes through walls without leaking gas or liquid.
+
+Name <link="SOLIDCONDUIT">Conveyor Rail</link>
+ID SOLIDCONDUIT
+Description Rails automatically move materials where they'll be needed most, saving Duplicants the walk.
+
+Name <link="SOLIDCONDUITINBOX">Conveyor Loader</link>
+ID SOLIDCONDUITINBOX
+Description The filters on a loader can be used to determine what materials should be sent down the rail.
+
+Name <link="SOLIDCONDUITOUTBOX">Conveyor Receptacle</link>
+ID SOLIDCONDUITOUTBOX
+Description When materials reach the end of a rail they enter a receptacle to be used by Duplicants.
+
+Name <link="SOLIDTRANSFERARM">Auto-Sweeper</link>
+ID SOLIDTRANSFERARM
+Description An auto-sweeper's suction range can be viewed at any time by clicking on the building.
+
+Name <link="SOLIDCONDUITBRIDGE">Conveyor Bridge</link>
+ID SOLIDCONDUITBRIDGE
+Description Separating rail systems helps prevent materials from reaching the wrong destinations.
+
+Name <link="AUTOMINER">Robo-Miner</link>
+ID AUTOMINER
+Description A robo-miner's range can be viewed at any time by selecting the building.
+
+Name <link="CREATUREFEEDER">Critter Feeder</link>
+ID CREATUREFEEDER
+Description Critters tend to stay close to their food source and will wander less when given a Feeder.
+
+Name <link="ITEMPEDESTAL">Pedestal</link>
+ID ITEMPEDESTAL
+Description Perception can be drastically changed by a bit of thoughtful presentation.
+
+Name <link="CROWNMOULDING">Crown Moulding</link>
+ID CROWNMOULDING
+Description Crown moulding is used as purely decorative trim for ceilings.
+
+Name <link="CORNERMOULDING">Corner Moulding</link>
+ID CORNERMOULDING
+Description Corner moulding is used as purely decorative trim for ceiling corners.
+
+Name <link="EGGINCUBATOR">Incubator</link>
+ID EGGINCUBATOR
+Description Incubators can maintain the ideal internal conditions for several species of critter egg.
+
+Name <link="EGGCRACKER">Egg Cracker</link>
+ID EGGCRACKER
+Description Raw eggs are an ingredient in some high quality food recipes.
+
+Name <link="ASTRONAUTTRAININGCENTER">Space Cadet Centrifuge</link>
+ID ASTRONAUTTRAININGCENTER
+Description Duplicants must complete astronaut training in order to pilot space rockets.
+
+Name <link="MASSIVEHEATSINK">Anti Entropy Thermo-Nullifier</link>
+ID MASSIVEHEATSINK
+Description 
+
+Name <link="FACILITYBACKWALLWINDOW">Window</link>
+ID FACILITYBACKWALLWINDOW
+Description 
+
+Name <link="POIBUNKEREXTERIORDOOR">Security Door</link>
+ID POIBUNKEREXTERIORDOOR
+Description 
+
+Name <link="POIDOORINTERNAL">Security Door</link>
+ID POIDOORINTERNAL
+Description 
+
+Name <link="FACILITYDOOR">Lobby Doors</link>
+ID POIFACILITYDOOR
+Description 
+
+Name Vending Machine
+ID VENDINGMACHINE
+Description A pristine <link="FIELDRATION">Field Ration</link> dispenser.
+
+Name Neural Vacillator
+ID GENESHUFFLER
+Description A massive synthetic brain, suspended in saline solution.
+
+There is a chair attached to the device with room for one person.
+
+Name Table
+ID PROPTABLE
+Description A table and some chairs.
+
+Name Computer Desk
+ID PROPDESK
+Description An intact office desk, decorated with several personal belongings and a barely functioning computer.
+
+Name Lobby Chair
+ID PROPFACILITYCHAIR
+Description A chair where visitors can comfortably wait before their appointments.
+
+Name Lobby Couch
+ID PROPFACILITYCOUCH
+Description A couch where visitors can comfortably wait before their appointments.
+
+Name Director's Desk
+ID PROPFACILITYDESK
+Description A spotless desk filled with impeccably organized office supplies.
+
+A photo peeks out from beneath the desk pad, depicting two beaming young women in caps and gowns.
+
+The photo is quite old.
+
+Name Coffee Table
+ID PROPFACILITYTABLE
+Description A low coffee table that may have once held old science magazines.
+
+Name Gravitas Monument
+ID PROPFACILITYSTATUE
+Description A large, modern sculpture that sits in the center of the lobby.
+
+It's an artistic cross between an hourglass shape and a double helix.
+
+Name Chandelier
+ID PROPFACILITYCHANDELIER
+Description A large chandelier that hangs from the ceiling.
+
+It does not appear to function.
+
+Name Filing Cabinet
+ID PROPFACILITYGLOBEDROORS
+Description A filing cabinet for storing hard copy employee records.
+
+The contents have been shredded.
+
+Name Electronic Display
+ID PROPFACILITYDISPLAY1
+Description An electronic display projecting the blueprint of a familiar device.
+
+It looks like a Printing Pod.
+
+Name Electronic Display
+ID PROPFACILITYDISPLAY2
+Description An electronic display projecting the blueprint of a familiar device.
+
+It looks like a Mining Gun.
+
+Name Electronic Display
+ID PROPFACILITYDISPLAY3
+Description An electronic display projecting the blueprint of a strange device.
+
+Perhaps these displays were used to entice visitors.
+
+Name Office Plant
+ID PROPFACILITYTALLPLANT
+Description It's survived the vacuum of space by virtue of being plastic.
+
+Name Light Fixture
+ID PROPFACILITYLAMP
+Description A long light fixture that hangs from the ceiling.
+
+It does not appear to function.
+
+Name Doctorate Degree
+ID PROPFACILITYWALLDEGREE
+Description Certification in Applied Physics, awarded in recognition of one "Jacquelyn A. Stern".
+
+Name Landscape Portrait
+ID PROPFACILITYPAINTING
+Description A painting featuring a copse of fir trees and a magnificent mountain range on the horizon.
+
+The air in the room prickles with the sensation that I'm not meant to be here.
+
+Name Reception Desk
+ID PROPRECEPTIONDESK
+Description A full coffee cup and a note abandoned mid sentence sit behind the desk.
+
+It gives me an eerie feeling, as if the receptionist has stepped out and will return any moment.
+
+Name Broken Elevator
+ID PROPELEVATOR
+Description Out of service.
+
+The buttons inside indicate it went down more than a dozen floors at one point in time.
+
+Name Locker
+ID SETLOCKER
+Description A basic metal locker.
+
+It contains an assortment of personal effects.
+
+Name Light Fixture
+ID PROPLIGHT
+Description An elegant ceiling lamp, slightly worse for wear.
+
+Name Ladder
+ID PROPLADDER
+Description A hard plastic ladder.
+
+Name Model Skeleton
+ID PROPSKELETON
+Description A detailed anatomical model.
+
+It appears to be made of resin.
+
+Name Crashed Satellite
+ID PROPSURFACESATELLITE1
+Description All that remains of a once peacefully orbiting satellite.
+
+Name Wrecked Satellite
+ID PROPSURFACESATELLITE2
+Description All that remains of a once peacefully orbiting satellite.
+
+Name Crushed Satellite
+ID PROPSURFACESATELLITE3
+Description All that remains of a once peacefully orbiting satellite.
+
+Name Clock
+ID PROPCLOCK
+Description A simple wall clock.
+
+It is no longer ticking.
+
+
+
+Name MISSING.
+ID ENABLE_AUTODISINFECT
+
+Name MISSING.
+ID DISABLE_AUTODISINFECT
+
+
+
+Name Disinfect
+ID ENABLE_DISINFECT
+
+Name Cancel Disinfect
+ID DISABLE_DISINFECT
+
+
+
+Name Enable Autorepair
+ID ENABLE_AUTOREPAIR
+
+Name Disable Autorepair
+ID DISABLE_AUTOREPAIR
+
+
+Name MISSING.
+ID ENABLE_AUTOMATIONONLY
+
+Name MISSING.
+ID DISABLE_AUTOMATIONONLY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name MISSING.
+ID ATMO_SUIT
+Description MISSING.
+
+Name MISSING.
+ID AQUA_SUIT
+Description MISSING.
+
+Name MISSING.
+ID TEMPERATURE_SUIT
+Description MISSING.
+
+Name MISSING.
+ID JET_SUIT
+Description MISSING.
+
+Name MISSING.
+ID COOL_VEST
+Description MISSING.
+
+Name MISSING.
+ID WARM_VEST
+Description MISSING.
+
+Name MISSING.
+ID FUNKY_VEST
+Description MISSING.
+
+Name MISSING.
+ID OXYGEN_TANK
+Description MISSING.
+
+Name MISSING.
+ID OXYGEN_TANK_UNDERWATER
+Description MISSING.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,125 @@
+Elementhelp
+= Electrum : 39 HT: 1337 LT: 0 HTT: <link="MOLTENGOLD">Gold</link> LTT: 
+SolidCarbonDioxide : 40 HT: 216.6 LT: 0 HTT: <link="LIQUIDCARBONDIOXIDE">Carbon Dioxide</link> LTT: 
+CarbonFibre : 41 HT: 5000 LT: 0 HTT: <link="MOLTENCARBON">Carbon</link> LTT: 
+SolidPropane : 42 HT: 85 LT: 0 HTT: <link="LIQUIDPROPANE">Propane</link> LTT: 
+SedimentaryRock : 43 HT: 1200 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+Fullerene : 44 HT: 4200 LT: 0 HTT: <link="MOLTENCARBON">Carbon</link> LTT: 
+GoldAmalgam : 45 HT: 1337 LT: 0 HTT: <link="MOLTENGOLD">Gold</link> LTT: 
+LiquidMethane : 88 HT: 111.65 LT: 90.55 HTT: <link="METHANE">Natural Gas</link> LTT: <link="SOLIDMETHANE">Methane</link>
+Sand : 46 HT: 1986 LT: 0 HTT: <link="MOLTENGLASS">Molten Glass</link> LTT: 
+TungstenGas : 115 HT: 10000 LT: 6203 HTT:  LTT: <link="MOLTENTUNGSTEN">Tungsten</link>
+Snow : 47 HT: 272.5 LT: 0 HTT: <link="WATER">Water</link> LTT: 
+SandStone : 48 HT: 1200 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+MoltenIron : 89 HT: 3023 LT: 1808 HTT: <link="IRONGAS">Iron</link> LTT: <link="IRON">Iron</link>
+MoltenCarbon : 90 HT: 5100 LT: 3825 HTT: <link="CARBONGAS">Carbon</link> LTT: <link="REFINEDCARBON">Refined Carbon</link>
+Glass : 49 HT: 1700 LT: 0 HTT: <link="MOLTENGLASS">Molten Glass</link> LTT: 
+ContaminatedOxygen : 116 HT: 10000 LT: 90.19 HTT:  LTT: <link="LIQUIDOXYGEN">Oxygen</link>
+Vacuum : 122 HT: 0 LT: 0 HTT:  LTT: 
+Clay : 50 HT: 1200 LT: 0 HTT: <link="CERAMIC">Ceramic</link> LTT: 
+ToxicSand : 51 HT: 1986 LT: 0 HTT: <link="MOLTENGLASS">Molten Glass</link> LTT: 
+Ice : 52 HT: 272.5 LT: 0 HTT: <link="WATER">Water</link> LTT: 
+Carbon : 53 HT: 550 LT: 0 HTT: <link="REFINEDCARBON">Refined Carbon</link> LTT: 
+SolidOxygen : 54 HT: 54.36 LT: 0 HTT: <link="LIQUIDOXYGEN">Oxygen</link> LTT: 
+Creature : 55 HT: 10000 LT: 0 HTT: <link="CREATURE">Genetic Ooze</link> LTT: 
+Katairite : 56 HT: 3695 LT: 0 HTT: <link="MOLTENTUNGSTEN">Tungsten</link> LTT: 
+Naphtha : 91 HT: 812 LT: 223 HTT: <link="SOURGAS">Sour Gas</link> LTT: <link="SOLIDNAPHTHA">Naphtha</link>
+SolidMethane : 57 HT: 111.65 LT: 0 HTT: <link="LIQUIDMETHANE">Methane</link> LTT: 
+OxyRock : 58 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+MaficRock : 59 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+Iron : 60 HT: 1808 LT: 0 HTT: <link="MOLTENIRON">Iron</link> LTT: 
+LiquidPhosphorus : 92 HT: 553.6 LT: 317.3 HTT: <link="PHOSPHORUSGAS">Phosphorus</link> LTT: <link="PHOSPHORUS">Phosphorus</link>
+Regolith : 61 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+Slabs : 62 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+Bitumen : 63 HT: 812 LT: 0 HTT: <link="CARBONDIOXIDE">Carbon Dioxide</link> LTT: 
+MoltenSteel : 93 HT: 4100 LT: 1357 HTT: <link="STEELGAS">Steel</link> LTT: <link="STEEL">Steel</link>
+MoltenNiobium : 94 HT: 5017 LT: 2750 HTT: <link="NIOBIUMGAS">Niobium</link> LTT: <link="NIOBIUM">Niobium</link>
+IronGas : 117 HT: 10000 LT: 3023 HTT:  LTT: <link="MOLTENIRON">Iron</link>
+TempConductorSolid : 64 HT: 2950 LT: 0 HTT: <link="MOLTENNIOBIUM">Niobium</link> LTT: 
+IronOre : 65 HT: 1808 LT: 0 HTT: <link="MOLTENIRON">Iron</link> LTT: 
+Dirt : 66 HT: 600 LT: 0 HTT: <link="SAND">Sand</link> LTT: 
+Cement : 67 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+DirtyIce : 68 HT: 252.5 LT: 0 HTT: <link="DIRTYWATER">Polluted Water</link> LTT: 
+CementMix : 69 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+Mercury : 95 HT: 629.9 LT: 234.3 HTT: <link="MERCURYGAS">Mercury</link> LTT: <link="SOLIDMERCURY">Mercury</link>
+Fossil : 70 HT: 1612 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+DirtyWater : 96 HT: 392.5 LT: 252.5 HTT: <link="STEAM">Steam</link> LTT: <link="DIRTYICE">Polluted Ice</link>
+Water : 97 HT: 372.5 LT: 272.5 HTT: <link="STEAM">Steam</link> LTT: <link="ICE">Ice</link>
+Unobtanium : 71 HT: 10000 LT: 0 HTT: <link="UNOBTANIUM">Neutronium</link> LTT: 
+PhosphorusGas : 118 HT: 10000 LT: 553.6 HTT:  LTT: <link="LIQUIDPHOSPHORUS">Phosphorus</link>
+CarbonDioxide : 119 HT: 10000 LT: 225 HTT:  LTT: <link="LIQUIDCARBONDIOXIDE">Carbon Dioxide</link>
+CopperGas : 120 HT: 10000 LT: 2834 HTT:  LTT: <link="MOLTENCOPPER">Copper</link>
+FoolsGold : 72 HT: 1357 LT: 0 HTT: <link="MOLTENIRON">Iron</link> LTT: 
+MoltenCopper : 98 HT: 2834 LT: 1357 HTT: <link="COPPERGAS">Copper</link> LTT: <link="COPPER">Copper</link>
+CrushedIce : 0 HT: 272.5 LT: 0 HTT: <link="WATER">Water</link> LTT: 
+SulfurGas : 99 HT: 10000 LT: 610.15 HTT:  LTT: <link="LIQUIDSULFUR">Liquid Sulfur</link>
+Diamond : 1 HT: 4200 LT: 0 HTT: <link="MOLTENCARBON">Carbon</link> LTT: 
+Aerogel : 2 HT: 10000 LT: 0 HTT: <link="KATAIRITE">Abyssalite</link> LTT: 
+Isoresin : 3 HT: 373.15 LT: 0 HTT: <link="NAPHTHA">Naphtha</link> LTT: 
+LiquidHelium : 73 HT: 4.22 LT: 0 HTT: <link="HELIUM">Helium</link> LTT: 
+LiquidOxygen : 74 HT: 90.19 LT: 54.36 HTT: <link="OXYGEN">Oxygen</link> LTT: <link="SOLIDOXYGEN">Oxygen</link>
+PhosphateNodules : 4 HT: 700 LT: 0 HTT: <link="LIQUIDPHOSPHORUS">Phosphorus</link> LTT: 
+Algae : 5 HT: 398.15 LT: 0 HTT: <link="DIRT">Dirt</link> LTT: 
+Propane : 100 HT: 10000 LT: 231 HTT:  LTT: <link="LIQUIDPROPANE">Propane</link>
+Niobium : 6 HT: 2750 LT: 0 HTT: <link="MOLTENNIOBIUM">Niobium</link> LTT: 
+Cuprite : 7 HT: 1357 LT: 0 HTT: <link="MOLTENCOPPER">Copper</link> LTT: 
+Copper : 8 HT: 1357 LT: 0 HTT: <link="MOLTENCOPPER">Copper</link> LTT: 
+CrushedRock : 9 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+SuperInsulator : 10 HT: 3895 LT: 0 HTT: <link="MOLTENTUNGSTEN">Tungsten</link> LTT: 
+ViscoGel : 75 HT: 753 LT: 242.5 HTT: <link="NAPHTHA">Naphtha</link> LTT: <link="SOLIDVISCOGEL">Visco-Gel</link>
+NiobiumGas : 101 HT: 10000 LT: 5017 HTT:  LTT: <link="MOLTENNIOBIUM">Niobium</link>
+Helium : 102 HT: 10000 LT: 4.22 HTT:  LTT: <link="LIQUIDHELIUM">Helium</link>
+Oxygen : 103 HT: 10000 LT: 90.19 HTT:  LTT: <link="LIQUIDOXYGEN">Oxygen</link>
+LiquidCarbonDioxide : 76 HT: 225 LT: 216.6 HTT: <link="CARBONDIOXIDE">Carbon Dioxide</link> LTT: <link="SOLIDCARBONDIOXIDE">Carbon Dioxide</link>
+SolidViscoGel : 11 HT: 242.5 LT: 0 HTT: <link="VISCOGEL">Visco-Gel</link> LTT: 
+Ceramic : 12 HT: 2123 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+Void : 121 HT: 0 LT: 0 HTT:  LTT: 
+CrudeOil : 77 HT: 673 LT: 233 HTT: <link="PETROLEUM">Petroleum</link> LTT: <link="SOLIDCRUDEOIL">Crude Oil</link>
+SteelGas : 104 HT: 10000 LT: 4100 HTT:  LTT: <link="MOLTENSTEEL">Steel</link>
+Fertilizer : 13 HT: 398.15 LT: 0 HTT: <link="DIRT">Dirt</link> LTT: 
+ChlorineGas : 105 HT: 10000 LT: 238.55 HTT:  LTT: <link="CHLORINE">Chlorine</link>
+MoltenGlass : 78 HT: 2630 LT: 1400 HTT: <link="ROCKGAS">Rock Gas</link> LTT: <link="GLASS">Glass</link>
+SolidCrudeOil : 14 HT: 233 LT: 0 HTT: <link="CRUDEOIL">Crude Oil</link> LTT: 
+Wolframite : 15 HT: 3200 LT: 0 HTT: <link="MOLTENTUNGSTEN">Tungsten</link> LTT: 
+SlimeMold : 16 HT: 398.15 LT: 0 HTT: <link="DIRT">Dirt</link> LTT: 
+Polypropylene : 17 HT: 433 LT: 0 HTT: <link="NAPHTHA">Naphtha</link> LTT: 
+SolidNaphtha : 18 HT: 223 LT: 0 HTT: <link="NAPHTHA">Naphtha</link> LTT: 
+LiquidSulfur : 79 HT: 610.15 LT: 388.35 HTT: <link="SULFURGAS">Sulfur</link> LTT: <link="SULFUR">Sulfur</link>
+MoltenGold : 80 HT: 3129 LT: 1337 HTT: <link="GOLDGAS">Gold</link> LTT: <link="GOLD">Gold</link>
+Magma : 81 HT: 2630 LT: 1683 HTT: <link="ROCKGAS">Rock Gas</link> LTT: <link="IGNEOUSROCK">Igneous Rock</link>
+Tungsten : 19 HT: 3695 LT: 0 HTT: <link="MOLTENTUNGSTEN">Tungsten</link> LTT: 
+Hydrogen : 106 HT: 10000 LT: 21 HTT:  LTT: <link="LIQUIDHYDROGEN">Hydrogen</link>
+SandCement : 20 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+SourGas : 107 HT: 10000 LT: 111.65 HTT:  LTT: <link="LIQUIDMETHANE">Methane</link>
+RefinedCarbon : 21 HT: 4600 LT: 0 HTT: <link="MOLTENCARBON">Carbon</link> LTT: 
+Steam : 108 HT: 10000 LT: 372.5 HTT:  LTT: <link="WATER">Water</link>
+Steel : 22 HT: 2700 LT: 0 HTT: <link="MOLTENSTEEL">Steel</link> LTT: 
+Chlorine : 82 HT: 238.55 LT: 172.17 HTT: <link="CHLORINEGAS">Chlorine</link> LTT: <link="SOLIDCHLORINE">Chlorine</link>
+Phosphorite : 23 HT: 517 LT: 0 HTT: <link="LIQUIDPHOSPHORUS">Phosphorus</link> LTT: 
+SolidHydrogen : 24 HT: 14 LT: 0 HTT: <link="LIQUIDHYDROGEN">Hydrogen</link> LTT: 
+Methane : 109 HT: 10000 LT: 111.65 HTT:  LTT: <link="LIQUIDMETHANE">Methane</link>
+MercuryGas : 110 HT: 10000 LT: 629.9 HTT:  LTT: <link="MERCURY">Mercury</link>
+BleachStone : 25 HT: 942 LT: 0 HTT: <link="CHLORINE">Chlorine</link> LTT: 
+GoldGas : 111 HT: 10000 LT: 3129 HTT:  LTT: <link="MOLTENGOLD">Gold</link>
+LiquidHydrogen : 83 HT: 21 LT: 14 HTT: <link="HYDROGEN">Hydrogen</link> LTT: <link="SOLIDHYDROGEN">Hydrogen</link>
+Sulfur : 26 HT: 388.35 LT: 0 HTT: <link="LIQUIDSULFUR">Liquid Sulfur</link> LTT: 
+Lime : 27 HT: 1330 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+SolidChlorine : 28 HT: 172.17 LT: 0 HTT: <link="CHLORINE">Chlorine</link> LTT: 
+LiquidPropane : 84 HT: 231 LT: 85 HTT: <link="PROPANE">Propane</link> LTT: <link="SOLIDPROPANE">Propane</link>
+SolidMercury : 29 HT: 234.3 LT: 0 HTT: <link="MERCURY">Mercury</link> LTT: 
+MoltenTungsten : 85 HT: 6203 LT: 3695 HTT: <link="TUNGSTENGAS">Tungsten</link> LTT: <link="TUNGSTEN">Tungsten</link>
+Petroleum : 86 HT: 812 LT: 216 HTT: <link="SOURGAS">Sour Gas</link> LTT: <link="SOLIDPETROLEUM">Petroleum</link>
+Obsidian : 30 HT: 3000 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+SolidPetroleum : 31 HT: 216 LT: 0 HTT: <link="PETROLEUM">Petroleum</link> LTT: 
+RockGas : 112 HT: 10000 LT: 2630 HTT:  LTT: <link="MAGMA">Magma</link>
+SolidSuperCoolant : 32 HT: 2 LT: 0 HTT: <link="SUPERCOOLANT">Super Coolant</link> LTT: 
+IgneousRock : 33 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+Brick : 34 HT: 1683 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+CarbonGas : 113 HT: 10000 LT: 5100 HTT:  LTT: <link="MOLTENCARBON">Carbon</link>
+Gold : 35 HT: 1337 LT: 0 HTT: <link="MOLTENGOLD">Gold</link> LTT: 
+Phosphorus : 36 HT: 317.3 LT: 0 HTT: <link="LIQUIDPHOSPHORUS">Phosphorus</link> LTT: 
+SuperCoolant : 87 HT: 710 LT: 2 HTT: <link="SUPERCOOLANTGAS">Super Coolant</link> LTT: <link="SOLIDSUPERCOOLANT">Super Coolant</link>
+Granite : 37 HT: 942 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+Radium : 38 HT: 1233 LT: 0 HTT: <link="MAGMA">Magma</link> LTT: 
+SuperCoolantGas : 114 HT: 10000 LT: 710 HTT:  LTT: <link="SUPERCOOLANT">Super Coolant</link>
+
