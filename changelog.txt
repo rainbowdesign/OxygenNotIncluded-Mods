@@ -1,0 +1,12 @@
+Version 1.4: 
+Added a version system.
+Added a bunch of new buildings.
+Version 1.5: 
+Updated for QoL 
+Added a new config system for scripts.
+Version 1.6:
+Extendet the config system for scripts.
+Added Endgame Refinerys.
+Added Recipes to refinerys especially compatible with The Rock map.
+Added Steam Turbine Alternative.
+Added Song Blacklist.
