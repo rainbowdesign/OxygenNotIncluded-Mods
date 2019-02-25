@@ -61,11 +61,6 @@
     - **SongBlacklist.dll**
       - Allows you to prevent songs from playing.
       - 1 new ui adaption.
-
-    - **SteamTurbineAlternative.dll**
-      - Changing the steam turbine to be less demanding in steam amount and needing in temperature.
-      - Making the turbine easier to handle.
-      - 1 gameplay change.
     
 
 - **Other Mods:**
