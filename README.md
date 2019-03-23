@@ -11,8 +11,11 @@
         - Start a new game if you want to have the scripts running.
         - if you want to change the scripts running in a already existing savegame you can edit the file in savegamestats.
         - For the version 1.05 please check https://forums.kleientertainment.com/forums/topic/100605-exciting-world-mod-105/
-        - Beta testversion is semi stable but still can sontain bugs you usually can use them.
-        - Alphas might not be stable.
+
+    - **Important:**
+        - ImprovedAnimalsMod is not compatible with other Animal changing mods.
+        
+        
     - The following Content is in the mod (Version 1.6):
      
     - **Total changes:** 
@@ -58,9 +61,6 @@
       - You can grow slime and chlorine from water.
       - 1 new building.
 
-    - **SongBlacklist.dll**
-      - Allows you to prevent songs from playing.
-      - 1 new ui adaption.
     
 
 - **Other Mods:**
