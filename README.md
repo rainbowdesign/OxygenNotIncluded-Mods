@@ -1,5 +1,5 @@
-- **Exciting World**
-
+- **Exciting World** 
+    - The recent Version 1.6 is for QoL2. Experimental releases are supportet not before 1-2 weeks after release.
     - An awesome meta mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that my older mods are already included in the zip.
         
     
