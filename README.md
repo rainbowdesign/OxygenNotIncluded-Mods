@@ -1,5 +1,5 @@
 - **Exciting World** 
-    - The recent Version 1.6 is for QoL2. Experimental releases are supportet not before 1-2 weeks after release.
+    - The recent Version 1.7 is for QoL3. Experimental releases are supported not before 1-2 weeks after release.
     - An awesome meta mod that changes the whole game. Features are: scripts that change the map. nuclear power, new buildings. Please note that my older mods are already included in the zip.
         
     
@@ -16,7 +16,7 @@
         - ImprovedAnimalsMod is not compatible with other Animal changing mods.
         
         
-    - The following Content is in the mod (Version 1.6):
+    - The following Content is in the mod (Version 1.7):
      
     - **Total changes:** 
       - About 70 minor mods / adaptions.
@@ -55,7 +55,7 @@
     - **NuclearPowerMod.dll**
       - Adds lategame Nuclear Power to use with the steam engine.
       - Also includes the Mercury mod for high power cooling.
-      - 2 new buildings, 1 sickness and 3 elements aswell and Nuclear Power as concept.
+      - 2 new buildings and 3 elements aswell and Nuclear Power as concept. No longer radioactivity as disease need to wait for modding support.
     
     - **SlimeGrower.dll**
       - You can grow slime and chlorine from water.
